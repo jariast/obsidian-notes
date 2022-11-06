@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "a3df9426971ab83d",
+        "id": "215bd5dfe094e0d7",
         "type": "tabs",
         "children": [
           {
-            "id": "815fadbdc61ba351",
+            "id": "36956b66ae791e07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "Redux.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "bd56d7e78da0ee6c"
+          }
+        ]
+      },
+      {
+        "id": "f6f1cf417d5bd388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42226d6b7072f240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redux.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "bd56d7e78da0ee6c"
           }
         ]
       }
@@ -65,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -81,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Redux.md"
+              }
             }
           }
         ]
@@ -128,6 +157,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "815fadbdc61ba351",
+  "active": "36956b66ae791e07",
   "lastOpenFiles": []
 }
