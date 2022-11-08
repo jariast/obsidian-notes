@@ -27,10 +27,22 @@ new Date().toISOString()
 })
 ```
 
-- In order to isolate components from state implementation, we could use reusable selector functions inside the slice files:
+- In order to isolate components from state implementation, we could use reusable selector functions inside the slice files: #selectors #sliceFiles
 ```js
 export const selectAllPosts = state => state.posts
 
 export const selectPostById = (state, postId) =>
   state.posts.find(post => post.id === postId)
+```
+They can be used like this in the component:
+```js
+// omit imports
+import { selectPostById } from './postsSlice'
+
+export const SinglePostPage = ({ match }) => {
+  const { postId } = match.params
+
+  const post = useSelector(state => selectPostById(state, postId))
+  // omit component logic
+}
 ```
