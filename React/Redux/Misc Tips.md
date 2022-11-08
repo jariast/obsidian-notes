@@ -46,3 +46,5 @@ export const SinglePostPage = ({ match }) => {
   // omit component logic
 }
 ```
+
+- If using `createAsyncThunk` 
