@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redux/Misc Tips.md",
+                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redux/Misc Tips.md",
+                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redux/Misc Tips.md",
+                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redux/Misc Tips.md",
+                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redux/Misc Tips.md"
+                "file": "FullStack Course/Part7/Extending BlogList Exercises.md"
               }
             }
           }
@@ -159,7 +159,8 @@
   },
   "active": "36956b66ae791e07",
   "lastOpenFiles": [
-    "Redux/General Info.md",
-    "Redux/Misc Tips.md"
+    "Redux/Misc Tips.md",
+    "FullStack Course/Part7/Extending BlogList Exercises.md",
+    "Redux/General Info.md"
   ]
 }
