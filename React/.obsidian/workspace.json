@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redux.md",
+                "file": "Redux/Misc Tips.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "bd56d7e78da0ee6c"
+            "group": "b8cb6187a18cf51f"
           }
         ]
       },
@@ -32,12 +32,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redux.md",
+                "file": "Redux/Misc Tips.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "bd56d7e78da0ee6c"
+            "group": "b8cb6187a18cf51f"
           }
         ]
       }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redux.md",
+                "file": "Redux/Misc Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redux.md",
+                "file": "Redux/Misc Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redux.md"
+                "file": "Redux/Misc Tips.md"
               }
             }
           }
@@ -158,5 +157,8 @@
     "collapsed": true
   },
   "active": "36956b66ae791e07",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Redux/General Info.md",
+    "Redux/Misc Tips.md"
+  ]
 }
