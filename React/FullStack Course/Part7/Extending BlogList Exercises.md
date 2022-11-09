@@ -21,3 +21,8 @@ export const createBlog = createAsyncThunk(
 ## Moving Blog Creation logic
 
 I moved the handling of Blog Creation to `BlogsForm.js` file. The obvious advantage of this is that `BlogsList` has a lot less logic in it, one downside that I should review later is how to Toggle the visibility from the `Blogsform` itself. We could use one of the actions in order to update the `status` of the state to have an specific value when a blog is created. #TODO #reviewLater
+
+# 7.12 Redux, step3
+
+## Liking blog
+Is not updating the blog in the state.
