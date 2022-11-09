@@ -1,3 +1,5 @@
+[Link](https://fullstackopen.com/en/part7/exercises_extending_the_bloglist)
+
 # 7.11 Redux, step2
 
 ## Creating Blog Redux
@@ -25,4 +27,20 @@ I moved the handling of Blog Creation to `BlogsForm.js` file. The obvious advant
 # 7.12 Redux, step3
 
 ## Liking blog
+#immer #stateMutation
 Is not updating the blog in the state.
+Update: I was reassigning the blog, and this is a [Pitfall](https://immerjs.github.io/immer/pitfalls/#dont-reassign-the-recipe-argument) of using Immer. After updating the likes directly on the "old" blog, the state is updating correctly. [[General Info#Immer Basics#Mutate or Return a state object]]
+
+```js
+addCase(likeBlog.fulfilled, (state, action) => {
+	const updatedBlog = action.payload;
+	let existingBlog = state.blogs.find((blog) => {
+	  return blog.id === updatedBlog.id;
+	});
+	if (existingBlog) {
+	  existingBlog.likes = updatedBlog.likes;
+	}
+});
+```
+
+This also could be avoided by copying the state and returning a new updated state (the functional programming way).

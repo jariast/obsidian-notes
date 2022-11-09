@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#stateMutation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,8 +161,8 @@
   "active": "36956b66ae791e07",
   "lastOpenFiles": [
     "Redux/General Info.md",
+    "FullStack Course/Part7/Extending BlogList Exercises.md",
     "Redux/Misc Tips.md",
-    "General React/Hooks.md",
-    "FullStack Course/Part7/Extending BlogList Exercises.md"
+    "General React/Hooks.md"
   ]
 }

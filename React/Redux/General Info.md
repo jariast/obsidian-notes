@@ -56,3 +56,8 @@ ReactDOM.render(
 )
 ```
 
+# Immer Basics
+#immer
+## Mutate or Return a state object
+#stateMutation 
+It's extremely important to remember to mutate an object or return a new one, *never* do both. [Here](https://immerjs.github.io/immer/return/) are some examples of correct and incorrect state mutations.
