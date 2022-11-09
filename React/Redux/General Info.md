@@ -6,6 +6,10 @@
 - Do you need to cache the data?
 - Do you want to keep the data consisten while hot-reloading UI components?
 
+# Example App Repo
+
+[Github Link](https://github.com/reduxjs/redux-essentials-example-app)
+
 #redux-setup
 # How is the initial setup of Redux?
 - Install react-redux, redux and @reduxjs/toolkit

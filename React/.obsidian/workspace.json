@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
+                "file": "Redux/General Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
+                "file": "Redux/General Info.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
+                "file": "Redux/General Info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
+                "file": "Redux/General Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md"
+                "file": "Redux/General Info.md"
               }
             }
           }
@@ -160,9 +159,9 @@
   },
   "active": "36956b66ae791e07",
   "lastOpenFiles": [
-    "Redux/General Info.md",
-    "FullStack Course/Part7/Extending BlogList Exercises.md",
+    "General React/Hooks.md",
     "Redux/Misc Tips.md",
-    "General React/Hooks.md"
+    "Redux/General Info.md",
+    "FullStack Course/Part7/Extending BlogList Exercises.md"
   ]
 }

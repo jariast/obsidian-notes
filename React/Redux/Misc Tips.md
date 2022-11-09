@@ -49,4 +49,4 @@ export const SinglePostPage = ({ match }) => {
 }
 ```
 
-- In one of the [examples](https://redux.js.org/tutorials/essentials/part-6-performance-normalization#showing-new-notifications), we're rendering a list of notifications, in order to avoid flickering of old content, we'll use [[Hooks#useLayoutEffect]].
+- In one of the [examples](https://redux.js.org/tutorials/essentials/part-6-performance-normalization#showing-new-notifications), we're rendering a list of notifications, in order to avoid flickering of old content, we'll use [[Hooks#useLayoutEffect]]. #reactEffects
