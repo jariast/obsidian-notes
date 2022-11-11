@@ -66,3 +66,5 @@ blogsRouter.get('/', async (request, response) => {
 ```
 
 We're defaulting to not populating the user field if the `populate` query parameter is not present or is falsy. We're going to use the same approach with the `users` route, by default we're only going to return the Ids of blogs of an specific user.
+
+TODO: Actually use `createEntityAdapter` to manage normalized state.
