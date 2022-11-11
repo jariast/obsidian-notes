@@ -44,3 +44,25 @@ addCase(likeBlog.fulfilled, (state, action) => {
 ```
 
 This also could be avoided by copying the state and returning a new updated state (the functional programming way).
+
+# 7.13 Redux, step 4
+
+## Users view
+
+### Normalizing data
+
+#backend
+At this point I think it is important to normalize the state of the app. We are going to follow [Redux guide](https://redux.js.org/tutorials/essentials/part-6-performance-normalization#normalizing-data).
+But first, we must make sure that the Backend does not populate the users when querying for blogs. We make the following changes to the backend app:
+
+```js
+blogsRouter.get('/', async (request, response) => {
+  const shouldPopulate = request.query.populate;
+  const blogs = shouldPopulate
+    ? await Blog.find({}).populate('user', { username: 1, name: 1 })
+    : await Blog.find({});
+  response.json(blogs);
+});
+```
+
+We're defaulting to not populating the user field if the `populate` query parameter is not present or is falsy. We're going to use the same approach with the `users` route, by default we're only going to return the Ids of blogs of an specific user.
