@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
+                "file": "FullStack Course/Part7/React-Router.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
+                "file": "FullStack Course/Part7/React-Router.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,13 +85,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
+                "file": "FullStack Course/Part7/React-Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
+                "file": "FullStack Course/Part7/React-Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md"
+                "file": "FullStack Course/Part7/React-Router.md"
               }
             }
           }
@@ -158,11 +156,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "42226d6b7072f240",
+  "active": "36956b66ae791e07",
   "lastOpenFiles": [
+    "FullStack Course/Part7/Extending BlogList Exercises.md",
+    "FullStack Course/Part7/React-Router.md",
     "Redux/General Info.md",
     "General React/Hooks.md",
-    "Redux/Misc Tips.md",
-    "FullStack Course/Part7/Extending BlogList Exercises.md"
+    "Redux/Misc Tips.md"
   ]
 }
