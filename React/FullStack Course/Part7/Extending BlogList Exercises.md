@@ -72,3 +72,9 @@ TODO: Actually use `createEntityAdapter` to manage normalized state.
 ### createEntityAdapter
 
 `createEntityAdapter` API provides a way to store a collection of items in the normalized shape of `{ids: [], entities: {}}`. It will also provide a set of reducer functions and selectors to manage this kind of data arrangement.
+
+Thins to note on `blogsSlice` file:
+
+- The sortComparer we're using when creating the Adapter, will sort the **IDS** of the blogs, not the blogs themselves, so we must use the `selecBlogsIds` selectors to access the ordered blogs.
+- For the blog deletion we're using the `blogAdapter.removeOne` function as a reducer directly.
+- We changed the way we rendered the `BlogsList` and `Blog` components. On the List we're using the blogsIds to map each Blog component, we're also waiting for the request to succeed and that the BlogIds array is populated before rendering each `B`
