@@ -94,3 +94,20 @@ Thins to note on `blogsSlice` file:
 - The sortComparer we're using when creating the Adapter, will sort the **IDS** of the blogs, not the blogs themselves, so we must use the `selecBlogsIds` selectors to access the ordered blogs.
 - For the blog deletion we're using the `blogAdapter.removeOne` function as a reducer directly.
 - We changed the way we rendered the `BlogsList` and `Blog` components. On the List we're using the blogsIds to map each Blog component, we're also waiting for the request to succeed and that the BlogIds array is populated before rendering each `Blog` component.
+
+# 7.15 Individual user view
+
+## Routing woes
+
+In the [Fullstack app](https://fullstackopen.com/en/part7/react_router#parameterized-route-revisited) we're using a very different approach, instead of every Note component being in charge of selecting its state, the App component is using the `useMatch` function to retrieve the Note Id and then passes the `note` to the `Note` element.
+
+In the [Redux tutorial](https://redux.js.org/tutorials/essentials/part-4-using-data#adding-the-single-post-route) they're using a no longer supported way of using Routing:
+
+```js
+<Route exact path="/posts/:postId" component={SinglePostPage} />
+```
+This way was removed on V6 of React Router, now we must use the following pattern:
+
+```jsx
+<Route path="/users/:userId" element={<User />} />
+```
