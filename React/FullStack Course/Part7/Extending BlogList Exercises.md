@@ -103,7 +103,7 @@ In the [Fullstack app](https://fullstackopen.com/en/part7/react_router#parameter
 
 In the [Redux tutorial](https://redux.js.org/tutorials/essentials/part-4-using-data#adding-the-single-post-route) they're using a no longer supported way of using Routing:
 
-```js
+```jsx
 <Route exact path="/posts/:postId" component={SinglePostPage} />
 ```
 This way was removed on V6 of React Router, now we must use the following pattern:
@@ -111,3 +111,6 @@ This way was removed on V6 of React Router, now we must use the following patter
 ```jsx
 <Route path="/users/:userId" element={<User />} />
 ```
+
+In order to access the Route Params in the `User` component we now must use the `useParams` hook like shown in this [SO thread](https://stackoverflow.com/questions/64782949/how-to-pass-params-into-link-using-react-router-v6).
+
