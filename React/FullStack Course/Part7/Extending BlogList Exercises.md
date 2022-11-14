@@ -114,3 +114,10 @@ This way was removed on V6 of React Router, now we must use the following patter
 
 In order to access the Route Params in the `User` component we now must use the `useParams` hook like shown in this [SO thread](https://stackoverflow.com/questions/64782949/how-to-pass-params-into-link-using-react-router-v6).
 
+We'll default to showing a message like "No user found" when reloading the app inside a User route. There are more advanced [implementations](https://reactrouter.com/en/main/start/tutorial#loading-data) where we could load the required data before hand.
+
+We can also tell the app to load the Users and the Blog everytime it loads, this will result in the "No users found" flashin for a second before the User data is available.
+
+# Selecting User's posts
+
+We'll follow [this guide](https://redux.js.org/tutorials/essentials/part-6-performance-normalization#memoizing-selector-functions) on implementing Memoized selectors.
