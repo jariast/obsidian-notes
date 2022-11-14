@@ -49,6 +49,23 @@ This also could be avoided by copying the state and returning a new updated stat
 
 ## Users view
 
+We're using a very simple routing implementation: 
+```jsx
+<Router>
+  <h2>blogs</h2>
+  <p>{`${user.name} is logged in`}</p>
+  <button id="logout-button" onClick={handleLogout}>
+	Log out
+  </button>
+  <Routes>
+	<Route path="/users" element={<UsersList />} />
+	<Route path="/" element={<BlogsList />} />
+  </Routes>
+</Router>
+```
+
+By default the app we'll load the `BlogsList` component, but if the URL has `users` on its path, it will render the `UsersList`, right now the only way of accessing the Users List is by manually changing the URL.
+
 ### Normalizing data
 
 #backend
@@ -67,14 +84,13 @@ blogsRouter.get('/', async (request, response) => {
 
 We're defaulting to not populating the user field if the `populate` query parameter is not present or is falsy. We're going to use the same approach with the `users` route, by default we're only going to return the Ids of blogs of an specific user.
 
-TODO: Actually use `createEntityAdapter` to manage normalized state.
-
 ### createEntityAdapter
 
+#normalizedData #reducers
 `createEntityAdapter` API provides a way to store a collection of items in the normalized shape of `{ids: [], entities: {}}`. It will also provide a set of reducer functions and selectors to manage this kind of data arrangement.
 
 Thins to note on `blogsSlice` file:
 
 - The sortComparer we're using when creating the Adapter, will sort the **IDS** of the blogs, not the blogs themselves, so we must use the `selecBlogsIds` selectors to access the ordered blogs.
 - For the blog deletion we're using the `blogAdapter.removeOne` function as a reducer directly.
-- We changed the way we rendered the `BlogsList` and `Blog` components. On the List we're using the blogsIds to map each Blog component, we're also waiting for the request to succeed and that the BlogIds array is populated before rendering each `B`
+- We changed the way we rendered the `BlogsList` and `Blog` components. On the List we're using the blogsIds to map each Blog component, we're also waiting for the request to succeed and that the BlogIds array is populated before rendering each `Blog` component.
