@@ -118,6 +118,40 @@ We'll default to showing a message like "No user found" when reloading the app i
 
 We can also tell the app to load the Users and the Blog everytime it loads, this will result in the "No users found" flashin for a second before the User data is available.
 
-# Selecting User's posts
+## Selecting User's posts
 
-We'll follow [this guide](https://redux.js.org/tutorials/essentials/part-6-performance-normalization#memoizing-selector-functions) on implementing Memoized selectors.
+We'll follow [this guide](https://redux.js.org/tutorials/essentials/part-6-performance-normalization#memoizing-selector-functions) on implementing Memoized selectors. Implementation:
+
+```js
+export const selectBlogsByUser = createSelector(
+  [selectAllBlogs, (state, userId) => userId],
+  (blogs, userId) => blogs.filter((blog) => blog.user === userId)
+);
+```
+
+The createSelector function takes and array of Selector functions as *Inputs* and an OutPut Selector function is in charge of selecting the actual ouput.
+
+# 7.16 Blog View
+
+## Liking Blog revisited
+
+We were updating the state after a Blog Like like this:
+
+```js
+const existingBlog = state.entities[updatedBlog.id];
+if (existingBlog) {
+  existingBlog.likes = updatedBlog.likes;
+}
+```
+
+But the array with the Blogs Ids was not re-sorting the blogs, this was caused because the Sorting is only triggered by using one of the [CRUD](https://redux-toolkit.js.org/api/createEntityAdapter#crud-functions) functions exposed by the Entity Adapter. 
+
+The new implementation looks like this:
+
+```js
+blogsAdapter.updateOne(state, {
+  id: updatedBlog.id,
+  changes: { likes: updatedBlog.likes++ },
+});
+```
+
