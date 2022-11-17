@@ -155,3 +155,12 @@ blogsAdapter.updateOne(state, {
 });
 ```
 
+## Single Blog issues
+
+I think the biggest issue we're facing right now is managing what happens when the data required to show a Blog is missing. I think all this can be solved by using Router Loaders but this is something that will have to wait for later lessons.
+
+We also had to changed the blog creation End Point so it wouldn't populate the `user` field from the `blog` response object. #backend #normalizedData 
+
+## Misc changes
+
+I basically moved all the functionality from `Blog.js` to `SingleBlog.js`. 
