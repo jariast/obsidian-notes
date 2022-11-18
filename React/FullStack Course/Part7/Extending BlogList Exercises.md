@@ -164,3 +164,8 @@ We also had to changed the blog creation End Point so it wouldn't populate the `
 ## Misc changes
 
 I basically moved all the functionality from `Blog.js` to `SingleBlog.js`. 
+
+
+
+# 7.17 Navigation
+
