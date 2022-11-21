@@ -166,6 +166,9 @@ We also had to changed the blog creation End Point so it wouldn't populate the `
 I basically moved all the functionality from `Blog.js` to `SingleBlog.js`. 
 
 
-
 # 7.17 Navigation
+
+Pretty straightforward implementation of the Navbar.
+
+
 
