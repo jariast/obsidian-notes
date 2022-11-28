@@ -155,6 +155,14 @@ blogsAdapter.updateOne(state, {
 });
 ```
 
+**NB:** We introduced a bug by updating the likes once again in the changes object. Let's review the entire *Like* flow:
+
+1. User clicks Like
+2. The `likeBlog` asyncThunk receives the whole blog, and increments the the blog's likes.
+3. The service sends the request to the backend.
+4. The backend responds with the entire blog and the `likes` property with the value we set in step number 2.
+5. The reducer for the `likeblog.fulfilled` then updates the Blogs state, we were adding another `like` to that blog's likes.
+
 ## Single Blog issues
 
 I think the biggest issue we're facing right now is managing what happens when the data required to show a Blog is missing. I think all this can be solved by using Router Loaders but this is something that will have to wait for later lessons.
@@ -171,4 +179,8 @@ I basically moved all the functionality from `Blog.js` to `SingleBlog.js`.
 Pretty straightforward implementation of the Navbar.
 
 
+# 7.18 comments, step1
 
+At first I was considering creating a new whole slice for the Comments, but the requirement for the exercise was really simple, we don't need to store any user info or any other data for the comment, only the comment itself. With that in mind I think that the best approach was to just add a `comments` property to the `Blog` model. 
+
+I'm still not sure if the best approach is the one proposed in the notes for the exercise, in there they advice to use a `post` request, but I'm not creating a new `comment` object, I'm updating a `Blog` object.
