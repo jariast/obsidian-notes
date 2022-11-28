@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -150,14 +149,15 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "36956b66ae791e07",
+  "active": "3c1e30ecb7b33fe1",
   "lastOpenFiles": [
     "Redux/General Info.md",
     "Redux/Misc Tips.md",

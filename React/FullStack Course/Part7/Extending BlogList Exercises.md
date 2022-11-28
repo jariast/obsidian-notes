@@ -184,3 +184,10 @@ Pretty straightforward implementation of the Navbar.
 At first I was considering creating a new whole slice for the Comments, but the requirement for the exercise was really simple, we don't need to store any user info or any other data for the comment, only the comment itself. With that in mind I think that the best approach was to just add a `comments` property to the `Blog` model. 
 
 I'm still not sure if the best approach is the one proposed in the notes for the exercise, in there they advice to use a `post` request, but I'm not creating a new `comment` object, I'm updating a `Blog` object.
+
+In fact, if we follow the same procedure we're using for liking a blog, where we update the Blog *before* we send the request, we can use the same exact EndPoint to add comments. I think that this approach opens the app to some vulnerabilities, like the server can receive an entirely different object and we're replacing it without checking.
+
+#reviewLater 
+For future implementations I think is best for the Back End to be in charge of making all the required changes to the Object, and the Front End should only call the required EndPoint with the strictly necessary information.
+
+This surely requires further investigation.
