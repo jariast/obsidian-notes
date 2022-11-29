@@ -209,3 +209,4 @@ When looping through the comments on JSX, I realized that the comments don't hav
 
 # 7.20 & 7.21 Styles
 
+Not much to say about Bootstrap, we must remember to import the stylesheets in `index.html` file. Bootstrap sure it a very opinionated library, so changing some component styles is more complicated that one'd expect.
