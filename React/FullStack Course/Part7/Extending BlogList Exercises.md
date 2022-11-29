@@ -158,7 +158,7 @@ blogsAdapter.updateOne(state, {
 **NB:** We introduced a bug by updating the likes once again in the changes object. Let's review the entire *Like* flow:
 
 1. User clicks Like
-2. The `likeBlog` asyncThunk receives the whole blog, and increments the the blog's likes.
+2. The `likeBlog` asyncThunk receives the whole blog object, and increments the the blog's likes.
 3. The service sends the request to the backend.
 4. The backend responds with the entire blog and the `likes` property with the value we set in step number 2.
 5. The reducer for the `likeblog.fulfilled` then updates the Blogs state, we were adding another `like` to that blog's likes.
@@ -197,7 +197,7 @@ I was trying to update the `comments` array inside the asyncThunk function by `p
 
 `Cannot add property 0, object is not extensible redux`
 
-I switched it to using concat instead:
+I switched it to using `concat` instead:
 
 ```js
 blogToUpdate.comments = blogToUpdate.comments.concat(comment);
@@ -206,3 +206,6 @@ blogToUpdate.comments = blogToUpdate.comments.concat(comment);
 ## Showing commments  lists
 
 When looping through the comments on JSX, I realized that the comments don't have an Id for the `key` attribute, this might indicate that we used the wrong approach for implementing the comments functionality. If we create an entire new entity for Comments, we should have acces to their unique Ids.
+
+# 7.20 & 7.21 Styles
+
