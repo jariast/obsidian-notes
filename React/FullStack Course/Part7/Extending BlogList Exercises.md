@@ -179,7 +179,7 @@ I basically moved all the functionality from `Blog.js` to `SingleBlog.js`.
 Pretty straightforward implementation of the Navbar.
 
 
-# 7.18 comments, step1
+# 7.18 and 7.19 comments
 
 At first I was considering creating a new whole slice for the Comments, but the requirement for the exercise was really simple, we don't need to store any user info or any other data for the comment, only the comment itself. With that in mind I think that the best approach was to just add a `comments` property to the `Blog` model. 
 
@@ -191,3 +191,18 @@ In fact, if we follow the same procedure we're using for liking a blog, where we
 For future implementations I think is best for the Back End to be in charge of making all the required changes to the Object, and the Front End should only call the required EndPoint with the strictly necessary information.
 
 This surely requires further investigation.
+
+## Updating the blog object
+I was trying to update the `comments` array inside the asyncThunk function by `pushing` the new comment into the array, but was getting the following error:
+
+`Cannot add property 0, object is not extensible redux`
+
+I switched it to using concat instead:
+
+```js
+blogToUpdate.comments = blogToUpdate.comments.concat(comment);
+```
+
+## Showing commments  lists
+
+When looping through the comments on JSX, I realized that the comments don't have an Id for the `key` attribute, this might indicate that we used the wrong approach for implementing the comments functionality. If we create an entire new entity for Comments, we should have acces to their unique Ids.
