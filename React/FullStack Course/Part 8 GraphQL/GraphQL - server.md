@@ -1,0 +1,1 @@
+Unlike REST APIs, Graph uses POST requests for all its operations. The browsers sends a Query to the de API, describind the required data.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
+                "file": "FullStack Course/Part 8 GraphQL/GraphQL - server.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
-                "mode": "preview",
+                "file": "FullStack Course/Part 8 GraphQL/GraphQL - server.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
+                "file": "FullStack Course/Part 8 GraphQL/GraphQL - server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md",
+                "file": "FullStack Course/Part 8 GraphQL/GraphQL - server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,24 +146,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FullStack Course/Part7/Extending BlogList Exercises.md"
+                "file": "FullStack Course/Part 8 GraphQL/GraphQL - server.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3c1e30ecb7b33fe1",
+  "active": "36956b66ae791e07",
   "lastOpenFiles": [
+    "FullStack Course/Part 8.md",
+    "FullStack Course/Part 7/Extending BlogList Exercises.md",
+    "FullStack Course/Part 7/React-Router.md",
     "Redux/General Info.md",
     "Redux/Misc Tips.md",
-    "General React/Hooks.md",
-    "FullStack Course/Part7/Extending BlogList Exercises.md",
-    "FullStack Course/Part7/React-Router.md"
+    "General React/Hooks.md"
   ]
 }
