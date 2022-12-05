@@ -39,3 +39,15 @@ Assuming we have 4 persons, the response should look like this:
 }
 ```
 
+For queries with parameters like the `allPersons` query, we must define which fields from the `person` schema to return:
+
+```js
+query {
+  allPersons{
+    name
+    city
+    street
+  }
+}
+```
+
