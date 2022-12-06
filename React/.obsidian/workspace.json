@@ -150,14 +150,15 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "36956b66ae791e07",
+  "active": "3c1e30ecb7b33fe1",
   "lastOpenFiles": [
     "FullStack Course/Part 8 GraphQL/GraphQL - server.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
