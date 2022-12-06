@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStack Course/Part 8 GraphQL/GraphQL - server.md",
+                "file": "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStack Course/Part 8 GraphQL/GraphQL - server.md",
+                "file": "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FullStack Course/Part 8 GraphQL/GraphQL - server.md",
+                "file": "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FullStack Course/Part 8 GraphQL/GraphQL - server.md",
+                "file": "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FullStack Course/Part 8 GraphQL/GraphQL - server.md"
+                "file": "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md"
               }
             }
           }
@@ -157,8 +156,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "36956b66ae791e07",
+  "active": "b3ffc8a5a142f4c5",
   "lastOpenFiles": [
+    "FullStack Course/Part 8 GraphQL/GraphQL - server.md",
+    "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
     "FullStack Course/Part 8.md",
     "FullStack Course/Part 7/Extending BlogList Exercises.md",
     "FullStack Course/Part 7/React-Router.md",
