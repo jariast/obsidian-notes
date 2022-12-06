@@ -51,3 +51,63 @@ query {
 }
 ```
 
+## Apollo Server
+
+The current most popular library is Apollo server:
+
+`npm install @apollo/server graphql`
+
+The server is defined inside a `index.js` file. Inside the file we'll define the schema and the queries like shown above, we save those definitions in a variable like so:
+
+```js
+const typedDefs = glq`schema and queries go here`
+```
+
+Inside the file we also define `resolvers`, which is the code that defines how GraphQL queries are responded to.
+
+```js
+const resolvers = {
+  Query: {
+    personCount: () => persons.length,
+    allPersons: () => persons,
+    findPerson: (root, args) =>
+      persons.find(p => p.name === args.name)
+  }
+}
+```
+
+## Mutations
+
+All operation which cause a change are done with *mutations*. Example:
+
+```js
+type Mutation {
+  addPerson(
+    name: String!
+    phone: String
+    street: String!
+    city: String!
+  ): Person
+}
+```
+
+If the operation succeeds, the new Person is returned, otherwise it returns null.
+We must provide a *resolver* for the Mutation:
+
+```js
+const { v1: uuid } = require('uuid')
+
+// ...
+
+const resolvers = {
+  // ...
+  Mutation: {
+    addPerson: (root, args) => {
+      const person = { ...args, id: uuid() }
+      persons = persons.concat(person)
+      return person
+    }
+  }
+}
+```
+
