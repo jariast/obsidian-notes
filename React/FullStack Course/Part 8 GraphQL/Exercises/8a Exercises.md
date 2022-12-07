@@ -61,4 +61,6 @@ The queries are pretty straightforward, we only need to implement the queries ty
 
 # 8.3 All Authors
 
-The exercise calls for the query to be able to return `bookCount` field, sowe
+The exercise calls for the query to be able to return `bookCount` field, so we must add that field to the Author schema, since the Object stored in our arrays don't have that field, we must write a resolver for it.
+
+I think that resolver is a good place to practice Functional Programming. #TODO #functional
