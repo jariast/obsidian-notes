@@ -58,3 +58,7 @@ startStandaloneServer(server, {
 ## Queries
 
 The queries are pretty straightforward, we only need to implement the queries types. The Book or Author types are not required for either of these queries, because they will only return an Int type.
+
+# 8.3 All Authors
+
+The exercise calls for the query to be able to return `bookCount` field, sowe
