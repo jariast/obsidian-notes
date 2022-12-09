@@ -68,3 +68,8 @@ I think that resolver is a good place to practice Functional Programming. #TODO 
 # 8.4 Books of an author
 
 We added the argument `authorName` to the `allBooks` query, in the resolver we're returning all the books if there's no author name in the arguments.
+
+# 8.5: Books by genre
+
+We added the argument `genre` to the `allBooks` query, in the resolver we're chaining filters for the author and for genres.
+#reviewSolutionAfterSubmission
