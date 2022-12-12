@@ -73,3 +73,7 @@ We added the argument `authorName` to the `allBooks` query, in the resolver we'r
 
 We added the argument `genre` to the `allBooks` query, in the resolver we're chaining filters for the author and for genres.
 #reviewSolutionAfterSubmission
+
+# 8.6: Adding a book
+
+We first install [uuid](https://github.com/uuidjs/uuid#readme to generate unique IDs.
