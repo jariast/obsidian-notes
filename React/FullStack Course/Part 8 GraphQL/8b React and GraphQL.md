@@ -37,3 +37,17 @@ query findPersonByName($nameToSearch: String!) {
 }
 
 ```
+
+By default, `useHook` is called as soon as the component is *rendered*, if we want to run the query only when a condition is met we can use the `skip` option:
+
+```js
+const result = useQuery(FIND_PERSON, {
+    variables: { nameToSearch },
+    skip: !nameToSearch,
+  })
+```
+ Above, the query will *skip* its execution if `nameToSearch` is falsy.
+
+# Cache
+
+Apollo client saves the responses of queries in cache. If the response to a query is already in cache, the query is not sent to the server.
