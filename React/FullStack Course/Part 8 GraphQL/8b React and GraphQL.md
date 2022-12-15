@@ -84,3 +84,18 @@ In the code above, the `ALL_PERSONS` query is triggered every time a person is c
 - The polling approach is a nice solution for when there are multiple users that need the updated info. The downside is that the client is constantly generating requests for the backend.
 - `refetchQueries` approach has way less requests to the server, but if a users updates a part of the app, other users won't have that info until they refresh their app.
 
+# Handling mutation errors
+
+The `useMutation` hook has an `onError` option for handling errors:
+
+```js
+const [ createPerson ] = useMutation(CREATE_PERSON, {
+    refetchQueries: [  {query: ALL_PERSONS } ],
+    onError: (error) => {
+      setError(error.graphQLErrors[0].message)
+    }
+  })
+```
+
+# Updating objects
+Updating queries are basically the same as Creation queries. The biggest difference is that the cache of the updated object is automatically updated, because the objects have an identifying filed of type *ID*.
