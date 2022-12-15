@@ -63,3 +63,24 @@ createPerson({  variables: { name, phone, street, city } }) // Used inside Submi
 ```
 
 After the mutation is run, the application is not automatically updated because the cache hasn't been updated. For example, we have the list of persons that uses a query to retrieve all the persons, once we run the mutation, the cache still has the same Persons info.
+
+# Updating cache
+One of the ways of updating the cache is by setting our queries to poll the server for changes at set intervals.
+
+```js
+const result = useQuery(ALL_PERSONS, {
+    pollInterval: 2000
+  })
+```
+Other approach is to use the `refetchQueries` parameter of the `useMutation` hook.
+
+```js
+const [ createPerson ] = useMutation(CREATE_PERSON, {
+    refetchQueries: [ { query: ALL_PERSONS } ]
+  })
+```
+In the code above, the `ALL_PERSONS` query is triggered every time a person is created. The parameter, accepts multiple query objects, in case you need to update several components at once.
+
+- The polling approach is a nice solution for when there are multiple users that need the updated info. The downside is that the client is constantly generating requests for the backend.
+- `refetchQueries` approach has way less requests to the server, but if a users updates a part of the app, other users won't have that info until they refresh their app.
+
