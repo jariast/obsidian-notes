@@ -51,3 +51,15 @@ const result = useQuery(FIND_PERSON, {
 # Cache
 
 Apollo client saves the responses of queries in cache. If the response to a query is already in cache, the query is not sent to the server.
+
+# Mutations
+
+Like Queries, we need to name our Mutations in order to use variables. We use the `useMutation` hook:
+
+```js
+const [ createPerson ] = useMutation(CREATE_PERSON) // Initializing the component
+...
+createPerson({  variables: { name, phone, street, city } }) // Used inside Submit handler for example
+```
+
+After the mutation is run, the application is not automatically updated because the cache hasn't been updated. For example, we have the list of persons that uses a query to retrieve all the persons, once we run the mutation, the cache still has the same Persons info.
