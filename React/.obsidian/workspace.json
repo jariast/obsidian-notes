@@ -150,15 +150,14 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "36956b66ae791e07",
+  "active": "bcdf3ddfb2d9a488",
   "lastOpenFiles": [
     "FullStack Course/Part 8 GraphQL/8b React and GraphQL.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8b Exercises.md",

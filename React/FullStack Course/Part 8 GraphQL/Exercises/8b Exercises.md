@@ -26,3 +26,8 @@ We used destructuring when we call the query:
 const { data, loading } = useQuery(ALL_AUTHORS);
 ```
  That way we have easy access to `data` and `loading`, we can also use it to obtain the `error` field if needed.
+
+# 8.10 Adding a book
+
+In order to keep the Authors and Books views updated, we used refetching queries as seen on [[8b React and GraphQL#Updating cache]].
+
