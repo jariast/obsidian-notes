@@ -99,3 +99,5 @@ const [ createPerson ] = useMutation(CREATE_PERSON, {
 
 # Updating objects
 Updating queries are basically the same as Creation queries. The biggest difference is that the cache of the updated object is automatically updated, because the objects have an identifying filed of type *ID*.
+
+The updating query that we used on the previous section of the course, doesn't *errors* when attempting to update a non-existing object, it simply returns `null`. Additional considerations must me implemented for dealing with this issue.
