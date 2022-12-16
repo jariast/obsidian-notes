@@ -31,3 +31,7 @@ const { data, loading } = useQuery(ALL_AUTHORS);
 
 In order to keep the Authors and Books views updated, we used refetching queries as seen on [[8b React and GraphQL#Updating cache]].
 
+# 8.11 Author's birth year
+
+As the next exercise invalidates the possibility of updating a non-existing author, we don't have to take into consideration the issue raised on [[8b React and GraphQL#Updating objects]]
+
