@@ -1,4 +1,4 @@
-# Setup
+``# Setup
 We could directly use GraphQL by sending POST request to the backend, but that would be really cumbersome.
 
 We'll use [Apollo Client](https://www.apollographql.com/docs/react/) to make our requests from React.
