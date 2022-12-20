@@ -37,3 +37,45 @@ addPerson: async (root, args) => {
       return person;
     }
 ```
+
+# User and Login
+
+The users are handled the same way as on [Part 04](https://fullstackopen.com/en/part4/token_authentication) of the course. In the course's example they're using the same hardcoded password for simplicity purposes, so when a user tries to login, the `login` mutation checks that the password equals "secret". 
+
+We need to "protect" some of our Queries, so only logged users can access them, when we need to run code that is shared by multiple resolvers, we should use the `Context` parameter of a server Instance:
+
+```js
+const server = new ApolloServer({
+  typeDefs,
+  resolvers,
+  context: async ({ req }) => {
+    const auth = req ? req.headers.authorization : null;
+    if (auth && auth.toLowerCase().startsWith('bearer ')) {
+      const decodedToken = jwt.verify(auth.substring(7), JWT_SECRET);
+      const currentUser = await User.findById(decodedToken.id).populate(
+        'friends'
+      );
+      return { currentUser };
+    }
+  },
+});
+```
+
+The above `context` function returns and object with the `currentUser` field set to the user found in the DB. Queries that need to access the logged user, can access it like this:
+
+```js
+Query: {
+  // ...
+  me: (__, __, context) => {
+    return context.currentUser
+  }
+},
+```
+
+If no user is found we can throw an Authentication Error:
+
+```js
+if (!currentUser) {
+	throw new AuthenticationError('not authenticated');
+}
+```
