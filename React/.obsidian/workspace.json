@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "215bd5dfe094e0d7",
+        "id": "2eed436d0693545a",
         "type": "tabs",
         "children": [
           {
-            "id": "36956b66ae791e07",
+            "id": "f44dbe8908744869",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,26 +18,26 @@
                 "source": false
               }
             },
-            "group": "b8cb6187a18cf51f"
+            "group": "adc62917aebab8d6"
           }
         ]
       },
       {
-        "id": "f6f1cf417d5bd388",
+        "id": "e8c9bd6901b14159",
         "type": "tabs",
         "children": [
           {
-            "id": "42226d6b7072f240",
+            "id": "6c1bfef11598a286",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             },
-            "group": "b8cb6187a18cf51f"
+            "group": "adc62917aebab8d6"
           }
         ]
       }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -158,10 +157,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "36956b66ae791e07",
+  "active": "6c1bfef11598a286",
   "lastOpenFiles": [
-    "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
+    "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8b Exercises.md",
     "FullStack Course/Part 8 GraphQL/8b React and GraphQL.md",
     "FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
