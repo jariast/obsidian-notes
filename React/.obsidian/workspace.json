@@ -38,19 +38,8 @@
               }
             },
             "group": "adc62917aebab8d6"
-          },
-          {
-            "id": "b813b6e84282be26",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -178,7 +168,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b813b6e84282be26",
+  "active": "f44dbe8908744869",
   "lastOpenFiles": [
     "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
     "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
