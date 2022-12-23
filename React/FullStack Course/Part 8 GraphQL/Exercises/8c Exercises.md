@@ -33,3 +33,25 @@ In `package.json` we modified the scripts like this:
 I was facing a bug when changing the queries from arrays to using the DB, I forgot to use the `async` keyword in the start of the function.
 
 It was really crucial to understand that the Author was no longer a String and it is indeed another entire schema, so when Adding a New Book, we needed to add the Author's ID to the Book object and not just its name or  any other object.
+
+# 8.14: Database, part 2
+
+When implementing the parameters for the `allBooks` query,  I was facing the issue of dealing with the optional parameters. Mongoose queries require a value for a filter:
+
+```js
+db.inventory.find( { status: "D" } )
+```
+
+So I came up with a `queryObject` that will only add the filter fields if they were provided by the request.
+
+```js
+ allBooks: async (__, { authorName, genre }) => {
+      const author = await Author.findOne({ name: authorName });
+      const queryObject = {};
+      author ? (queryObject.author = author.id) : null;
+      genre ? (queryObject.genres = genre) : null;
+      return Book.find(queryObject);
+    },
+```
+
+#reviewSolutionAfterSubmission 
