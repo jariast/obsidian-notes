@@ -19,8 +19,19 @@
               }
             },
             "group": "b8cb6187a18cf51f"
+          },
+          {
+            "id": "ae04cda083885bce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f6f1cf417d5bd388",
@@ -168,7 +179,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36956b66ae791e07",
+  "active": "ae04cda083885bce",
   "lastOpenFiles": [
     "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
