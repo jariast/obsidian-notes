@@ -19,19 +19,8 @@
               }
             },
             "group": "b8cb6187a18cf51f"
-          },
-          {
-            "id": "ae04cda083885bce",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f6f1cf417d5bd388",
@@ -96,13 +85,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -179,17 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae04cda083885bce",
+  "active": "36956b66ae791e07",
   "lastOpenFiles": [
-    "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
+    "Interviews/Study Topics.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
+    "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8b Exercises.md",
     "FullStack Course/Part 8 GraphQL/8b React and GraphQL.md",
     "FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
     "FullStack Course/Part7/Extending BlogList Exercises.md",
     "Redux/General Info.md",
-    "Redux/Misc Tips.md",
-    "General React/Hooks.md"
+    "Redux/Misc Tips.md"
   ]
 }
