@@ -60,4 +60,8 @@ So I came up with a `queryObject` that will only add the filter fields if they w
 
 #courseMaterialCorrection 
 
-As the exercises in [[8a Exercises#Apollo Server Issues]] the newer ver
+As the exercises in [[8a Exercises#Apollo Server Issues]] the newer versions of Apollo Server don't [expose](https://www.apollographql.com/docs/apollo-server/migration#built-in-error-classes) the `UserInputError` classes. Instead we must use the newer `GraphQLError` class to throw [Custom Errors](https://www.apollographql.com/docs/apollo-server/data/errors/#custom-errors). 
+
+In the previous exercise, I forgot to implement a way for the `allBooks` query to return the Author's info. Surprisingly for me, using Mongoose's `populate` method was enough to return the Author's info, including the `bookCount` field.
+
+Maybe it shouldn't be so surprising, considering that Apollo automatically resolves the `__id` field to to `id`.
