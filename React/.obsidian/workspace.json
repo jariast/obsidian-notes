@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reviewSolutionAfterSubmission",
+                "query": "tag:#courseMaterialCorrection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,11 +85,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -168,13 +170,13 @@
   },
   "active": "36956b66ae791e07",
   "lastOpenFiles": [
-    "Interviews/Study Topics.md",
+    "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
+    "FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
+    "Interviews/Study Topics.md",
     "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8b Exercises.md",
     "FullStack Course/Part 8 GraphQL/8b React and GraphQL.md",
-    "FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
-    "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
     "FullStack Course/Part7/Extending BlogList Exercises.md",
     "Redux/General Info.md",
     "Redux/Misc Tips.md"

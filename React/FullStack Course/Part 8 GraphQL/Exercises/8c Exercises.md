@@ -55,3 +55,9 @@ So I came up with a `queryObject` that will only add the filter fields if they w
 ```
 
 #reviewSolutionAfterSubmission 
+
+# 8.15 Database, part 3
+
+#courseMaterialCorrection 
+
+As the exercises in [[8a Exercises#Apollo Server Issues]] the newer ver
