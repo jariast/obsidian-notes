@@ -1,5 +1,5 @@
 # Setup
-#backendSetup #security #environment
+#backendSetup #security #environment #packages
 
 - Install mongoose
 ``` bash
@@ -65,3 +65,12 @@ As the exercises in [[8a Exercises#Apollo Server Issues]] the newer versions of 
 In the previous exercise, I forgot to implement a way for the `allBooks` query to return the Author's info. Surprisingly for me, using Mongoose's `populate` method was enough to return the Author's info, including the `bookCount` field.
 
 Maybe it shouldn't be so surprising, considering that Apollo automatically resolves the `__id` field to to `id`.
+
+# 8.16 User and logging in
+
+#packages 
+
+```bash
+npm install jsonwebtoken
+```
+
