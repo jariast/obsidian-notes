@@ -74,3 +74,4 @@ Maybe it shouldn't be so surprising, considering that Apollo automatically resol
 npm install jsonwebtoken
 ```
 
+Way trickier than expected.
