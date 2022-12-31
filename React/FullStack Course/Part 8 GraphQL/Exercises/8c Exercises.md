@@ -75,3 +75,27 @@ npm install jsonwebtoken
 ```
 
 Way trickier than expected.
+
+The issue began with this code from the course:
+
+```js
+const server = new ApolloServer({
+  typeDefs,
+  resolvers,
+  context: async ({ req }) => {
+    const auth = req ? req.headers.authorization : null;
+    if (auth && auth.toLowerCase().startsWith('bearer ')) {
+      const decodedToken = jwt.verify(auth.substring(7), JWT_SECRET);
+      const currentUser = await User.findById(decodedToken.id).populate(
+        'friends'
+      );
+      return { currentUser };
+    }
+  },
+});
+```
+
+As stated in the [documentation](https://www.apollographql.com/docs/apollo-server/migration/#context-initialization-function) in V4 the context can no longer be initialized in that way. Besides that, the `jwt.verify` method will error out if we provide an invalid token, breaking the Apollo explorer.
+
+TODO
+Review current implementation, the course's implementation should work well enough, because we will only pass the Auth header to the required queries (`me`) or mutations (`addBooks editAuthor`)
