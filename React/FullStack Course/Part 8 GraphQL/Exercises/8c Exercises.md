@@ -95,7 +95,6 @@ const server = new ApolloServer({
 });
 ```
 
-As stated in the [documentation](https://www.apollographql.com/docs/apollo-server/migration/#context-initialization-function) in V4 the context can no longer be initialized in that way. Besides that, the `jwt.verify` method will error out if we provide an invalid token, breaking the Apollo explorer.
+As stated in the [documentation](https://www.apollographql.com/docs/apollo-server/migration/#context-initialization-function) in V4 the context can no longer be initialized in that way. Besides that, the `jwt.verify` method will error out if we provide an invalid token, breaking the Apollo explorer (it will say somethin like "Can't extract query info").
 
-TODO
-Review current implementation, the course's implementation should work well enough, because we will only pass the Auth header to the required queries (`me`) or mutations (`addBooks editAuthor`)
+The user authentication [[8c Database and User Administration#User and Login]] implementation works just fine, but in my opinion it's a little bit wasteful to 
