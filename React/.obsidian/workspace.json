@@ -13,31 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/12. Conceptual Aside. JS and Undefined.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "b8cb6187a18cf51f"
+            "group": "46a453507e47778a"
           }
         ]
       },
       {
-        "id": "f6f1cf417d5bd388",
+        "id": "3a644d79058bed72",
         "type": "tabs",
         "children": [
           {
-            "id": "42226d6b7072f240",
+            "id": "37b3a7a4c3e65376",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md",
-                "mode": "source",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/12. Conceptual Aside. JS and Undefined.md",
+                "mode": "preview",
                 "source": false
               }
             },
-            "group": "b8cb6187a18cf51f"
+            "group": "46a453507e47778a"
           }
         ]
       }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/12. Conceptual Aside. JS and Undefined.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/12. Conceptual Aside. JS and Undefined.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md"
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/12. Conceptual Aside. JS and Undefined.md"
               }
             }
           }
@@ -168,15 +168,15 @@
   },
   "active": "36956b66ae791e07",
   "lastOpenFiles": [
+    "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/12. Conceptual Aside. JS and Undefined.md",
     "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md",
     "Advanced JS/Execution Contexts and Lexical Environments/8. Conceptual Aside.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md",
     "[8c Database and User Administration.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
     "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
-    "FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
-    "Interviews/Study Topics.md",
-    "FullStack Course/Part 8 GraphQL/Exercises/8b Exercises.md"
+    "FullStack Course/Part 8 GraphQL/8a GraphQL - server.md"
   ]
 }
