@@ -11,8 +11,12 @@
             "id": "36956b66ae791e07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "b8cb6187a18cf51f"
           }
@@ -26,8 +30,12 @@
             "id": "42226d6b7072f240",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md",
+                "mode": "source",
+                "source": false
+              }
             },
             "group": "b8cb6187a18cf51f"
           }
@@ -97,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md"
+              }
             }
           }
         ]
@@ -154,17 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3ffc8a5a142f4c5",
+  "active": "36956b66ae791e07",
   "lastOpenFiles": [
+    "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env ann the Global Object.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/7. Conceptual Aside.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/8. Conceptual Aside.md",
     "[8c Database and User Administration.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
     "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
     "FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
     "Interviews/Study Topics.md",
-    "FullStack Course/Part 8 GraphQL/Exercises/8b Exercises.md",
-    "FullStack Course/Part 8 GraphQL/8b React and GraphQL.md",
-    "FullStack Course/Part7/Extending BlogList Exercises.md",
-    "Redux/General Info.md"
+    "FullStack Course/Part 8 GraphQL/Exercises/8b Exercises.md"
   ]
 }
