@@ -95,6 +95,20 @@ const server = new ApolloServer({
 });
 ```
 
-As stated in the [documentation](https://www.apollographql.com/docs/apollo-server/migration/#context-initialization-function) in V4 the context can no longer be initialized in that way. Besides that, the `jwt.verify` method will error out if we provide an invalid token, breaking the Apollo explorer (it will say somethin like "Can't extract query info").
+As stated in the [documentation](https://www.apollographql.com/docs/apollo-server/migration/#context-initialization-function) in V4 the context can no longer be initialized in that way. Besides that, the `jwt.verify` method will error out if we provide an invalid token, breaking the Apollo explorer (it will say somethin like "The introspection query didn't work").
 
-The user authentication [[8c Database and User Administration#User and Login]] implementation works just fine, but in my opinion it's a little bit wasteful to 
+The user authentication [[8c Database and User Administration#User and Login]] implementation works just fine, but in my opinion it's a little bit wasteful, because it seems like the context function is ran every single time a request is made to the server. 
+
+I chose to in the context only extract the token from the header, if a request requires authentication, it can run the whole flow itself.
+
+As seen on the previous exercises, we need to use the new `GraphQLError` to throw errors, the authentication error has an extra option for changing the http status.
+
+```js
+throw new GraphQLError('User is not authenticated', {
+      extensions: {
+        code: 'UNAUTHENTICATED',
+
+        http: { status: 401 },
+      },
+    });
+```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
+                "file": "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
+                "file": "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
+                "file": "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
+                "file": "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md"
+                "file": "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md"
               }
             }
           }
@@ -168,12 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42226d6b7072f240",
+  "active": "36956b66ae791e07",
   "lastOpenFiles": [
+    "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
     "[8c Database and User Administration.md",
-    "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
     "FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
     "Interviews/Study Topics.md",
     "FullStack Course/Part 8 GraphQL/Exercises/8b Exercises.md",
