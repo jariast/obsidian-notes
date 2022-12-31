@@ -10,6 +10,10 @@ Where something sits physically in the code you write.
 
 A  wrapper to help manage the code that is running. It contains the code you wrote, but it can also contain additional code. Like the execution created by the browser that contains the "this" variable. [[10. The Global env and the Global Object]].
 
+# Execution Stack
+
+Is a stack that keeps track of all the Execution Contexts.
+
 # Name/Value Pair
 
 A Name which maps to a unique value.

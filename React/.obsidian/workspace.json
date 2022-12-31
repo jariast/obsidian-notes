@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md"
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md"
               }
             }
           }
@@ -168,8 +168,8 @@
   },
   "active": "36956b66ae791e07",
   "lastOpenFiles": [
-    "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
     "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
     "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
     "Advanced JS/Execution Contexts and Lexical Environments/12. Conceptual Aside. JS and Undefined.md",
