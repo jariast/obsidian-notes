@@ -38,3 +38,6 @@ One command at a time, in order.
 
 Calling a function. By using a parenthesis.
 
+# Variable Environment
+
+Where the variables live, and how they relate to each other in memory. Each Execution Context has its own Variable Environment.
