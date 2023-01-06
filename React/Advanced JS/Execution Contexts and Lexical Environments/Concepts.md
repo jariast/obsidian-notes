@@ -49,3 +49,9 @@ Where the variables live, and how they relate to each other in memory. Each Exec
 It is a data structure that holds events that are waiting to be executed. It works in conjunction with the Event Loop.  
   
 It allows the browser to handle events asynchronously.
+
+The events are only processed after the Execution Context is Empty, this means that Long Running functions can block the execution of JS.
+
+# Primitive Type
+
+A type of a data that represents a single value.
