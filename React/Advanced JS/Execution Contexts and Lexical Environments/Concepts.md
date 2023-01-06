@@ -10,7 +10,7 @@ Where something sits physically in the code you write.
 
 A  wrapper to help manage the code that is running. It contains the code you wrote, but it can also contain additional code. Like the execution created by the browser that contains the "this" variable. [[10. The Global env and the Global Object]].
 
-It contains the Global Object, "this" and a reference to its Outer Environment.
+It contains the Global Object, "this" and a reference to its Outer Environment [[17. Scope Chain#Outer Environment]].
 
 # Execution Stack
 
@@ -43,3 +43,9 @@ Calling a function. By using a parenthesis.
 # Variable Environment
 
 Where the variables live, and how they relate to each other in memory. Each Execution Context has its own Variable Environment.
+
+# Event Queue
+
+It is a data structure that holds events that are waiting to be executed. It works in conjunction with the Event Loop.  
+  
+It allows the browser to handle events asynchronously.
