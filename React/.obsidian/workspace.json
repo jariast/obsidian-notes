@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
+                "file": "Alto Take Home/CMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
+                "file": "Alto Take Home/CMS.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
+                "file": "Alto Take Home/CMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
+                "file": "Alto Take Home/CMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md"
+                "file": "Alto Take Home/CMS.md"
               }
             }
           }
@@ -166,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36956b66ae791e07",
+  "active": "b3ffc8a5a142f4c5",
   "lastOpenFiles": [
-    "General React/Hooks.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
+    "General React/Hooks.md",
     "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
     "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
     "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
