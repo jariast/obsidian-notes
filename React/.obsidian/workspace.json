@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alto Take Home/CMS.md",
+                "file": "Alto Take Home/Lessons Learned.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alto Take Home/CMS.md",
+                "file": "Alto Take Home/Lessons Learned.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alto Take Home/CMS.md",
+                "file": "Alto Take Home/Lessons Learned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alto Take Home/CMS.md",
+                "file": "Alto Take Home/Lessons Learned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alto Take Home/CMS.md"
+                "file": "Alto Take Home/Lessons Learned.md"
               }
             }
           }
@@ -166,8 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3ffc8a5a142f4c5",
+  "active": "36956b66ae791e07",
   "lastOpenFiles": [
+    "Alto Take Home/CMS.md",
+    "Alto Take Home/Lessons Learned.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
     "General React/Hooks.md",
     "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
@@ -175,8 +177,6 @@
     "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
     "Advanced JS/Execution Contexts and Lexical Environments/12. Conceptual Aside. JS and Undefined.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/8. Conceptual Aside.md",
-    "[8c Database and User Administration.md",
-    "FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md"
+    "Advanced JS/Execution Contexts and Lexical Environments/8. Conceptual Aside.md"
   ]
 }
