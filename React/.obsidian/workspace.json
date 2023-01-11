@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "215bd5dfe094e0d7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "36956b66ae791e07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alto Take Home/Lessons Learned.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "46a453507e47778a"
-          }
-        ]
-      },
-      {
         "id": "3a644d79058bed72",
         "type": "tabs",
         "children": [
@@ -32,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alto Take Home/Lessons Learned.md",
-                "mode": "preview",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
+                "mode": "source",
                 "source": false
               }
-            },
-            "group": "46a453507e47778a"
+            }
           }
         ]
       }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alto Take Home/Lessons Learned.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alto Take Home/Lessons Learned.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alto Take Home/Lessons Learned.md"
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md"
               }
             }
           }
@@ -166,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36956b66ae791e07",
+  "active": "37b3a7a4c3e65376",
   "lastOpenFiles": [
-    "Alto Take Home/CMS.md",
-    "Alto Take Home/Lessons Learned.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
-    "General React/Hooks.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
     "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
+    "Pasted image 20230105162025.png.md",
     "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/12. Conceptual Aside. JS and Undefined.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/8. Conceptual Aside.md"
+    "Pasted image 20230105162025.png",
+    "Alto Take Home/Lessons Learned.md",
+    "Alto Take Home/CMS.md",
+    "General React/Hooks.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md"
   ]
 }
