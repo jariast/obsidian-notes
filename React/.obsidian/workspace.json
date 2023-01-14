@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultimate React/React Fundamentals/Key prop.md",
+                "file": "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultimate React/React Fundamentals/Key prop.md",
-                "mode": "preview",
+                "file": "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultimate React/React Fundamentals/Key prop.md",
+                "file": "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultimate React/React Fundamentals/Key prop.md",
+                "file": "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultimate React/React Fundamentals/Key prop.md"
+                "file": "Ultimate React/React Fundamentals/Lazy Init and Updaters.md"
               }
             }
           }
@@ -168,15 +168,15 @@
   },
   "active": "36956b66ae791e07",
   "lastOpenFiles": [
+    "Pasted image 20230114112811.png",
+    "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
+    "Ultimate React/React Fundamentals/Key prop.md",
     "Alto Take Home/Lessons Learned.md",
     "Alto Take Home/CMS.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
     "General React/Hooks.md",
     "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
     "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/12. Conceptual Aside. JS and Undefined.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/8. Conceptual Aside.md"
+    "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md"
   ]
 }
