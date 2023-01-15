@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "48030aff3a2b9f93",
+        "id": "3a644d79058bed72",
         "type": "tabs",
         "children": [
           {
-            "id": "644fa4b80dd3c206",
+            "id": "37b3a7a4c3e65376",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,16 +18,16 @@
                 "source": false
               }
             },
-            "group": "cb05365539c94fbe"
+            "group": "532a2fd71186d672"
           }
         ]
       },
       {
-        "id": "23985a48e8d08482",
+        "id": "2d44ec8ed032e135",
         "type": "tabs",
         "children": [
           {
-            "id": "975cd59d85436d32",
+            "id": "3036649f610ac28b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,7 @@
                 "source": false
               }
             },
-            "group": "cb05365539c94fbe"
+            "group": "532a2fd71186d672"
           }
         ]
       }
@@ -166,17 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "644fa4b80dd3c206",
+  "active": "37b3a7a4c3e65376",
   "lastOpenFiles": [
     "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
-    "Ultimate React/React Fundamentals/Custom Hooks.md",
     "Ultimate React/React Fundamentals/Key prop.md",
-    "Pasted image 20230114112811.png",
-    "Alto Take Home/Lessons Learned.md",
-    "Alto Take Home/CMS.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
+    "Redux/Misc Tips.md",
+    "Redux/General Info.md",
+    "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
+    "FullStack Course/Part 7/React-Router.md",
+    "Interviews/Study Topics.md",
     "General React/Hooks.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
     "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md"
   ]
 }
