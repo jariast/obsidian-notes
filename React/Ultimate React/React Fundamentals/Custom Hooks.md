@@ -39,4 +39,5 @@ function useLocalStorageState(
   }, [key, state, serialize])
 
   return [state, setState]
-}```
+}
+```

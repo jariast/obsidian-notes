@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "3a644d79058bed72",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "37b3a7a4c3e65376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "532a2fd71186d672"
-          }
-        ]
-      },
-      {
         "id": "2d44ec8ed032e135",
         "type": "tabs",
         "children": [
@@ -32,12 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
+                "file": "Ultimate React/React Fundamentals/Key prop.md",
                 "mode": "preview",
                 "source": false
               }
-            },
-            "group": "532a2fd71186d672"
+            }
           }
         ]
       }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
+                "file": "Ultimate React/React Fundamentals/Key prop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
+                "file": "Ultimate React/React Fundamentals/Key prop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultimate React/React Fundamentals/Lazy Init and Updaters.md"
+                "file": "Ultimate React/React Fundamentals/Key prop.md"
               }
             }
           }
@@ -168,15 +148,15 @@
   },
   "active": "3036649f610ac28b",
   "lastOpenFiles": [
-    "Ultimate React/React Fundamentals/Custom Hooks.md",
-    "Ultimate React/React Fundamentals/Key prop.md",
     "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
-    "Redux/Misc Tips.md",
-    "Redux/General Info.md",
-    "FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
-    "FullStack Course/Part 7/React-Router.md",
-    "Interviews/Study Topics.md",
     "General React/Hooks.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md"
+    "Interviews/Study Topics.md",
+    "FullStack Course/Part 7/React-Router.md",
+    "Alto Take Home/Lessons Learned.md",
+    "FullStack Course/Part 7/Extending BlogList Exercises.md",
+    "FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
+    "FullStack Course/Part 8 GraphQL/8b React and GraphQL.md",
+    "FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
+    "Ultimate React/React Fundamentals/Custom Hooks.md"
   ]
 }
