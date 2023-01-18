@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General React/Hooks.md",
+                "file": "Ultimate React/React Fundamentals/Custom Hooks.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General React/Hooks.md",
+                "file": "Ultimate React/React Fundamentals/Custom Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General React/Hooks.md",
+                "file": "Ultimate React/React Fundamentals/Custom Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General React/Hooks.md"
+                "file": "Ultimate React/React Fundamentals/Custom Hooks.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "3036649f610ac28b",
   "lastOpenFiles": [
+    "General React/Hooks.md",
     "Ultimate React/React Fundamentals/Key prop.md",
     "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
-    "General React/Hooks.md",
     "Interviews/Study Topics.md",
     "FullStack Course/Part 7/React-Router.md",
     "Alto Take Home/Lessons Learned.md",
