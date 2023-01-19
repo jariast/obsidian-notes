@@ -1,6 +1,6 @@
 # Dependencies issues.
 
-I had this code: 
+I had this code:
 
 ```js
 React.useEffect(() => {
