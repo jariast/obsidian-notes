@@ -31,3 +31,20 @@ function handleSubmit(event) {
 }
 ```
 
+After watching the Solution video, I think it's a good idea to have the function like this:
+
+```js
+async function updateUser(dispatch, user, updates) {
+  dispatch({type: 'start update', updates})
+  try {
+    const updatedUser = await userClient.updateUser(user, updates)
+    dispatch({type: 'finish update', updatedUser})
+    return updatedUser
+  } catch (error) {
+    dispatch({type: 'fail update', error})
+    return Promise.reject(error)
+  }
+}
+```
+
+That way the *consumer* can access the *updatedUser* or the *error* if they need to do something with that.
