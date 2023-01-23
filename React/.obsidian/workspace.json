@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General React/Hooks.md",
-                "mode": "preview",
+                "file": "Ultimate React/React Patterns/Context Module Function.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General React/Hooks.md",
+                "file": "Ultimate React/React Patterns/Context Module Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General React/Hooks.md",
+                "file": "Ultimate React/React Patterns/Context Module Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General React/Hooks.md"
+                "file": "Ultimate React/React Patterns/Context Module Function.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "3036649f610ac28b",
   "lastOpenFiles": [
+    "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
+    "Ultimate React/React Patterns/Context Module Function.md",
+    "General React/Hooks.md",
     "Ultimate React/Advanced Hooks/Async Custom Hook.md",
     "Ultimate React/React Hooks/Custom Hooks.md",
-    "General React/Hooks.md",
-    "Ultimate React/React Fundamentals/Key prop.md",
-    "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
-    "Interviews/Study Topics.md",
-    "FullStack Course/Part 7/React-Router.md",
-    "Alto Take Home/Lessons Learned.md",
-    "FullStack Course/Part 7/Extending BlogList Exercises.md",
-    "FullStack Course/Part 8 GraphQL/8a GraphQL - server.md"
+    "Ultimate React/React Fundamentals/Key prop.md"
   ]
 }
