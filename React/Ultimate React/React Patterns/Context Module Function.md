@@ -12,7 +12,7 @@ function handleSubmit(event) {
     )
   }
 ```
-Above we have a function inside the component that consumes a custom Hook that returns the *state* and the *dispatch* function. *handleSubmit* is in charge of all the update logic, when we apply the pattern, the *consuming component* should only be worried about calling a single function:
+Above we have a function inside the component that consumes a custom Hook that returns the *state* and the *dispatch* function. `handleSubmit` is in charge of all the update logic, when we apply the pattern, the *consuming component* should only be worried about calling a single function:
 
 ```js
 const updateUser = (dispatch, user, updates) => {
@@ -47,4 +47,4 @@ async function updateUser(dispatch, user, updates) {
 }
 ```
 
-That way the *consumer* can access the *updatedUser* or the *error* if they need to do something with that.
+That way the *consumer* can access the `updatedUser` or the *error* if they need to do something with that.
