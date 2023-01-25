@@ -1,4 +1,4 @@
-A custom hook is any function that uses a *hook*, the name should start by *use* e.g: `useLocalStorage`
+A custom hook is any function that uses a *hook*, the name should start by *use* e.g.: `useLocalStorage`
 
 The [docs](https://beta.reactjs.org/learn/reusing-logic-with-custom-hooks#) have a bunch of info on how to use Custom Hooks effectively. 
 
