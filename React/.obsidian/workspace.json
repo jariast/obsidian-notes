@@ -161,15 +161,15 @@
   },
   "active": "ed14475f49469905",
   "lastOpenFiles": [
+    "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+    "Ultimate React/React Patterns/State Reducer.md",
     "Ultimate React/React Patterns/Context Module Function.md",
     "Ultimate React/React Patterns/Prop Getters.md",
     "Ultimate React/React Patterns/Compound Components.md",
     "Ultimate React/React Hooks/Custom Hooks.md",
     "Ultimate React/Advanced Hooks/Async Custom Hook.md",
     "General React/Hooks.md",
-    "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
-    "Ultimate React/React Fundamentals/Key prop.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md"
+    "Ultimate React/React Fundamentals/Lazy Init and Updaters.md"
   ]
 }

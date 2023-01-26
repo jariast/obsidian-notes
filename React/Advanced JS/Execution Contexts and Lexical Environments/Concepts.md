@@ -55,3 +55,18 @@ The events are only processed after the Execution Context is Empty, this means t
 # Primitive Type
 
 A type of a data that represents a single value.
+
+# Default Parameters and destructuring
+
+[MDN Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#setting_a_function_parameters_default_value)
+
+When setting a function's parameters we can set default values by using `=`, for example:
+
+```js
+function drawChart({ size = 'big', coords = { x: 0, y: 0 }, radius = 25 } = {}) {
+  console.log(size, coords, radius);
+  // do some chart drawing
+}
+```
+
+The `size` parameter will default to `'big'` if the passed object doesn't have that property. Is also of note that the function also has a default value of an empty object `= {}`. This allows the function to be called without any parameters, otherwise it will expect to receive at least an empty object literal.

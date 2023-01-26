@@ -17,7 +17,7 @@ function useToggle({initialOn = false, reducer = toggleReducer} = {}) {
 }
 ```
 
-In the c
+In the code above, we have a custom hook `useToggle` that can take a `reducer` parameter, this parameter allows the consumer of the hook to implement an entirely new Reducer function so it can customize the behavior of the hook.
 
 ```js
 function toggleReducer(state, {type, initialState}) {
@@ -34,3 +34,15 @@ function toggleReducer(state, {type, initialState}) {
   }
 }
 ```
+
+If we export  `toggleReducer` the consumer can also override only a portion of the actions, like so:
+
+```js
+function toggleStateReducer(state, action) {
+    if (action.type === actionTypes.toggle && clickedTooMuch) {
+      return {on: state.on}
+    }
+    return toggleReducer(state, action)
+}
+```
+
