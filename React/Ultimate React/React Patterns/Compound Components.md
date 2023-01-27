@@ -31,7 +31,7 @@ function App() {
 }
 ```
 
-Each children can access the overall state of the component by reading the `ToggleContext`. For that we can use a custom hook `useToggle`:
+Each children can access the overall state of the component by reading the `ToggleContext` [[Hooks#useContext | useContext]]. For that we can use a custom hook `useToggle`:
 
 ```js
 const useToggle = () => {

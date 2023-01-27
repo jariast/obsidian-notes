@@ -52,3 +52,7 @@ I used [Cloudinary](https://cloudinary.com/) for the images in the blog, I found
 # ChatGTP
 
 Was a huge help during the entire process, it is really an awesome assistant. I must be careful though, sometimes it responds with slightly wrong information, sometimes it uses and old version of a library, making things not work at all or cause subtle bugs.
+
+# GitHub Readme Template
+
+[Link](https://github.com/othneildrew/Best-README-Template)

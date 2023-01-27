@@ -42,7 +42,8 @@ It returns:
 
 It caches a function definition between re-renders. It also has a dependencies array like *useEffect*.
 
-# [useContext](https://beta.reactjs.org/reference/react/useContext) 
+# useContext
+[React Docs](https://beta.reactjs.org/reference/react/useContext) 
 
 It's used to read and subscribe to Context from a component.
 
