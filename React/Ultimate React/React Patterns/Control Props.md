@@ -8,4 +8,4 @@ On this [Extra Credit](https://epicreact.dev/modules/advanced-react-patterns/con
   }, [hasOnChange, onIscontrolled, readOnly])
 ```
 
-We also used the `warning` package that it seems useful for this kind of use cases.
+We also used the `warning` package that it seems useful for this kind of use cases. 
