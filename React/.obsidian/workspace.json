@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68c9668e9253c281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TypeScript/Basic Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultimate React/React Patterns/State Reducer.md",
+                "file": "TypeScript/Basic Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultimate React/React Patterns/State Reducer.md",
+                "file": "TypeScript/Basic Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultimate React/React Patterns/State Reducer.md"
+                "file": "TypeScript/Basic Concepts.md"
               }
             }
           },
@@ -155,10 +168,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "88655017137a5ac1",
+  "active": "68c9668e9253c281",
   "lastOpenFiles": [
-    "Ultimate React/React Patterns/Control Props.md",
     "Ultimate React/React Patterns/State Reducer.md",
+    "Ultimate React/React Patterns/Control Props.md",
     "Ultimate React/React Patterns/Context Module Function.md",
     "Ultimate React/React Patterns/Prop Getters.md",
     "Ultimate React/React Patterns/Compound Components.md",
