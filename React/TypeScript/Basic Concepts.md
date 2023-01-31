@@ -5,4 +5,3 @@ TypeScript follows possible paths of execution that our programs can take to ana
 ```ts
 typeof padding === "number"
 ```
-
