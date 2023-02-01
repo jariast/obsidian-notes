@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f32abf7d8275bc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ultimate React/Testing React/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Basic Concepts.md",
+                "file": "Ultimate React/Testing React/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Basic Concepts.md",
+                "file": "Ultimate React/Testing React/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Basic Concepts.md"
+                "file": "Ultimate React/Testing React/Untitled.md"
               }
             }
           },
@@ -168,8 +180,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "68c9668e9253c281",
+  "active": "3f32abf7d8275bc4",
   "lastOpenFiles": [
+    "TypeScript/Basic Concepts.md",
     "Ultimate React/React Patterns/State Reducer.md",
     "Ultimate React/React Patterns/Control Props.md",
     "Ultimate React/React Patterns/Context Module Function.md",
@@ -178,7 +191,6 @@
     "General React/Hooks.md",
     "Ultimate React/React Hooks/Custom Hooks.md",
     "Misc Resources/Misc.md",
-    "Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
-    "Ultimate React/React Fundamentals/Key prop.md"
+    "Ultimate React/React Fundamentals/Lazy Init and Updaters.md"
   ]
 }
