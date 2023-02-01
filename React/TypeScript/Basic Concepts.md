@@ -36,3 +36,18 @@ function getArea(shape: Shape) {
 ```
 
 Above, when we check for the `kind` circle, we're excluding all the other types (Square).
+
+# Functions
+## Generic Functions
+
+Generics are used when we want to describe a correspondence between two values.
+```ts
+function firstElement<Type>(arr: Type[]): Type | undefined {
+  return arr[0];
+}
+```
+By adding the `Type` parameter and using it in two places, we've created a link between the input and the output.
+
+### Constraints
+
+
