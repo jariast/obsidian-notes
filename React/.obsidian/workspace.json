@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ultimate React/Testing React/Exercises.md",
+                "file": "Misc Resources/Misc.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ultimate React/Testing React/Exercises.md",
+                "file": "Misc Resources/Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ultimate React/Testing React/Exercises.md",
+                "file": "Misc Resources/Misc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ultimate React/Testing React/Exercises.md"
+                "file": "Misc Resources/Misc.md"
               }
             }
           },
@@ -182,6 +182,8 @@
   },
   "active": "3f32abf7d8275bc4",
   "lastOpenFiles": [
+    "Ultimate React/Testing React/Exercises.md",
+    "Misc Resources/Misc.md",
     "TypeScript/Basic Concepts.md",
     "Ultimate React/React Patterns/State Reducer.md",
     "Ultimate React/React Patterns/Control Props.md",
@@ -189,8 +191,6 @@
     "Ultimate React/React Patterns/Prop Getters.md",
     "Ultimate React/React Patterns/Compound Components.md",
     "General React/Hooks.md",
-    "Ultimate React/React Hooks/Custom Hooks.md",
-    "Misc Resources/Misc.md",
-    "Ultimate React/React Fundamentals/Lazy Init and Updaters.md"
+    "Ultimate React/React Hooks/Custom Hooks.md"
   ]
 }
