@@ -1,6 +1,6 @@
-1. Don't test implementation details.
-2. Make sure to use the correct [queries](https://testing-library.com/docs/queries/about/#priority).
-3. Use a library like [user-event](https://github.com/testing-library/user-event/tree/1af67066f57377c5ab758a1215711dddabad2d83) to simulate user interactions.
+- Don't test implementation details.
+- Make sure to use the correct [queries](https://testing-library.com/docs/queries/about/#priority).
+- Use a library like [user-event](https://github.com/testing-library/user-event/tree/1af67066f57377c5ab758a1215711dddabad2d83) to simulate user interactions.
 	For example, avoid manually clicking an element:
 ```js
 	fireEvent.click(increment)
@@ -11,4 +11,6 @@ When a real user clicks an element, is firing several events like hover, focus, 
 ```js
 await userEvent.click(increment)
 ```
-4. We can use `screen.debug()` so we can see the entire structure of the HTML in the testing console.
+- We can use `screen.debug()` so we can see the entire structure of the HTML in the testing console.
+- Use [faker](https://www.npmjs.com/package/@faker-js/faker) to generate fake data.
+- 
