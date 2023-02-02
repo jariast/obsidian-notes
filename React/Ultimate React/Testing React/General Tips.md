@@ -11,3 +11,4 @@ When a real user clicks an element, is firing several events like hover, focus, 
 ```js
 await userEvent.click(increment)
 ```
+4. We can use `screen.debug()` so we can see the entire structure of the HTML in the testing console.
