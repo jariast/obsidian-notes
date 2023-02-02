@@ -19,5 +19,30 @@ To fix it I needed to wrap the `root.render` method in the `act` function:
 act(() => {
 	root.render(<Counter />)
 })
-  ```
+```
 
+# Exercise 04
+
+## Extra 03 Overrides
+
+I implemented the override of the `buildLoginForm` function like this:
+
+```js
+const buildLoginForm = ({
+  username = faker.internet.userName(),
+  password = faker.internet.password(),
+} = {}) => ({
+  username,
+  password,
+})
+```
+
+It doesn't have anything bad per se, but it is way cleaner the way Kent did it:
+
+```js
+const buildLoginForm = overrides => ({
+  password: faker.internet.password(),
+  username: faker.internet.userName(),
+  ...overrides,
+})
+```
