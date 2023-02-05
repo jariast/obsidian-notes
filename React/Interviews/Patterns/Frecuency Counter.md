@@ -1,0 +1,1 @@
+Use objects or Maps to collect values/frequencies of values. This pattern can be used to avoid nested loops or expensive operations with arrays/strings
