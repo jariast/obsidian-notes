@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e68a5439dac73f6",
+        "id": "1a9c8bd21447e991",
         "type": "tabs",
         "children": [
           {
-            "id": "585528f838eb206c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/Big O.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcd1b3b671ce7624",
+            "id": "02255d276a128586",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,17 +155,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "bcd1b3b671ce7624",
+  "active": "02255d276a128586",
   "lastOpenFiles": [
     "Interviews/Big O.md",
+    "Interviews/Patterns/Frecuency Counter.md",
+    "VS Code Config/TroubleShooting.md",
+    "VS Code Config/Initial Setup.md",
     "Interviews/Patterns.md",
     "Interviews/LC prep.md",
     "Ultimate React/Testing React/Exercises.md",
     "Ultimate React/Testing React/General Tips.md",
     "Ultimate React/Testing React/Resources.md",
-    "Ultimate React/Testing React/Untitled.md",
-    "Ultimate React/React Patterns/State Reducer.md",
-    "TypeScript/Basic Concepts.md",
-    "Misc Resources/Misc.md"
+    "Ultimate React/Testing React/Untitled.md"
   ]
 }
