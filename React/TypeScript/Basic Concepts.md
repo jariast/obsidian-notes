@@ -39,6 +39,11 @@ Above, when we check for the `kind` circle, we're excluding all the other types 
 
 # Functions
 
+## Type Parameters
+They are placeholders for a specific data type that can be specified later.
+
+A type parameter is declared like `<T>` before the function or class that uses it.
+
 ## Generic Functions
 
 [Docs](https://www.typescriptlang.org/docs/handbook/2/functions.html#generic-functions)
@@ -51,7 +56,7 @@ function firstElement<Type>(arr: Type[]): Type | undefined {
 ```
 By adding the `Type` parameter and using it in two places, we've created a link between the input and the output.
 
-### Constraints
+## Constraints
 [Docs](https://www.typescriptlang.org/docs/handbook/2/functions.html#constraints)
 
 ```ts
@@ -66,5 +71,8 @@ function longest<Type extends { length: number }>(a: Type, b: Type) {
 
 In the above function, we constrained the parameters to have the property `length: number` so we can call `longest` with two `arrays`  or `strings`, the important thing is that they have a `lenght` property.
 
-# Guidelines
+## Guidelines
+[Docs](https://www.typescriptlang.org/docs/handbook/2/functions.html#guidelines-for-writing-good-generic-functions)
 
+- Use fewer type parameters.
+- Push Type Parameters "down"
