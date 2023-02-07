@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "TypeScript/Basic Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "TypeScript/Basic Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "TypeScript/Basic Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md"
+                "file": "TypeScript/Basic Concepts.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "9227703ae9bd0a2d",
   "lastOpenFiles": [
-    "Interviews/Patterns/Frecuency Counter.md",
     "Interviews/Patterns/Problem solving.md",
+    "Interviews/Patterns/Frecuency Counter.md",
     "Interviews/Patterns/Sliding Window.md",
     "Interviews/Patterns/Multiple Pointers.md",
     "Interviews/Big O.md",

@@ -40,6 +40,8 @@ Above, when we check for the `kind` circle, we're excluding all the other types 
 # Functions
 ## Generic Functions
 
+[Docs](https://www.typescriptlang.org/docs/handbook/2/functions.html#generic-functions)
+
 Generics are used when we want to describe a correspondence between two values.
 ```ts
 function firstElement<Type>(arr: Type[]): Type | undefined {
