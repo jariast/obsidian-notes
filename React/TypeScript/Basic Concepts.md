@@ -66,3 +66,5 @@ function longest<Type extends { length: number }>(a: Type, b: Type) {
 
 In the above function, we constrained the parameters to have the property `length: number` so we can call `longest` with two `arrays`  or `strings`, the important thing is that they have a `lenght` property.
 
+# Guidelines
+
