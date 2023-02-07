@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Basic Concepts.md",
+                "file": "Interviews/Patterns/Problem solving.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScript/Basic Concepts.md",
+                "file": "Interviews/Patterns/Problem solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScript/Basic Concepts.md",
+                "file": "Interviews/Patterns/Problem solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TypeScript/Basic Concepts.md"
+                "file": "Interviews/Patterns/Problem solving.md"
               }
             }
           },
@@ -182,15 +182,15 @@
   },
   "active": "9227703ae9bd0a2d",
   "lastOpenFiles": [
-    "Interviews/Patterns/Problem solving.md",
-    "Interviews/Patterns/Frecuency Counter.md",
-    "Interviews/Patterns/Sliding Window.md",
-    "Interviews/Patterns/Multiple Pointers.md",
-    "Interviews/Big O.md",
-    "VS Code Config/TroubleShooting.md",
     "VS Code Config/Initial Setup.md",
+    "Interviews/Big O.md",
+    "Interviews/Study Topics.md",
     "Interviews/Patterns.md",
     "Interviews/LC prep.md",
-    "Ultimate React/Testing React/Exercises.md"
+    "Misc Resources/Misc.md",
+    "TypeScript/Basic Concepts.md",
+    "Interviews/Patterns/Problem solving.md",
+    "Interviews/Patterns/Frecuency Counter.md",
+    "Interviews/Patterns/Sliding Window.md"
   ]
 }
