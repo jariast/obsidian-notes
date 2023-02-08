@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "Interviews/Big O.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "Interviews/Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "Interviews/Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Misc Resources/Misc.md"
+                "file": "Interviews/Big O.md"
               }
             }
           },
@@ -180,15 +180,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b3ffc8a5a142f4c5",
+  "active": "9227703ae9bd0a2d",
   "lastOpenFiles": [
+    "React/Misc Resources/Misc.md",
     "Interviews/Patterns/Problem solving.md",
     "VS Code Config/Initial Setup.md",
     "Interviews/Big O.md",
     "Interviews/Study Topics.md",
     "Interviews/Patterns.md",
     "Interviews/LC prep.md",
-    "React/Misc Resources/Misc.md",
     "TypeScript/Basic Concepts.md",
     "Interviews/Patterns/Frecuency Counter.md",
     "Interviews/Patterns/Sliding Window.md"
