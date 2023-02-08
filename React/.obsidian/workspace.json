@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "React/Misc Resources/Misc.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "React/Misc Resources/Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "React/Misc Resources/Misc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md"
+                "file": "React/Misc Resources/Misc.md"
               }
             }
           },
@@ -180,16 +180,16 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9227703ae9bd0a2d",
+  "active": "b3ffc8a5a142f4c5",
   "lastOpenFiles": [
+    "Interviews/Patterns/Problem solving.md",
     "VS Code Config/Initial Setup.md",
     "Interviews/Big O.md",
     "Interviews/Study Topics.md",
     "Interviews/Patterns.md",
     "Interviews/LC prep.md",
-    "Misc Resources/Misc.md",
+    "React/Misc Resources/Misc.md",
     "TypeScript/Basic Concepts.md",
-    "Interviews/Patterns/Problem solving.md",
     "Interviews/Patterns/Frecuency Counter.md",
     "Interviews/Patterns/Sliding Window.md"
   ]
