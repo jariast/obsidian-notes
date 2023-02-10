@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cea2560625b5cfd7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "__assets/Pasted image 20230105162025.png"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Big O.md",
+                "file": "__assets/Pasted image 20230105162025.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Big O.md",
+                "file": "__assets/Pasted image 20230105162025.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Big O.md"
+                "file": "__assets/Pasted image 20230105162025.png"
               }
             }
           },
@@ -180,17 +190,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9227703ae9bd0a2d",
+  "active": "b3ffc8a5a142f4c5",
   "lastOpenFiles": [
+    "__assets/Pasted image 20230114112811.png",
+    "__assets/Pasted image 20230210113427.png",
+    "__assets/Pasted image 20230105162025.png",
+    "Interviews/Algorithms/Binary Search.md",
+    "Interviews/Big O.md",
     "React/Misc Resources/Misc.md",
     "Interviews/Patterns/Problem solving.md",
     "VS Code Config/Initial Setup.md",
-    "Interviews/Big O.md",
     "Interviews/Study Topics.md",
-    "Interviews/Patterns.md",
-    "Interviews/LC prep.md",
-    "TypeScript/Basic Concepts.md",
-    "Interviews/Patterns/Frecuency Counter.md",
-    "Interviews/Patterns/Sliding Window.md"
+    "Interviews/Patterns.md"
   ]
 }
