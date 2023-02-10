@@ -13,48 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Patterns/Frecuency Counter.md",
+                "file": "Interviews/Algorithms/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "94f1428fbd715a20",
+            "id": "25fc440a8310e3d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Patterns/Sliding Window.md",
+                "file": "Interviews/Algorithms/Crystal Balls Problem.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9227703ae9bd0a2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/Big O.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cea2560625b5cfd7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "__assets/Pasted image 20230105162025.png"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__assets/Pasted image 20230105162025.png",
+                "file": "Interviews/Algorithms/Crystal Balls Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__assets/Pasted image 20230105162025.png",
+                "file": "Interviews/Algorithms/Crystal Balls Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__assets/Pasted image 20230105162025.png"
+                "file": "Interviews/Algorithms/Crystal Balls Problem.md"
               }
             }
           },
@@ -190,17 +168,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b3ffc8a5a142f4c5",
+  "active": "25fc440a8310e3d0",
   "lastOpenFiles": [
+    "Interviews/Algorithms/Binary Search.md",
+    "Interviews/Patterns/Frecuency Counter.md",
+    "Interviews/Patterns/Sliding Window.md",
+    "Interviews/Big O.md",
+    "__assets/Pasted image 20230105162025.png",
     "__assets/Pasted image 20230114112811.png",
     "__assets/Pasted image 20230210113427.png",
-    "__assets/Pasted image 20230105162025.png",
-    "Interviews/Algorithms/Binary Search.md",
-    "Interviews/Big O.md",
     "React/Misc Resources/Misc.md",
     "Interviews/Patterns/Problem solving.md",
-    "VS Code Config/Initial Setup.md",
-    "Interviews/Study Topics.md",
-    "Interviews/Patterns.md"
+    "VS Code Config/Initial Setup.md"
   ]
 }
