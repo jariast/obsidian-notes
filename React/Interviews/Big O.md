@@ -3,4 +3,4 @@ Is a notation that describes the upper bound of the growth of the time complexit
 It describes how the runtime of an algorithm grows as the input grows. Big O deals with the worst case scenario.
 
 If you have an algorithm that divides an array by half is probably O(logN).
-If you have an algorithm that divides an array by half and scans one of those halves, it probably is O(NlogN).
+If you have an algorithm that divides an array by half and scans one of those halves, it probably is O(N logN).
