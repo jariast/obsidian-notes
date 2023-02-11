@@ -168,14 +168,15 @@
             }
           },
           {
-            "id": "13edc0a7d5cfaa28",
+            "id": "0d4e927b0b513064",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "dee281733bf30fa2",
+  "active": "0d4e927b0b513064",
   "lastOpenFiles": [
     "Apartamento/Reunión Asesora Bancolombia.md",
     "Interviews/Algorithms/Crystal Balls Problem.md",
