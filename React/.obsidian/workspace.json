@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dee281733bf30fa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/Algorithms/Bubble Sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apartamento/Reunión Asesora Bancolombia.md",
+                "file": "Interviews/Algorithms/Bubble Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apartamento/Reunión Asesora Bancolombia.md",
+                "file": "Interviews/Algorithms/Bubble Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apartamento/Reunión Asesora Bancolombia.md"
+                "file": "Interviews/Algorithms/Bubble Sort.md"
               }
             }
           },
@@ -180,8 +193,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "c92fa1c7b1a85c0f",
+  "active": "dee281733bf30fa2",
   "lastOpenFiles": [
+    "Apartamento/Reunión Asesora Bancolombia.md",
     "Interviews/Algorithms/Crystal Balls Problem.md",
     "Interviews/Algorithms/Binary Search.md",
     "Interviews/Patterns/Frecuency Counter.md",
@@ -190,7 +204,6 @@
     "__assets/Pasted image 20230105162025.png",
     "__assets/Pasted image 20230114112811.png",
     "__assets/Pasted image 20230210113427.png",
-    "React/Misc Resources/Misc.md",
-    "Interviews/Patterns/Problem solving.md"
+    "React/Misc Resources/Misc.md"
   ]
 }
