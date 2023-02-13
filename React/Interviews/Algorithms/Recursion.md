@@ -9,3 +9,17 @@ The purpose of Recursion is that in each invocation of the recursive function, w
 3. Relate hard cases to simpler cases.
 4. Generalize the pattern.
 5. Write code by combining recursive pattern with the base case.
+
+# Factorial
+![[Pasted image 20230213164408.png]]
+In the above doodle we can clearly see that each factorial is calculated by multiplying the current value of `n` by the previous number's factorial.
+
+```js
+const factorial = (n) => {
+  if (n < 1) {
+    return 1;
+  }
+
+  return n * factorial(n - 1);
+};```
+
