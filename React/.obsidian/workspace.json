@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "Interviews/Algorithms/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "Interviews/Algorithms/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Resources.md"
+                "file": "Interviews/Algorithms/Recursion.md"
               }
             }
           },
@@ -181,17 +181,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f999460dd72cbd30",
+  "active": "f02766f39b1213b2",
   "lastOpenFiles": [
+    "Interviews/Algorithms/Binary Search.md",
     "Interviews/Algorithms/Recursion.md",
+    "VIM Config/Resources.md",
     "Interviews/Algorithms/Crystal Balls Problem.md",
     "VS Code Config/TroubleShooting.md",
-    "Interviews/Algorithms/Binary Search.md",
     "Apartamento/Reunión Asesora Bancolombia.md",
     "Interviews/Patterns/Frecuency Counter.md",
     "Interviews/Patterns/Sliding Window.md",
     "Interviews/Big O.md",
-    "__assets/Pasted image 20230105162025.png",
-    "__assets/Pasted image 20230114112811.png"
+    "__assets/Pasted image 20230105162025.png"
   ]
 }
