@@ -6,7 +6,7 @@ ALWAYS think what your Base Case is.
 This [video](https://www.youtube.com/watch?v=ngCos392W4w) helps a lot on visualizing how to build a recursive function based on its iterations.
 The purpose of Recursion is that in each invocation of the recursive function, we get a little closer to the solution of a problem.
 
-1. What is the simples possible input?
+1. What is the simplest possible input?
 2. Play around with examples and visualize.
 3. Relate hard cases to simpler cases.
 4. Generalize the pattern.

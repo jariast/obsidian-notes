@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a9c8bd21447e991",
+        "id": "5fcc0c94599036d2",
         "type": "tabs",
         "children": [
           {
-            "id": "fd0245b67086d0b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/Algorithms/Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f02766f39b1213b2",
+            "id": "b3a4ee8b3d4333b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f999460dd72cbd30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VIM Config/Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +156,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "f02766f39b1213b2",
+  "active": "b3ffc8a5a142f4c5",
   "lastOpenFiles": [
-    "Interviews/Algorithms/Binary Search.md",
     "Interviews/Algorithms/Recursion.md",
+    "Interviews/Algorithms/Binary Search.md",
     "VIM Config/Resources.md",
     "Interviews/Algorithms/Crystal Balls Problem.md",
     "VS Code Config/TroubleShooting.md",
