@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "Interviews/Patterns/Sliding Window.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "Interviews/Patterns/Sliding Window.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "Interviews/Patterns/Sliding Window.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md"
+                "file": "Interviews/Patterns/Sliding Window.md"
               }
             }
           },
@@ -159,6 +159,7 @@
   "active": "b3a4ee8b3d4333b4",
   "lastOpenFiles": [
     "Interviews/Patterns/Multiple Pointers.md",
+    "Interviews/Patterns/Problem solving.md",
     "Interviews/Patterns/Frecuency Counter.md",
     "Interviews/Algorithms/Binary Search.md",
     "Interviews/Algorithms/Crystal Balls Problem.md",
@@ -166,7 +167,6 @@
     "VIM Config/Resources.md",
     "VS Code Config/TroubleShooting.md",
     "Apartamento/Reunión Asesora Bancolombia.md",
-    "Interviews/Patterns/Sliding Window.md",
-    "Interviews/Big O.md"
+    "Interviews/Patterns/Sliding Window.md"
   ]
 }
