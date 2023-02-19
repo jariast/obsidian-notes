@@ -27,3 +27,5 @@ Usually these types of DBs are sharded by default, they are built to handle shar
 
 ![[Pasted image 20230219153049.png]]
 
+Is usually better to start with normalized data, because updates are way easier to implement. Later, if the app is suffering from low performance, we can move to using denormalized data to speed up the response time of the retrieval queries. If for the client is more important to answer fast to a READ operation than to an UPDATE, denormalize is the way to go.
+
