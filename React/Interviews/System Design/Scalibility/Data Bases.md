@@ -41,7 +41,7 @@ No transaction should be affected by any other transaction that is still in prog
 A committed transaction should stay committed even if the system crashes.
 
 # CAP Theorem
-A DB can't be good at everything, it has to trade something off.
+A DB can't be good at everything, it has to trade something off. Generally DBs are good in two things, and must sacrifice the 3rd one. For example, NoSQL DBs have fairly good Consistency and Partition-Tolerance, but they must sacrifice Availability, because they usually have a Master Node that acts as Single Point of Failure.
 
 ## Consistency
 How fast can newly written data be retrieved? If I write data, how long does it take to move through all my shards?

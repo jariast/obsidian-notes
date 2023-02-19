@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e790936dabd6e7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/System Design/Scalibility/Data Bases.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec51c78709bcc531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/System Design/Scalibility/Caching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "265025a584c89dbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/System Design/Scalibility/CDNs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "32976cdd891a0a49",
             "type": "leaf",
             "state": {
@@ -54,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b5ea4a2579f21cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/System Design/Scalibility/Caching.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/System Design/Resiliency.md",
+                "file": "Interviews/System Design/Scalibility/Caching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/System Design/Resiliency.md",
+                "file": "Interviews/System Design/Scalibility/Caching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/System Design/Resiliency.md"
+                "file": "Interviews/System Design/Scalibility/Caching.md"
               }
             }
           },
@@ -193,17 +169,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "32976cdd891a0a49",
+  "active": "b5ea4a2579f21cf7",
   "lastOpenFiles": [
+    "Interviews/System Design/Scalibility/Data Bases.md",
+    "Interviews/System Design/SLA.md",
+    "Interviews/System Design/Resiliency.md",
+    "Interviews/System Design/Servers.md",
     "Interviews/System Design/Scalibility/CDNs.md",
     "Interviews/System Design/Scalibility/Caching.md",
-    "Interviews/System Design/Scalibility/Data Bases.md",
     "Interviews/System Design/Scalibility/General.md",
     "__assets/Pasted image 20230219153047.png",
-    "Interviews/System Design/Servers.md",
     "Interviews/Patterns/Sliding Window.md",
-    "Interviews/Patterns/Multiple Pointers.md",
-    "Interviews/Patterns/Problem solving.md",
-    "Interviews/Patterns/Frecuency Counter.md"
+    "Interviews/Patterns/Multiple Pointers.md"
   ]
 }

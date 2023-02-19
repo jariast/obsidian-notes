@@ -14,10 +14,10 @@ Be sure to ask the interviewer the specific requirements.
 When booting up the system, how do we "fill" the cache without consuming too many resources from whatever we're caching.
 
 # Eviction Policies
-- LRU Least Recently Used. We can maintain a HashMap where the keys point to where in the Cache they're stored, when we access an item, we move it to the Head of the Linked List. When the cache needs to free up space, we can Evict the tail from the List.
+- LRU Least Recently Used. This policy ensures that the data that hasn't been accessed in a while gets evicted first. We can maintain a HashMap where the keys point to where in the Cache they're stored, when we access an item, we move it to the Head of the Linked List. When the cache needs to free up space, we can Evict the tail from the List.
 ![[Pasted image 20230219165123.png]]
-- LFU Least Frequently Used
-- FIFO
+- LFU Least Frequently Used. The data accessed the least amount of times gets evicted first.
+- FIFO. The data that was 1st on the Cache will be the 1st to be out.
 
 # Cache Technologies
 
