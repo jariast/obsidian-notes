@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9e790936dabd6e7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/System Design/Scalibilty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,8 +181,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b50f7cb2ee99c254",
+  "active": "9e790936dabd6e7f",
   "lastOpenFiles": [
+    "Interviews/System Design/Servers.md",
+    "Interviews/System Design/Scalibilty.md",
     "Interviews/Patterns/Sliding Window.md",
     "Interviews/Patterns/Multiple Pointers.md",
     "Interviews/Patterns/Problem solving.md",
@@ -178,8 +192,6 @@
     "Interviews/Algorithms/Binary Search.md",
     "Interviews/Algorithms/Crystal Balls Problem.md",
     "Interviews/Algorithms/Recursion.md",
-    "VIM Config/Resources.md",
-    "VS Code Config/TroubleShooting.md",
-    "Apartamento/Reunión Asesora Bancolombia.md"
+    "VIM Config/Resources.md"
   ]
 }
