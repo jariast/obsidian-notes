@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Algorithms/Recursion.md",
+                "file": "Interviews/Patterns/Problem solving.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Algorithms/Recursion.md",
+                "file": "Interviews/Patterns/Problem solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Algorithms/Recursion.md",
+                "file": "Interviews/Patterns/Problem solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Algorithms/Recursion.md"
+                "file": "Interviews/Patterns/Problem solving.md"
               }
             }
           },
@@ -156,17 +156,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b3ffc8a5a142f4c5",
+  "active": "b3a4ee8b3d4333b4",
   "lastOpenFiles": [
-    "Interviews/Algorithms/Recursion.md",
+    "Interviews/Patterns/Multiple Pointers.md",
+    "Interviews/Patterns/Frecuency Counter.md",
     "Interviews/Algorithms/Binary Search.md",
-    "VIM Config/Resources.md",
     "Interviews/Algorithms/Crystal Balls Problem.md",
+    "Interviews/Algorithms/Recursion.md",
+    "VIM Config/Resources.md",
     "VS Code Config/TroubleShooting.md",
     "Apartamento/Reunión Asesora Bancolombia.md",
-    "Interviews/Patterns/Frecuency Counter.md",
     "Interviews/Patterns/Sliding Window.md",
-    "Interviews/Big O.md",
-    "__assets/Pasted image 20230105162025.png"
+    "Interviews/Big O.md"
   ]
 }

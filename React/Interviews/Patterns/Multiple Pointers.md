@@ -15,5 +15,3 @@ function countUniqueValues(arr) {
 
 In the above example, `i` will move way slower than `j`, `j` is "scouting" ahead, if 
 `j!==i` we move `i` one space and save the value of `array[j]` in `i` position, this way we make sure to start comparing for a new value. This only works because we were provided an ordered array.
-
-	
