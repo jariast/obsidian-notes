@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b50f7cb2ee99c254",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/System Design/Scalibilty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Patterns/Sliding Window.md",
+                "file": "Interviews/System Design/Scalibilty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Patterns/Sliding Window.md",
+                "file": "Interviews/System Design/Scalibilty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Patterns/Sliding Window.md"
+                "file": "Interviews/System Design/Scalibilty.md"
               }
             }
           },
@@ -156,8 +169,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b3a4ee8b3d4333b4",
+  "active": "b50f7cb2ee99c254",
   "lastOpenFiles": [
+    "Interviews/Patterns/Sliding Window.md",
     "Interviews/Patterns/Multiple Pointers.md",
     "Interviews/Patterns/Problem solving.md",
     "Interviews/Patterns/Frecuency Counter.md",
@@ -166,7 +180,6 @@
     "Interviews/Algorithms/Recursion.md",
     "VIM Config/Resources.md",
     "VS Code Config/TroubleShooting.md",
-    "Apartamento/Reunión Asesora Bancolombia.md",
-    "Interviews/Patterns/Sliding Window.md"
+    "Apartamento/Reunión Asesora Bancolombia.md"
   ]
 }
