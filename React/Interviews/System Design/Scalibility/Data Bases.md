@@ -29,3 +29,28 @@ Usually these types of DBs are sharded by default, they are built to handle shar
 
 Is usually better to start with normalized data, because updates are way easier to implement. Later, if the app is suffering from low performance, we can move to using denormalized data to speed up the response time of the retrieval queries. If for the client is more important to answer fast to a READ operation than to an UPDATE, denormalize is the way to go.
 
+# ACID Compliance
+
+## Atomicity
+The entire operation should succeed or fail. There can't be leftovers operations after a failure midpoint.
+## Consistency
+All the rules must be applied to all transactions, otherwise the transaction must rollback.
+## Isolation
+No transaction should be affected by any other transaction that is still in progress.
+## Durability
+A committed transaction should stay committed even if the system crashes.
+
+# CAP Theorem
+A DB can't be good at everything, it has to trade something off.
+
+## Consistency
+How fast can newly written data be retrieved? If I write data, how long does it take to move through all my shards?
+
+## Availability
+
+How much downtime can we expect from a DB? How many points of failure do we have?
+
+## Partition Tolerance
+How easy is to scale the DB?
+
+![[Pasted image 20230219161649.png]]
