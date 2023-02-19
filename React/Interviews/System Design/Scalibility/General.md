@@ -14,14 +14,3 @@ We have a Load Balancer routing traffic to a fleet of servers. All the servers c
 A request received by any given server, should not depend on the state of any previous request in the system. This means that any server in the fleet can handle any request in any time.
 
 
-# DB Scaling
-
-## Cold Standby
-
-We have another server almost ready to take the place of the main server in case of failure. We use one of the periodical backups to restore the information on the "new" server. We must reroute all the traffic to the new server. 
-
-This requires to tolerate downtime and data-loss.
-
-## Warn Standby
-
-We have a server replicating all the info from the main server.

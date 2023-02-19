@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3a4ee8b3d4333b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/Patterns/Sliding Window.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b50f7cb2ee99c254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/System Design/Scalibilty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9e790936dabd6e7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/System Design/Scalibilty.md",
+                "file": "Interviews/System Design/Scalibility/Data Bases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/System Design/Scalibilty.md",
+                "file": "Interviews/System Design/Scalibility/Data Bases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/System Design/Scalibilty.md",
+                "file": "Interviews/System Design/Scalibility/Data Bases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/System Design/Scalibilty.md"
+                "file": "Interviews/System Design/Scalibility/Data Bases.md"
               }
             }
           },
@@ -183,15 +158,15 @@
   },
   "active": "9e790936dabd6e7f",
   "lastOpenFiles": [
+    "Interviews/System Design/Scalibility/General.md",
+    "__assets/Pasted image 20230219153047.png",
+    "Interviews/System Design/Scalibility/Data Bases.md",
     "Interviews/System Design/Servers.md",
-    "Interviews/System Design/Scalibilty.md",
     "Interviews/Patterns/Sliding Window.md",
     "Interviews/Patterns/Multiple Pointers.md",
     "Interviews/Patterns/Problem solving.md",
     "Interviews/Patterns/Frecuency Counter.md",
     "Interviews/Algorithms/Binary Search.md",
-    "Interviews/Algorithms/Crystal Balls Problem.md",
-    "Interviews/Algorithms/Recursion.md",
-    "VIM Config/Resources.md"
+    "Interviews/Algorithms/Crystal Balls Problem.md"
   ]
 }
