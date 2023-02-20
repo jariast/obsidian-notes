@@ -14,3 +14,5 @@ We have a Load Balancer routing traffic to a fleet of servers. All the servers c
 A request received by any given server, should not depend on the state of any previous request in the system. This means that any server in the fleet can handle any request in any time.
 
 
+# Data Lake
+Storing a massive amount of unstructured data somewhere and later on imparting structure, in order to be able to query it as usual.

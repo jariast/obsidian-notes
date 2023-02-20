@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ae6c0d6e2923ca7",
+        "id": "e425e336884857ef",
         "type": "tabs",
         "children": [
           {
-            "id": "49d3d71902862f1e",
+            "id": "9c52cd3ebd8eefd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/System Design/Big Data/Apache Spark.md",
+                "file": "Interviews/System Design/Interview Strategies/General Tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/System Design/Big Data/Apache Spark.md",
+                "file": "Interviews/System Design/Interview Strategies/General Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/System Design/Big Data/Apache Spark.md",
+                "file": "Interviews/System Design/Interview Strategies/General Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/System Design/Big Data/Apache Spark.md"
+                "file": "Interviews/System Design/Interview Strategies/General Tips.md"
               }
             }
           },
@@ -157,17 +157,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "49d3d71902862f1e",
+  "active": "9c52cd3ebd8eefd6",
   "lastOpenFiles": [
+    "Interviews/System Design/Big Data/Cloud Computing.md",
+    "Interviews/System Design/Big Data/Apache Spark.md",
+    "Interviews/System Design/Scalibility/General.md",
     "Interviews/System Design/Search and Info Retrieval.md",
     "Interviews/System Design/Resiliency.md",
     "Interviews/Algorithms/Hash Table.md",
     "Interviews/Algorithms/Graphs.md",
     "Interviews/System Design/Sorting Algs.md",
     "Interviews/System Design/Scalibility/Caching.md",
-    "Interviews/System Design/Scalibility/CDNs.md",
-    "Interviews/System Design/Scalibility/Data Bases.md",
-    "Interviews/System Design/Scalibility/General.md",
-    "Interviews/System Design/Servers.md"
+    "Interviews/System Design/Scalibility/CDNs.md"
   ]
 }
