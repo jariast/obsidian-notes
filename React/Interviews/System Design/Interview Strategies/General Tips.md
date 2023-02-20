@@ -23,4 +23,18 @@ Define the three-nines SLA.
 Is being down a threat to the business?
 If high availability is required, we must avoid single points of failure.
 
-h
+# THINK OUT LOUD
+
+# Let the interviewer talk as well.
+
+# Steps
+1. Ask clarifying questions.
+2. Talk during the thinking process
+3. Sketch the design
+	1. Start with high-level components
+	2. Flesh out each component.
+4. Be honest, don't pretend you know something you don't.
+
+# Defend your design
+
+ 
