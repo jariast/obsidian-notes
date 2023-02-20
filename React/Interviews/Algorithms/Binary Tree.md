@@ -1,0 +1,3 @@
+- Each element has a `left` and `right` pointers.
+- If the left and right are ordered (left is less than right), this is a binary search tree.
+- Access is O(log(n)) on average but O(n) as worst case.
