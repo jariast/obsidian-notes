@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4197cbad7cab2876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced JS/Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+                "file": "Advanced JS/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+                "file": "Advanced JS/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md"
+                "file": "Advanced JS/Functions.md"
               }
             }
           },
@@ -156,8 +169,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9c52cd3ebd8eefd6",
+  "active": "4197cbad7cab2876",
   "lastOpenFiles": [
+    "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
     "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
     "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
@@ -166,7 +180,6 @@
     "Interviews/System Design/Big Data/Cloud Computing.md",
     "Interviews/System Design/Big Data/Apache Spark.md",
     "Interviews/System Design/Scalibility/General.md",
-    "Interviews/System Design/Search and Info Retrieval.md",
-    "Interviews/System Design/Resiliency.md"
+    "Interviews/System Design/Search and Info Retrieval.md"
   ]
 }
