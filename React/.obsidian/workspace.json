@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced JS/Functions.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced JS/Functions.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced JS/Functions.md"
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md"
               }
             }
           },
@@ -169,8 +168,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4197cbad7cab2876",
+  "active": "9c52cd3ebd8eefd6",
   "lastOpenFiles": [
+    "Advanced JS/Functions.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
     "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
@@ -179,7 +179,6 @@
     "Interviews/System Design/Interview Strategies/General Tips.md",
     "Interviews/System Design/Big Data/Cloud Computing.md",
     "Interviews/System Design/Big Data/Apache Spark.md",
-    "Interviews/System Design/Scalibility/General.md",
-    "Interviews/System Design/Search and Info Retrieval.md"
+    "Interviews/System Design/Scalibility/General.md"
   ]
 }
