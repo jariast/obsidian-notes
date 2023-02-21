@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/System Design/Interview Strategies/General Tips.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/System Design/Interview Strategies/General Tips.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/System Design/Interview Strategies/General Tips.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/System Design/Interview Strategies/General Tips.md"
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md"
               }
             }
           },
@@ -159,15 +158,15 @@
   },
   "active": "9c52cd3ebd8eefd6",
   "lastOpenFiles": [
+    "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
+    "Interviews/System Design/Interview Strategies/General Tips.md",
     "Interviews/System Design/Big Data/Cloud Computing.md",
     "Interviews/System Design/Big Data/Apache Spark.md",
     "Interviews/System Design/Scalibility/General.md",
     "Interviews/System Design/Search and Info Retrieval.md",
-    "Interviews/System Design/Resiliency.md",
-    "Interviews/Algorithms/Hash Table.md",
-    "Interviews/Algorithms/Graphs.md",
-    "Interviews/System Design/Sorting Algs.md",
-    "Interviews/System Design/Scalibility/Caching.md",
-    "Interviews/System Design/Scalibility/CDNs.md"
+    "Interviews/System Design/Resiliency.md"
   ]
 }
