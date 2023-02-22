@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4197cbad7cab2876",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Advanced JS/Functions.md",
                 "mode": "source",
                 "source": false
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+                "file": "Advanced JS/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+                "file": "Advanced JS/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md"
+                "file": "Advanced JS/Functions.md"
               }
             }
           },
@@ -170,8 +158,8 @@
   },
   "active": "9c52cd3ebd8eefd6",
   "lastOpenFiles": [
-    "Advanced JS/Functions.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+    "Advanced JS/Functions.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
     "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
     "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
