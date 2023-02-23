@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Patterns/Frecuency Counter.md",
+                "file": "TypeScript/Basic Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "583b61e4351db408",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Patterns/Frecuency Counter.md",
+                "file": "TypeScript/Basic Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Patterns/Frecuency Counter.md",
+                "file": "TypeScript/Basic Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Patterns/Frecuency Counter.md"
+                "file": "TypeScript/Basic Concepts.md"
               }
             }
           },
@@ -179,17 +169,18 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "583b61e4351db408",
+  "active": "34f14884de5cf2b8",
   "lastOpenFiles": [
+    "VIM Config/Resources.md",
+    "Advanced JS/Classes/Inheritance.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+    "Interviews/Patterns/Frecuency Counter.md",
     "Interviews/Patterns/Multiple Pointers.md",
     "Interviews/Patterns/Problem solving.md",
-    "Interviews/Patterns/Frecuency Counter.md",
-    "Advanced JS/Classes/Inheritance.md",
     "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
     "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
     "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
-    "Advanced JS/Functions.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md"
+    "Advanced JS/Functions.md"
   ]
 }
