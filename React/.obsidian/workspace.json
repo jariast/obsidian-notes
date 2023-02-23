@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced JS/Functions.md",
+                "file": "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34f14884de5cf2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced JS/Classes/Inheritance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced JS/Functions.md",
+                "file": "Advanced JS/Classes/Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced JS/Functions.md",
+                "file": "Advanced JS/Classes/Inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced JS/Functions.md"
+                "file": "Advanced JS/Classes/Inheritance.md"
               }
             }
           },
@@ -156,17 +169,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "9c52cd3ebd8eefd6",
+  "active": "34f14884de5cf2b8",
   "lastOpenFiles": [
-    "Interviews/Algorithms/Crystal Balls Problem.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
     "Advanced JS/Functions.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
-    "Interviews/System Design/Interview Strategies/General Tips.md",
-    "Interviews/System Design/Big Data/Cloud Computing.md",
-    "Interviews/System Design/Big Data/Apache Spark.md"
+    "Advanced JS/Classes/Inheritanc.md",
+    "Advanced JS/Class/Untitled.md",
+    "Interviews/Algorithms/Crystal Balls Problem.md",
+    "Interviews/System Design/Interview Strategies/General Tips.md"
   ]
 }
