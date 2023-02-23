@@ -1,4 +1,4 @@
-Inheritance is one object gets access to the properties and methods of another obejct.
+Inheritance is one object gets access to the properties and methods of another object.
 
 # Classical Inheritance
 Is very verbose. Is fragile.

@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced JS/Classes/Inheritance.md",
+                "file": "Interviews/Patterns/Frecuency Counter.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "583b61e4351db408",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced JS/Classes/Inheritance.md",
+                "file": "Interviews/Patterns/Frecuency Counter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced JS/Classes/Inheritance.md",
+                "file": "Interviews/Patterns/Frecuency Counter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced JS/Classes/Inheritance.md"
+                "file": "Interviews/Patterns/Frecuency Counter.md"
               }
             }
           },
@@ -169,17 +179,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "34f14884de5cf2b8",
+  "active": "583b61e4351db408",
   "lastOpenFiles": [
+    "Interviews/Patterns/Multiple Pointers.md",
+    "Interviews/Patterns/Problem solving.md",
+    "Interviews/Patterns/Frecuency Counter.md",
+    "Advanced JS/Classes/Inheritance.md",
     "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
     "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
     "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
     "Advanced JS/Functions.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
-    "Advanced JS/Classes/Inheritanc.md",
-    "Advanced JS/Class/Untitled.md",
-    "Interviews/Algorithms/Crystal Balls Problem.md",
-    "Interviews/System Design/Interview Strategies/General Tips.md"
+    "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md"
   ]
 }
