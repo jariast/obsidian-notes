@@ -95,7 +95,7 @@ const server = new ApolloServer({
 });
 ```
 
-As stated in the [documentation](https://www.apollographql.com/docs/apollo-server/migration/#context-initialization-function) in V4 the context can no longer be initialized in that way. Besides that, the `jwt.verify` method will error out if we provide an invalid token, breaking the Apollo explorer (it will say somethin like "The introspection query didn't work").
+As stated in the [documentation](https://www.apollographql.com/docs/apollo-server/migration/#context-initialization-function) in V4 the context can no longer be initialized in that way. Besides that, the `jwt.verify` method will error out if we provide an invalid token, breaking the Apollo explorer (it will say something like "The introspection query didn't work").
 
 The user authentication [[8c Database and User Administration#User and Login]] implementation works just fine, but in my opinion it's a little bit wasteful, because it seems like the context function is ran every single time a request is made to the server. 
 

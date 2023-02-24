@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "34f14884de5cf2b8",
+            "id": "31d97a26b7db66a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md"
+                "file": "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md"
               }
             }
           },
@@ -169,16 +169,20 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "34f14884de5cf2b8",
+  "active": "31d97a26b7db66a7",
   "lastOpenFiles": [
+    "React/FullStack Course/Part 8 GraphQL/Exercises/Untitled.md",
+    "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
+    "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
+    "React/FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
+    "Interviews/Patterns/Problem solving.md",
     "TypeScript/Basic Concepts.md",
     "VIM Config/Resources.md",
     "Advanced JS/Classes/Inheritance.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
     "Interviews/Patterns/Frecuency Counter.md",
     "Interviews/Patterns/Multiple Pointers.md",
-    "Interviews/Patterns/Problem solving.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
     "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
     "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
     "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
