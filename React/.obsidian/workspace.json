@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md"
+                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md"
               }
             }
           },
@@ -171,9 +171,10 @@
   },
   "active": "31d97a26b7db66a7",
   "lastOpenFiles": [
-    "React/FullStack Course/Part 8 GraphQL/Exercises/Untitled.md",
+    "React/FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
     "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
+    "React/FullStack Course/Part 8 GraphQL/Exercises/Untitled.md",
     "React/FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
     "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
     "Interviews/Patterns/Problem solving.md",
