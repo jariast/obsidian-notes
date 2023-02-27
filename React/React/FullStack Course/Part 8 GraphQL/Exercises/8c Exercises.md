@@ -1,7 +1,7 @@
 # Setup
 #backendSetup #security #environment #packages
 
-- Install mongoose
+- Install mongoosez
 ``` bash
 npm install mongoose
 ```
