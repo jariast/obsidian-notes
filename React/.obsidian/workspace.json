@@ -1,199 +1,194 @@
 {
-    "main": {
-        "id": "6ba8cf78df0cbca2",
-        "type": "split",
+  "main": {
+    "id": "6ba8cf78df0cbca2",
+    "type": "split",
+    "children": [
+      {
+        "id": "56d18eb0c3cce3df",
+        "type": "tabs",
         "children": [
-            {
-                "id": "e425e336884857ef",
-                "type": "tabs",
-                "children": [
-                    {
-                        "id": "9c52cd3ebd8eefd6",
-                        "type": "leaf",
-                        "state": {
-                            "type": "markdown",
-                            "state": {
-                                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
-                                "mode": "source",
-                                "source": false
-                            }
-                        }
-                    },
-                    {
-                        "id": "31d97a26b7db66a7",
-                        "type": "leaf",
-                        "state": {
-                            "type": "markdown",
-                            "state": {
-                                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
-                                "mode": "source",
-                                "source": false
-                            }
-                        }
-                    },
-                    {
-                        "id": "148d55309bdd6347",
-                        "type": "leaf",
-                        "state": {
-                            "type": "empty",
-                            "state": {}
-                        }
-                    }
-                ],
-                "currentTab": 1
+          {
+            "id": "aa3c7519a6a1c2e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/Work Lessons/3rd party libraries WOES.md",
+                "mode": "source",
+                "source": false
+              }
             }
+          },
+          {
+            "id": "5c797a9cd709510e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/Work Lessons/Testing Observables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
         ],
-        "direction": "vertical"
-    },
-    "left": {
-        "id": "d2335838199974fc",
-        "type": "split",
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2335838199974fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ea403fbd3945804",
+        "type": "tabs",
         "children": [
-            {
-                "id": "3ea403fbd3945804",
-                "type": "tabs",
-                "children": [
-                    {
-                        "id": "b3ffc8a5a142f4c5",
-                        "type": "leaf",
-                        "state": {
-                            "type": "file-explorer",
-                            "state": {
-                                "sortOrder": "alphabetical"
-                            }
-                        }
-                    },
-                    {
-                        "id": "c349099977dfd285",
-                        "type": "leaf",
-                        "state": {
-                            "type": "search",
-                            "state": {
-                                "query": "tag:#courseMaterialCorrection",
-                                "matchingCase": false,
-                                "explainSearch": false,
-                                "collapseAll": false,
-                                "extraContext": false,
-                                "sortOrder": "alphabetical"
-                            }
-                        }
-                    },
-                    {
-                        "id": "b53421fc8355ba6a",
-                        "type": "leaf",
-                        "state": {
-                            "type": "starred",
-                            "state": {}
-                        }
-                    }
-                ]
+          {
+            "id": "b3ffc8a5a142f4c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
-        ],
-        "direction": "horizontal",
-        "width": 300.5
-    },
-    "right": {
-        "id": "54b7ae893977155b",
-        "type": "split",
+          },
+          {
+            "id": "c349099977dfd285",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#courseMaterialCorrection",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b53421fc8355ba6a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "54b7ae893977155b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2641150572c48e06",
+        "type": "tabs",
         "children": [
-            {
-                "id": "2641150572c48e06",
-                "type": "tabs",
-                "children": [
-                    {
-                        "id": "bcdf3ddfb2d9a488",
-                        "type": "leaf",
-                        "state": {
-                            "type": "backlink",
-                            "state": {
-                                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
-                                "collapseAll": false,
-                                "extraContext": false,
-                                "sortOrder": "alphabetical",
-                                "showSearch": false,
-                                "searchQuery": "",
-                                "backlinkCollapsed": false,
-                                "unlinkedCollapsed": true
-                            }
-                        }
-                    },
-                    {
-                        "id": "302a65b9f19cbc8e",
-                        "type": "leaf",
-                        "state": {
-                            "type": "outgoing-link",
-                            "state": {
-                                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
-                                "linksCollapsed": false,
-                                "unlinkedCollapsed": true
-                            }
-                        }
-                    },
-                    {
-                        "id": "3c1e30ecb7b33fe1",
-                        "type": "leaf",
-                        "state": {
-                            "type": "tag",
-                            "state": {
-                                "sortOrder": "frequency",
-                                "useHierarchy": true
-                            }
-                        }
-                    },
-                    {
-                        "id": "3c557ef07c20e6c0",
-                        "type": "leaf",
-                        "state": {
-                            "type": "outline",
-                            "state": {
-                                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md"
-                            }
-                        }
-                    },
-                    {
-                        "id": "0d4e927b0b513064",
-                        "type": "leaf",
-                        "state": {
-                            "type": "side-panel-control-view",
-                            "state": {}
-                        }
-                    }
-                ]
+          {
+            "id": "bcdf3ddfb2d9a488",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Angular/Work Lessons/Testing Observables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
-        ],
-        "direction": "horizontal",
-        "width": 300,
-        "collapsed": true
-    },
-    "left-ribbon": {
-        "hiddenItems": {
-            "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-            "switcher:Open quick switcher": false,
-            "graph:Open graph view": false,
-            "canvas:Create new canvas": false,
-            "daily-notes:Open today's daily note": false,
-            "templates:Insert template": false,
-            "command-palette:Open command palette": false
-        }
-    },
-    "active": "31d97a26b7db66a7",
-    "lastOpenFiles": [
-        "React/FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
-        "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
-        "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
-        "React/FullStack Course/Part 8 GraphQL/Exercises/Untitled.md",
-        "React/FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
-        "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
-        "Interviews/Patterns/Problem solving.md",
-        "TypeScript/Basic Concepts.md",
-        "VIM Config/Resources.md",
-        "Advanced JS/Classes/Inheritance.md",
-        "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
-        "Interviews/Patterns/Frecuency Counter.md",
-        "Interviews/Patterns/Multiple Pointers.md",
-        "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
-        "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
-        "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
-        "Advanced JS/Functions.md"
-    ]
+          },
+          {
+            "id": "302a65b9f19cbc8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Angular/Work Lessons/Testing Observables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c1e30ecb7b33fe1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c557ef07c20e6c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Angular/Work Lessons/Testing Observables.md"
+              }
+            }
+          },
+          {
+            "id": "0d4e927b0b513064",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5c797a9cd709510e",
+  "lastOpenFiles": [
+    "Angular/Work Lessons/3rd party libraries WOES.md",
+    "Angular/Work Lessons/Testing Observables.md",
+    "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
+    "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
+    "React/FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
+    "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
+    "React/FullStack Course/Part 8 GraphQL/Exercises/Untitled.md",
+    "React/FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
+    "Interviews/Patterns/Problem solving.md",
+    "TypeScript/Basic Concepts.md",
+    "VIM Config/Resources.md",
+    "Advanced JS/Classes/Inheritance.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md",
+    "Interviews/Patterns/Frecuency Counter.md",
+    "Interviews/Patterns/Multiple Pointers.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/11. Execution Context.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/17. Scope Chain.md",
+    "Advanced JS/Execution Contexts and Lexical Environments/Concepts.md",
+    "Advanced JS/Functions.md"
+  ]
 }
