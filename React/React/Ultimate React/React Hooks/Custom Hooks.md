@@ -2,6 +2,8 @@ A custom hook is any function that uses a *hook*, the name should start by *use*
 
 The [docs](https://beta.reactjs.org/learn/reusing-logic-with-custom-hooks#) have a bunch of info on how to use Custom Hooks effectively. 
 
+# Custom Local Storage hook
+
 The [Extra Credit 4](https://epicreact.dev/modules/react-hooks/useeffect-persistent-state-extra-credit-solution-4) for the 2nd Exercise, has a really interesting Custom Hook for managing Local Storage.
 
 #reusableCode
