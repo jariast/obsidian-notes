@@ -4,6 +4,8 @@ The [docs](https://beta.reactjs.org/learn/reusing-logic-with-custom-hooks#) have
 
 The [Extra Credit 4](https://epicreact.dev/modules/react-hooks/useeffect-persistent-state-extra-credit-solution-4) for the 2nd Exercise, has a really interesting Custom Hook for managing Local Storage.
 
+#reusableCode
+
 ```js
 function useLocalStorageState(
   key,

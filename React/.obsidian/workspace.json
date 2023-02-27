@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
-                "mode": "source",
+                "file": "React/Ultimate React/React Hooks/Custom Hooks.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#courseMaterialCorrection",
+                "query": "localS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,11 +78,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
+                "file": "React/Ultimate React/React Hooks/Custom Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
+                "file": "React/Ultimate React/React Hooks/Custom Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md"
+                "file": "React/Ultimate React/React Hooks/Custom Hooks.md"
               }
             }
           },
@@ -171,8 +173,8 @@
   },
   "active": "d90957823b10e29c",
   "lastOpenFiles": [
-    "React/FullStack Course/Part 8 GraphQL/8b React and GraphQL.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
+    "React/FullStack Course/Part 8 GraphQL/8b React and GraphQL.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
     "Angular/Work Lessons/Testing Observables.md",
