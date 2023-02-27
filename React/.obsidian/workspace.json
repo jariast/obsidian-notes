@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "56d18eb0c3cce3df",
+        "id": "e425e336884857ef",
         "type": "tabs",
         "children": [
           {
-            "id": "aa3c7519a6a1c2e2",
+            "id": "9c52cd3ebd8eefd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Work Lessons/3rd party libraries WOES.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5c797a9cd709510e",
+            "id": "31d97a26b7db66a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Work Lessons/Testing Observables.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Work Lessons/Testing Observables.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/Work Lessons/Testing Observables.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Work Lessons/Testing Observables.md"
+                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md"
               }
             }
           },
@@ -150,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -159,23 +160,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5c797a9cd709510e",
+  "active": "31d97a26b7db66a7",
   "lastOpenFiles": [
-    "Angular/Work Lessons/3rd party libraries WOES.md",
     "Angular/Work Lessons/Testing Observables.md",
-    "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
-    "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
     "React/FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
     "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
+    "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/Untitled.md",
     "React/FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
     "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
