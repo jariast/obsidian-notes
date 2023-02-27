@@ -33,4 +33,4 @@ it('[exportView] - should call captureService', () => {
   });
 ```
 
-We use the mock object to access the method and mock a return value. This test was very simple, because we did not need to check anything after the service was called, we just 
+We use the mock object to access the method and mock a return value. This test was very simple, because we did not need to check anything after the service was called, we just check that the method was called.
