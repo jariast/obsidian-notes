@@ -22,5 +22,5 @@ Notice how the `author` field is now an object, we only need the `name` field of
 
 We added a new `Login` component which is in charge of calling the mutation `LOGIN`, we decided to go with uncontrolled forms because we don't need to make any sort of validations, we just need to submit the user credentials.
 
-In the `App` component we're using [[Custom Hooks#Custom Local Storage hook]] to save and retrieve the token from the local storage. We also added some guards to functionaliti
+In the `App` component we're using [[Custom Hooks#Custom Local Storage hook]] to save and retrieve the token from the local storage. We also added some guards to functionalities like Adding a Book so only logged in users can access that page.
 
