@@ -6,7 +6,7 @@ Example:
 function handleSubmit(event) {
     event.preventDefault()
     userDispatch({type: 'start update', updates: formState})
-    userClient.updateUser(user, formState).then(
+userClient.updateUser(user, formState).then(
       updatedUser => userDispatch({type: 'finish update', updatedUser}),
       error => userDispatch({type: 'fail update', error}),
     )
