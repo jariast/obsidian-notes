@@ -24,3 +24,12 @@ We added a new `Login` component which is in charge of calling the mutation `LOG
 
 In the `App` component we're using [[Custom Hooks#Custom Local Storage hook]] to save and retrieve the token from the local storage. We also added some guards to functionalities like Adding a Book so only logged in users can access that page.
 
+## Auth Header
+#auth
+When creating the headers in the React App I was getting the token from `localStorage` and directly adding it to the the auth string, this resulted in the token having Quotation marks at the start and end, which made the validation fail.
+
+I fixed the issue by Parsing the token before adding it to the header:
+
+```js
+const token = JSON.parse(localStorage.getItem('books-app-user-token'));
+```
