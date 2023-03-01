@@ -16,5 +16,14 @@ To remove surrounding chars we can use `ds + <surruondingChar>`
 
 # Comments
 
-#
+## Whole Line
+`gc + c`
 
+## An X amount of lines
+`gc + <numberOfLines> + j`
+
+# nvim-tree
+
+Show tree: `<leaderKey> + e`
+
+Add new file inside current dir: `a`
