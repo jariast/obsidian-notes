@@ -27,3 +27,9 @@ To remove surrounding chars we can use `ds + <surruondingChar>`
 Show tree: `<leaderKey> + e`
 
 Add new file inside current dir: `a`
+
+# Telescope
+
+Find files: `<leader> + ff`
+
+Find string in project: `<leader> + fs`
