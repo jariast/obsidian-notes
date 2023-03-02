@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69b263438abb653f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VIM Config/Resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cd98202b61d97b32",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,14 +156,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "cd98202b61d97b32",
+  "active": "b3ffc8a5a142f4c5",
   "lastOpenFiles": [
+    "VIM Config/Shortcuts.md",
     "VIM Config/Resources.md",
     "Tmux/Misc.md",
     "Tmux",
     "React/Ultimate React/React Patterns/State Reducer.md",
     "Interviews/FSL (Fullstack Labs)/Coding Challenge.md",
-    "VIM Config/Shortcuts.md",
     "Interviews/FSL (Fullstack Labs)",
     "React/Ultimate React/React Patterns/Prop Getters.md",
     "React/Ultimate React/React Hooks/Custom Hooks.md",
