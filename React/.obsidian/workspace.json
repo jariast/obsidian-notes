@@ -11,11 +11,28 @@
             "id": "69b263438abb653f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "VIM Config/Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd98202b61d97b32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tmux/Misc.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tmux/Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tmux/Misc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tmux/Misc.md"
+              }
             }
           },
           {
@@ -148,12 +169,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "69b263438abb653f",
+  "active": "cd98202b61d97b32",
   "lastOpenFiles": [
+    "VIM Config/Resources.md",
+    "Tmux/Misc.md",
+    "Tmux",
     "React/Ultimate React/React Patterns/State Reducer.md",
     "Interviews/FSL (Fullstack Labs)/Coding Challenge.md",
     "VIM Config/Shortcuts.md",
-    "VIM Config/Resources.md",
     "Interviews/FSL (Fullstack Labs)",
     "React/Ultimate React/React Patterns/Prop Getters.md",
     "React/Ultimate React/React Hooks/Custom Hooks.md",
@@ -175,7 +198,6 @@
     "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
     "Interviews/Patterns/Problem solving.md",
     "TypeScript/Basic Concepts.md",
-    "Advanced JS/Classes/Inheritance.md",
-    "Advanced JS/Execution Contexts and Lexical Environments/Functions and Execution Stack.md"
+    "Advanced JS/Classes/Inheritance.md"
   ]
 }
