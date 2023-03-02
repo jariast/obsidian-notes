@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM Config/Shortcuts.md",
+                "file": "VIM Config/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Shortcuts.md",
+                "file": "VIM Config/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Shortcuts.md",
+                "file": "VIM Config/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Shortcuts.md"
+                "file": "VIM Config/Resources.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "3e9d6dbf574313ef",
   "lastOpenFiles": [
-    "Interviews/FSL (Fullstack Labs)/Coding Challenge.md",
     "VIM Config/Shortcuts.md",
+    "Interviews/FSL (Fullstack Labs)/Coding Challenge.md",
     "React/Ultimate React/React Patterns/State Reducer.md",
     "Interviews/FSL (Fullstack Labs)",
     "React/Ultimate React/React Patterns/Prop Getters.md",
