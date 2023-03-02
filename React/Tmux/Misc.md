@@ -21,3 +21,5 @@ Refresh config: `<prefix> + r`
 Directional key is one of `h,j,k,l`
 
 Toggle Pane Maximize: `<prefix> + m`
+
+Windows List: `<prefix> + w`
