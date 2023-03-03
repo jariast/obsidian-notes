@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Resources.md"
+                "file": "React/Ultimate React/React Fundamentals/Lazy Init and Updaters.md"
               }
             }
           },
@@ -158,19 +158,21 @@
   },
   "active": "cd98202b61d97b32",
   "lastOpenFiles": [
+    "React/Ultimate React/React Fundamentals/Key prop.md",
+    "React/Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
+    "React/Ultimate React/React Patterns/State Reducer.md",
+    "React/Ultimate React/React Patterns/Prop Getters.md",
+    "React/Ultimate React/React Patterns/Control Props.md",
+    "React/Ultimate React/React Patterns/Context Module Function.md",
+    "React/Ultimate React/React Patterns/Compound Components.md",
+    "React/Ultimate React/React Hooks/Custom Hooks.md",
+    "React/Ultimate React/Advanced Hooks/Async Custom Hook.md",
+    "VIM Config/Resources.md",
     "Tmux/Misc.md",
     "VIM Config/Shortcuts.md",
-    "VIM Config/Resources.md",
     "Tmux",
-    "React/Ultimate React/React Patterns/State Reducer.md",
     "Interviews/FSL (Fullstack Labs)/Coding Challenge.md",
     "Interviews/FSL (Fullstack Labs)",
-    "React/Ultimate React/React Patterns/Prop Getters.md",
-    "React/Ultimate React/React Hooks/Custom Hooks.md",
-    "React/Ultimate React/React Patterns/Compound Components.md",
-    "React/Ultimate React/React Patterns/Context Module Function.md",
-    "React/Ultimate React/React Patterns/Control Props.md",
-    "React/Ultimate React/Advanced Hooks/Async Custom Hook.md",
     "React/Ultimate React/Testing React/Exercises.md",
     "React/Ultimate React/Testing React/General Tips.md",
     "React/Ultimate React/Testing React/Resources.md",
@@ -183,8 +185,6 @@
     "React/FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
     "React/FullStack Course/Part 8 GraphQL/8c Database and User Administration.md",
     "Advanced JS/Execution Contexts and Lexical Environments/10. The Global env and the Global Object.md",
-    "Interviews/Patterns/Problem solving.md",
-    "TypeScript/Basic Concepts.md",
-    "Advanced JS/Classes/Inheritance.md"
+    "Interviews/Patterns/Problem solving.md"
   ]
 }
