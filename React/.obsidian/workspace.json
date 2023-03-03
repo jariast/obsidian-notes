@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tmux/Misc.md",
+                "file": "VIM Config/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tmux/Misc.md",
+                "file": "VIM Config/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tmux/Misc.md",
+                "file": "VIM Config/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tmux/Misc.md"
+                "file": "VIM Config/Resources.md"
               }
             }
           },
@@ -156,11 +156,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b3ffc8a5a142f4c5",
+  "active": "cd98202b61d97b32",
   "lastOpenFiles": [
+    "Tmux/Misc.md",
     "VIM Config/Shortcuts.md",
     "VIM Config/Resources.md",
-    "Tmux/Misc.md",
     "Tmux",
     "React/Ultimate React/React Patterns/State Reducer.md",
     "Interviews/FSL (Fullstack Labs)/Coding Challenge.md",
