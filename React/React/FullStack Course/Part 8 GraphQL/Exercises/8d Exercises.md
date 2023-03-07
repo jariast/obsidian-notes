@@ -47,7 +47,7 @@ function extractGenres(books = []) {
 
 The more interesting part of the code happens when we try to remove the duplicate Genres from the array, we use a `Set` constructor to convert the `bookGenres` array into a Set, the Set object won't allow for duplicate keys, we then convert back the Set to an array using `spread` syntax.
 
-8.20 Books by genre pt 02
+# 8.20 Books by genre pt 02
 
 We implemented a new component that shows the books filtered by the Logged In user's Favorite Genre.
 
@@ -59,4 +59,21 @@ As the query for getting the user's info requires that an user has actually to b
   const { data, loading } = useQuery(GET_USER_INFO, { skip: !token });
 ```
 
-We're passing to the component the `token` prop when a user is Logged In, if there's no token the query will be skipped and once we log in, we'll actually make the query. At this point we were getting a strange behavior when we were logging in, the query will be sent without the `auth` header present, causing it to fail. The culprit was this piece of code in our 
+We're passing to the component the `token` prop when a user is Logged In, if there's no token the query will be skipped and once we log in, we'll actually make the query. At this point we were getting a strange behavior when we were logging in, the query will be sent without the `auth` header present, causing it to fail. The culprit was this piece of code in our [[Custom Hooks#Custom Local Storage hook]]:
+
+```js
+const prevKeyRef = useRef(key);
+
+  // Check the example at src/examples/local-state-key-change.js to visualize a key change
+  useEffect(() => {
+    const prevKey = prevKeyRef.current;
+    if (prevKey !== key) {
+      window.localStorage.removeItem(prevKey);
+    }
+    prevKeyRef.current = key;
+    window.localStorage.setItem(key, serialize(state));
+    console.log('Set localstorage');
+  }, [key, state, serialize]);
+  ```
+
+The Effect was running after the code on `index.js`, in charge of setting the `auth` header. After commenting this piece of code, we can access the books after Login in, without having to reload the page.
