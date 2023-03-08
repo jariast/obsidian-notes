@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8e Fragments and subscriptions.md",
+                "file": "VIM Config/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8e Fragments and subscriptions.md",
+                "file": "VIM Config/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8e Fragments and subscriptions.md",
+                "file": "VIM Config/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8e Fragments and subscriptions.md"
+                "file": "VIM Config/Resources.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "5c43d14fcd510161",
   "lastOpenFiles": [
-    "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
     "8e Fragments and subscriptions.md",
+    "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
     "React/Ultimate React/Advanced Hooks/Async Custom Hook.md",
     "React/Ultimate React/React Hooks/Custom Hooks.md",
