@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Resources.md"
+                "file": "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md"
               }
             }
           },
@@ -169,8 +168,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5c43d14fcd510161",
+  "active": "4eea124afef4951b",
   "lastOpenFiles": [
+    "VIM Config/Resources.md",
     "8e Fragments and subscriptions.md",
     "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
@@ -188,7 +188,6 @@
     "React/Ultimate React/React Patterns/Control Props.md",
     "React/Ultimate React/React Patterns/Context Module Function.md",
     "React/Ultimate React/React Patterns/Compound Components.md",
-    "VIM Config/Resources.md",
     "Tmux/Misc.md",
     "VIM Config/Shortcuts.md",
     "Tmux",
