@@ -77,3 +77,30 @@ const prevKeyRef = useRef(key);
   ```
 
 The Effect was running after the code on `index.js`, in charge of setting the `auth` header. After commenting this piece of code, we can access the books after Login in, without having to reload the page.
+
+# 8.21 books by genre with GraphQL
+
+I added a new query `BOOK_BY_GENRE` which takes a `genre` argument, the server then returns only the books that have that gender. This query is only added in the React app, it was already supported by the server.
+
+I also added a `ALL_GENRES` query, it returns all the unique genres in the app, this removes the need for us to build this list on the React app. This query is new in both the Server and React apps.
+
+In order to filter the books every time the user clicks a filter, we must use the `refecth` function provided by the `useQuery` hook.
+
+```js
+const { data, loading, refetch } = useQuery(BOOK_BY_GENRE, {
+    variables: { genre: null },
+});
+...
+<button key={genre} onClick={() => refetch({ genre })}>
+{genre}
+</button>
+          
+```
+
+For the Book recommendations, we must wait until the user info is available in order to fetch the books filtered by the user's favorite genre, once again we use the `Skip` option to achieve this.
+
+After this exercise there's a lot of code that is no longer needed, I decided to leave most of it around for reference purposes.
+
+I also think that there has to be a better way of filtering the books, because currently the query is not being cached when the filter changes, it will always trigger a new fetch. #reviewSolutionAfterSubmission 
+
+
