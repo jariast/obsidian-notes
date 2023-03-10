@@ -103,4 +103,7 @@ After this exercise there's a lot of code that is no longer needed, I decided to
 
 I also think that there has to be a better way of filtering the books, because currently the query is not being cached when the filter changes, it will always trigger a new fetch. #reviewSolutionAfterSubmission 
 
+# 8.22 Up-to-date cache and book recommendations
+
+I really have the suspicion that I did something weird in the previous exercise, because as I said before, we're not caching any query when we filter, so the books view is kept up to date.
 
