@@ -107,3 +107,10 @@ I also think that there has to be a better way of filtering the books, because c
 
 I really have the suspicion that I did something weird in the previous exercise, because as I said before, we're not caching any query when we filter, so the books view is kept up to date.
 
+Turns out the course actually showed how to handle [cache updates](https://fullstackopen.com/en/part8/login_and_updating_the_cache#updating-cache-revisited) in a different way. #gqlCache
+
+
+# Notice
+
+I completed until 8.24: Subscriptions - client, part 1 and then felt very tired working with GQL, I feel like the course's content on this topic is a little bit too verbose and doesn't follow the latest guidelines from Apollo's documentation.
+
