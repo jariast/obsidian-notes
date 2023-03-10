@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
+                "file": "VIM Config/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
+                "file": "VIM Config/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md"
+                "file": "VIM Config/Resources.md"
               }
             }
           },
@@ -168,10 +169,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "4eea124afef4951b",
+  "active": "5c43d14fcd510161",
   "lastOpenFiles": [
-    "VIM Config/Resources.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
+    "VIM Config/Resources.md",
     "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
     "8e Fragments and subscriptions.md",
     "React/Ultimate React/Advanced Hooks/Async Custom Hook.md",
