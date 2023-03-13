@@ -14,6 +14,10 @@ To remove surrounding chars we can use `ds + <surruondingChar>`
 
 `cs + <oldSurroundingChar> + <newSurroundingChar>`
 
+## Delete inside surrounding char
+
+`ci + <surroundingChar>`
+
 # Comments
 
 ## Whole Line

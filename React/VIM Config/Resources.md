@@ -9,3 +9,9 @@
 
 [Link](https://github.com/williamboman/mason-lspconfig.nvim)
 
+
+# Mac Bluetooth Kill
+
+```bash
+sudo pkill bluetoothd
+```
