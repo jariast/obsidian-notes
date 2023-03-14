@@ -14,6 +14,8 @@ Notice that we're installing them as Dev dependencies, the type definitions are 
 
 # Express Setup
 
+#backendSetup 
+
 Install Express:
 ```bash
 npm i Express
@@ -22,4 +24,10 @@ npm i Express
 Express Types Definitions:
 ```bash
 npm install --save-dev @types/express
+```
+
+ts-node-dev is used to recompile the server code during Development:
+
+```bash
+npm install --save-dev ts-node-dev
 ```
