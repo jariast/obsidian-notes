@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM Config/Shortcuts.md",
+                "file": "VIM Config/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Shortcuts.md",
+                "file": "VIM Config/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Shortcuts.md",
+                "file": "VIM Config/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Shortcuts.md"
+                "file": "VIM Config/Resources.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "29ad05ac8c7ee008",
   "lastOpenFiles": [
-    "VIM Config/Vs Code.md",
     "VIM Config/Shortcuts.md",
+    "VIM Config/Vs Code.md",
     "VIM Config/Resources.md",
     "React/Redux/Misc Tips.md",
     "React/FullStack Course/Part 8 GraphQL/8e Fragments and subscriptions.md",
