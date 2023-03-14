@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM Config/Shortcuts.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/First Steps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a933f36594a561d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Shortcuts.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Shortcuts.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Shortcuts.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md"
               }
             }
           },
@@ -156,15 +169,16 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "29ad05ac8c7ee008",
+  "active": "a933f36594a561d0",
   "lastOpenFiles": [
+    "React/FullStack Course/Part 9 TypeScript/First Steps.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
+    "VIM Config/Shortcuts.md",
     "VIM Config/Vs Code.md",
     "VIM Config/Resources.md",
-    "VIM Config/Shortcuts.md",
     "React/Redux/Misc Tips.md",
     "React/FullStack Course/Part 8 GraphQL/8e Fragments and subscriptions.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises",
-    "React/FullStack Course/Part 9 TypeScript/First Steps.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
     "React/FullStack Course/Part 9 TypeScript",
     "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
