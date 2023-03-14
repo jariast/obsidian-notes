@@ -1,11 +1,18 @@
 # Surround
 
-## Add surrounding chars
+## Add surrounding chars to
+
 `ys` + `motion` + `<surroundingChar>`
 
 Example: To surround a word with the `"` char, we can use:
 
 `ys + w + "`
+
+## Surround Selection with char
+
+Example: To surround selection with parentheses:
+
+`xi()<Esc>P`
 
 ## Remove surrounding
 To remove surrounding chars we can use `ds + <surruondingChar>`
