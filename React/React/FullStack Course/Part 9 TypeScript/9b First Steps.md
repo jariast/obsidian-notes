@@ -12,3 +12,14 @@ npm install --save-dev @types/react @types/express @types/lodash @types/jest @ty
 
 Notice that we're installing them as Dev dependencies, the type definitions are not needed for a Production build.
 
+# Express Setup
+
+Install Express:
+```bash
+npm i Express
+```
+
+Express Types Definitions:
+```bash
+npm install --save-dev @types/express
+```
