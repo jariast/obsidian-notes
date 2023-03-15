@@ -12,6 +12,11 @@ npm install --save-dev @types/react @types/express @types/lodash @types/jest @ty
 
 Notice that we're installing them as Dev dependencies, the type definitions are not needed for a Production build.
 
+# Type Narrowing
+
+#ts #typeAnyIssues
+In one of the exercises, I was catching an error and setting its type to `any` when setting up ESlint it complained about that. In the course info we were supposed to use `unknown` as type, the `unknown` type won't let us perform any operations until we narrow the type down. In the Error handling we were writing this is done by checking if the error is an instance of `Error`.
+
 # Express Setup
 
 #backendSetup 
@@ -30,4 +35,14 @@ ts-node-dev is used to recompile the server code during Development:
 
 ```bash
 npm install --save-dev ts-node-dev
+```
+
+# ESlint setup
+
+#backendSetup  #setup
+
+Installing ESlint with TS extensions:
+
+```shell
+npm install --save-dev eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser
 ```
