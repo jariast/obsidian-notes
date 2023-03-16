@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
+                "file": "React/FullStack Course/Part 7/Extending BlogList Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#backe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 7/Extending BlogList Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 7/Extending BlogList Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Resources.md"
+                "file": "React/FullStack Course/Part 7/Extending BlogList Exercises.md"
               }
             }
           },
@@ -169,13 +169,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a933f36594a561d0",
+  "active": "29ad05ac8c7ee008",
   "lastOpenFiles": [
-    "VIM Config/Shortcuts.md",
     "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
+    "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
+    "VIM Config/Resources.md",
+    "VIM Config/Shortcuts.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
     "VIM Config/Vs Code.md",
-    "VIM Config/Resources.md",
     "React/Redux/Misc Tips.md",
     "React/FullStack Course/Part 8 GraphQL/8e Fragments and subscriptions.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises",
@@ -199,7 +200,6 @@
     "Interviews/FSL (Fullstack Labs)",
     "React/Ultimate React/Testing React/Exercises.md",
     "React/Ultimate React/Testing React/General Tips.md",
-    "React/Ultimate React/Testing React/Resources.md",
-    "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md"
+    "React/Ultimate React/Testing React/Resources.md"
   ]
 }
