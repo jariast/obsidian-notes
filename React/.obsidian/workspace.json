@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,11 +170,13 @@
   },
   "active": "29ad05ac8c7ee008",
   "lastOpenFiles": [
+    "React/FullStack Course/Part 7/React-Router.md",
+    "React/FullStack Course/Part 7/Extending BlogList Exercises.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
     "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
     "VIM Config/Resources.md",
     "VIM Config/Shortcuts.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
     "VIM Config/Vs Code.md",
     "React/Redux/Misc Tips.md",
     "React/FullStack Course/Part 8 GraphQL/8e Fragments and subscriptions.md",
@@ -198,8 +199,6 @@
     "Tmux/Misc.md",
     "Tmux",
     "Interviews/FSL (Fullstack Labs)",
-    "React/Ultimate React/Testing React/Exercises.md",
-    "React/Ultimate React/Testing React/General Tips.md",
-    "React/Ultimate React/Testing React/Resources.md"
+    "React/Ultimate React/Testing React/Exercises.md"
   ]
 }
