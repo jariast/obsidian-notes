@@ -7,7 +7,17 @@ We'll install Typescript:
  npm install typescript --save-dev
 ```
 
-The `tsconfig.json` file should contain the following:
+Add this line to the scripts in `package.json`:
+```json
+"tsc": "tsc"
+```
+
+Initialize TS config:
+```shell
+ npm run tsc -- --init
+```
+
+We should modify the `tsconfig.json` file to contain the following:
 
 ```json
 {
@@ -85,8 +95,10 @@ Add the following scripts to `package.json`:
   // ...
   "scripts": {
     "tsc": "tsc",
-    "dev": "ts-node-dev index.ts",    "lint": "eslint --ext .ts ."  },
+    "dev": "ts-node-dev index.ts",
+    "lint": "eslint --ext .ts .",
     "start": "node build/index.js" // This to run in prod mode
+	},
     // ...
 }
 ```
