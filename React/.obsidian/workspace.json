@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "54b7ae893977155b",

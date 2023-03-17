@@ -71,6 +71,8 @@ touch .eslintrc
 }
 ```
 
+Create a `.eslintignore` file and add `build/index.js` to it, this way ESlint won't complain about any issues in there.
+
 Install `ts-node-dev` so we can have a hot reloading server ready:
 
 ```shell
@@ -84,6 +86,11 @@ Add the following scripts to `package.json`:
   "scripts": {
     "tsc": "tsc",
     "dev": "ts-node-dev index.ts",    "lint": "eslint --ext .ts ."  },
-  // ...
+    "start": "node build/index.js" // This to run in prod mode
+    // ...
 }
 ```
+
+## Production Build
+Let's try to create a _production build_ by running the TypeScript compiler. Since we have defined the `outdir` in our `tsconfig.json`, nothing's left but to run the script `npm run tsc.`
+
