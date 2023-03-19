@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6db945c48210e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md"
               }
             }
           },
@@ -182,10 +193,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6fa10d04e04b639a",
+  "active": "b6db945c48210e1e",
   "lastOpenFiles": [
-    "VIM Config/Resources.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
+    "VIM Config/Resources.md",
     "React/FullStack Course/Part 7/Extending BlogList Exercises.md",
     "React/FullStack Course/Part 7/React-Router.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
@@ -211,7 +223,6 @@
     "React/Ultimate React/React Patterns/Control Props.md",
     "React/Ultimate React/React Patterns/Context Module Function.md",
     "React/Ultimate React/React Patterns/Compound Components.md",
-    "Tmux/Misc.md",
     "Tmux",
     "Interviews/FSL (Fullstack Labs)"
   ]
