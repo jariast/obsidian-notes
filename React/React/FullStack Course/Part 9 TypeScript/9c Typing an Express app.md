@@ -106,3 +106,21 @@ Add the following scripts to `package.json`:
 ## Production Build
 Let's try to create a _production build_ by running the TypeScript compiler. Since we have defined the `outdir` in our `tsconfig.json`, nothing's left but to run the script `npm run tsc.`
 
+# Project structure
+#backendSetup 
+
+- We'll move all of source code into a `src` folder (including `index.ts`).
+- The routes go in separate files e.g. `src/routes/patients.ts`.
+- The `index.ts` file is in charge of routing all the specific routes to the correct router:
+
+```ts
+import patientRouter from './routes/patients'
+...
+...
+
+app.use('api/patients', patientRouter)
+```
+
+- The data manipulations will be handled by a separate file, a service. The services go in the `src/services` folder and can be named like `patientService`.
+- If we're using some `json` file as the source of data it is a good idea to convert it to a TypeScript file and export the data using the correct Type definitions that we require. Sometimes if we import the JSON file directly, we would have to make a `Type Assertion` and they should be avoided as much as possible.
+- Within a single directory, it is important to name all the valid Modules with different extensions, something unique. Please refer to [the course](https://fullstackopen.com/en/part9/typing_an_express_app#node-and-json-modules) for a detailed explanation.
