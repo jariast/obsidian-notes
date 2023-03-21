@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29ad05ac8c7ee008",
+            "id": "ab4bc0131d261980",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/FullStack Course/Part 7/Extending BlogList Exercises.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a933f36594a561d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+                "file": "TypeScript/Fullstack Course.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+                "file": "TypeScript/Fullstack Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+                "file": "TypeScript/Fullstack Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md"
+                "file": "TypeScript/Fullstack Course.md"
               }
             }
           },
@@ -169,13 +156,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "a933f36594a561d0",
+  "active": "ab4bc0131d261980",
   "lastOpenFiles": [
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
-    "VIM Config/Resources.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
     "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
+    "TypeScript/Fullstack Course.md",
+    "TypeScript/Basic Concepts.md",
     "React/FullStack Course/Part 7/Extending BlogList Exercises.md",
+    "VIM Config/Resources.md",
     "React/FullStack Course/Part 7/React-Router.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
@@ -197,8 +186,6 @@
     "React/Ultimate React/React Patterns/State Reducer.md",
     "React/Ultimate React/React Patterns/Prop Getters.md",
     "React/Ultimate React/React Patterns/Control Props.md",
-    "React/Ultimate React/React Patterns/Context Module Function.md",
-    "React/Ultimate React/React Patterns/Compound Components.md",
     "Tmux",
     "Interviews/FSL (Fullstack Labs)"
   ]

@@ -150,4 +150,5 @@ const toNewPatient = (object: unknown): NewPatientEntry =>{...}
 ```
 
 There are 2 noteworthy things here:
-- 
+- The type of the `object` parameter is `unknown`, because we can't exactly know what the external system is sending (in our case the web app), we should use this data type to later construct the required object.
+- The `NewPatientEntry` data type is created using the `Omit` [[Fullstack Course#Utility Types | utility]] type, we're going to omit the ID field because we must first generate it.
