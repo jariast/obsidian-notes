@@ -143,4 +143,11 @@ app.use('api/patients', patientRouter)
 
 # Receiving data from external sources (client data)
 
-It is good practice to have a function that checks that all the data we're getting from the client is valid, we can create a util function that receives the raw data and then returns the Object we expect.
+It is good practice to have a function that checks that all the data we're getting from the client is valid, we can create a util function that receives the raw data and then returns the Object we expect. Something like:
+
+```ts
+const toNewPatient = (object: unknown): NewPatientEntry =>{...}
+```
+
+There are 2 noteworthy things here:
+- 
