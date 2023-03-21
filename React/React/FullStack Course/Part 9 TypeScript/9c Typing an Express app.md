@@ -152,3 +152,28 @@ const toNewPatient = (object: unknown): NewPatientEntry =>{...}
 There are 2 noteworthy things here:
 - The type of the `object` parameter is `unknown`, because we can't exactly know what the external system is sending (in our case the web app), we should use this data type to later construct the required object.
 - The `NewPatientEntry` data type is created using the `Omit` [[Fullstack Course#Utility Types | utility]] type, we're going to omit the ID field because we must first generate it.
+
+## Parsing fields
+When parsing a string we can use the following function:
+
+```js
+const parseComment = (comment: unknown): string => {
+  if (!comment || !isString(comment)) {
+    throw new Error('Incorrect or missing comment');
+  }
+
+  return comment;
+};
+```
+
+And use this type guard:
+
+```ts
+const isString = (text: unknown): text is string => {
+  return typeof text === 'string' || text instanceof String;
+};
+```
+
+Here we're using a custom [[Fullstack Course#Type guards |type guard]], notice the [[Fullstack Course#Type predicates|predicate]] `text is string`, in this case we could've just the regular type guard `instanceof` but we wanted to be extra careful and check for strings created using the `string constructor` and the far most popular string literal.
+
+## Parsing to an Enum field
