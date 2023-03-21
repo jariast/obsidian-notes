@@ -30,33 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6fa10d04e04b639a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6db945c48210e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
+                "file": "VIM Config/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
+                "file": "VIM Config/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md"
+                "file": "VIM Config/Resources.md"
               }
             }
           },
@@ -193,15 +169,15 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b6db945c48210e1e",
+  "active": "a933f36594a561d0",
   "lastOpenFiles": [
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+    "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "VIM Config/Resources.md",
     "React/FullStack Course/Part 7/Extending BlogList Exercises.md",
     "React/FullStack Course/Part 7/React-Router.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
-    "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
     "VIM Config/Shortcuts.md",
     "VIM Config/Vs Code.md",

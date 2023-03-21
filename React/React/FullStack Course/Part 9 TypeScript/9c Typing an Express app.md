@@ -103,6 +103,21 @@ Add the following scripts to `package.json`:
 }
 ```
 
+Install CORS and its types:
+
+```bash
+npm install cors
+npm install --save @types/cors
+```
+
+Import CORS:
+```ts
+import cors = require('cors');
+...
+app.use(cors())
+```
+
+
 ## Production Build
 Let's try to create a _production build_ by running the TypeScript compiler. Since we have defined the `outdir` in our `tsconfig.json`, nothing's left but to run the script `npm run tsc.`
 
