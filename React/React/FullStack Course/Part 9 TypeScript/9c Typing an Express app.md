@@ -140,6 +140,7 @@ app.use('api/patients', patientRouter)
 - We can have all the type definitions inside a `Types` file, where we export all the definitions.
 - If we're using some `json` file as the source of data it  is a good idea to convert it to a TypeScript file and export the data using the correct Type definitions that we require. Sometimes if we import the JSON file directly, we would have to make a `Type Assertion` and they should be avoided as much as possible.
 - Within a single directory, it is important to name all the valid Modules with different extensions, something unique. Please refer to [the course](https://fullstackopen.com/en/part9/typing_an_express_app#node-and-json-modules) for a detailed explanation.
+- We can define a `util.ts` file in the root, if we're starting to have too many utils, we can create a new directory and split the utils into several files.
 
 # Receiving data from external sources (client data)
 
