@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc16937dcfc1e6d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#backe",
+                "query": "tag:#setup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md"
               }
             }
           },
@@ -169,11 +181,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "22d9a85821e1fc76",
+  "active": "bc16937dcfc1e6d2",
   "lastOpenFiles": [
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
+    "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
     "VIM Config/Shortcuts.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
     "TypeScript/Fullstack Course.md",
@@ -198,7 +211,6 @@
     "React/Ultimate React/React Fundamentals/Key prop.md",
     "React/Ultimate React/React Patterns/State Reducer.md",
     "React/Ultimate React/React Patterns/Prop Getters.md",
-    "React/Ultimate React/React Patterns/Control Props.md",
     "Tmux",
     "Interviews/FSL (Fullstack Labs)"
   ]
