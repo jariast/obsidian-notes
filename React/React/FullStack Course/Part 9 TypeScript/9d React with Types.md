@@ -87,7 +87,8 @@ We must add a `lint` script so we can parse the `tsx` files:
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint './src/**/*.{ts,tsx}'"  },
+    "lint": "eslint './src/**/*.{ts,tsx}'"  
+    },
   // ...
 }
 ```
