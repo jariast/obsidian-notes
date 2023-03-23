@@ -37,6 +37,27 @@ function getArea(shape: Shape) {
 
 Above, when we check for the `kind` circle, we're excluding all the other types (Square).
 
+## Exhaustiveness checking
+[Docs](https://www.typescriptlang.org/docs/handbook/2/narrowing.html#exhaustiveness-checking)
+
+Exhaustiveness checking makes use of the `never` type to ensure that we're handling every case of a Type Union.
+```ts
+type Shape = Circle | Square;
+function getArea(shape: Shape) {
+  switch (shape.kind) {
+    case 'circle':
+      return Math.PI * shape.radius ** 2;
+    case 'square':
+      return shape.sideLength ** 2;
+    default:
+      const _exhaustiveCheck: never = shape;
+      return _exhaustiveCheck;
+  }
+}
+```
+
+If we add a new type `Triangle` and we forget to add a case for it, TypeScript will throw an error telling us that the type `Triangle` is not assignable to type `never`.
+
 # Functions
 
 ## Type Parameters

@@ -92,3 +92,67 @@ We must add a `lint` script so we can parse the `tsx` files:
   // ...
 }
 ```
+
+# Type Narrowing
+
+If we have data with shared properties and subset of the items share some other properties we can create a Base interface and then extend it to fit our other use cases:
+
+```ts
+interface CoursePartBase {
+  name: string;
+  exerciseCount: number;
+}
+
+interface CoursePartBasic extends CoursePartBase {
+  description: string;
+  kind: "basic"
+}
+
+interface CoursePartGroup extends CoursePartBase {
+  groupProjectCount: number;
+  kind: "group"
+}
+
+interface CoursePartBackround extends CoursePartBase {
+  description: string;
+  backroundMaterial: string;
+  kind: "background"
+}
+
+type CoursePart = CoursePartBasic | CoursePartGroup | CoursePartBackround;
+```
+
+In the code above we have a base `CoursePartBase` and three other "sub" interfaces. We then create a [[Basic Concepts#Discriminated Unions|discriminated union]] using all the specific interfaces. When we try to access the properties of an item in array like `CoursePart[]` we can only access the common properties, in this case `name` && `exerciseCount`, in order to access the specific properties of the other interfaces we must first *narrow* the union with code.
+
+One way to narrow the Union is to use a switch case:
+
+```ts
+switch(part.kind){
+	case 'basic':
+		// we now have acess to the description property
+	...
+	default:
+		break;
+}
+```
+
+The above code works fine, but what happens if we add a new Course Part to our union? The Part would be handled by the `default` block and nothing would happen. We can then use [[Basic Concepts#Exhaustiveness checking]] to ensure we're handling every type.
+
+The course provides an alternative approach to handling the exhaustiveness check:
+
+```ts
+const assertNever = (value: never): never => {
+  throw new Error(
+    `Unhandled discriminated union member: ${JSON.stringify(value)}`
+  );
+};
+```
+
+We can then use that util function in our Switch statement:
+
+```ts
+	...
+	default:
+		return assertNever(part);
+	...
+```

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
+                "file": "TypeScript/Basic Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Vs Code.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Vs Code.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Vs Code.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md"
               }
             }
           },
@@ -180,21 +181,21 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ab4bc0131d261980",
+  "active": "bc16937dcfc1e6d2",
   "lastOpenFiles": [
-    "VIM Config/Shortcuts.md",
+    "TypeScript/Basic Concepts.md",
     "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
+    "VIM Config/Vs Code.md",
+    "VIM Config/Shortcuts.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
     "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
     "TypeScript/Fullstack Course.md",
-    "TypeScript/Basic Concepts.md",
     "React/FullStack Course/Part 7/Extending BlogList Exercises.md",
     "VIM Config/Resources.md",
     "React/FullStack Course/Part 7/React-Router.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
-    "VIM Config/Vs Code.md",
     "React/Redux/Misc Tips.md",
     "React/FullStack Course/Part 8 GraphQL/8e Fragments and subscriptions.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises",
