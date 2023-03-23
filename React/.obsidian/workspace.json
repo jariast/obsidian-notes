@@ -183,9 +183,10 @@
   },
   "active": "bf5ffbcf054e2d75",
   "lastOpenFiles": [
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
-    "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+    "React/Misc Resources/Misc.md",
     "TypeScript/Basic Concepts.md",
+    "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "VIM Config/Shortcuts.md",
@@ -210,7 +211,6 @@
     "React/Redux/General Info.md",
     "React/Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
     "React/Ultimate React/React Fundamentals/Key prop.md",
-    "React/Ultimate React/React Patterns/State Reducer.md",
     "Tmux",
     "Interviews/FSL (Fullstack Labs)"
   ]

@@ -159,3 +159,26 @@ We can then use that util function in our Switch statement:
 
 # App with State
 
+For state which its initial state value is a primitive type we can simply call `useState` as usual:
+
+```ts
+const [newNote, setNewNote] = useState('')
+```
+
+TypeScript can easily infer the correct types when using a Primitive. But if we use something like an array, we must explicitly declare our type:
+
+```ts
+const [notes, setNotes] = useState<Note[]>([]);
+```
+
+# Server communication
+
+When using `axios` we can type the request like so:
+
+```ts
+axios.get<Note[]>('http://localhost:3001/notes').then(response => {      console.log(response.data);
+    })
+```
+
+IMPORTANT: Please note that is not making any runtime checks, we can only make this because we're 100% sure the server will return an array of Notes, if we want to be completely safe we should parse the response similarly to how we did it with the app on [[9c Typing an Express app]].
+
