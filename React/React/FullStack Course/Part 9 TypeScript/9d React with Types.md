@@ -156,3 +156,6 @@ We can then use that util function in our Switch statement:
 		return assertNever(part);
 	...
 ```
+
+# App with State
+
