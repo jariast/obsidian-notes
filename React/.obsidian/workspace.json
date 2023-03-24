@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   "active": "bf5ffbcf054e2d75",
   "lastOpenFiles": [
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "React/Misc Resources/Misc.md",
     "TypeScript/Basic Concepts.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",

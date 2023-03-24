@@ -182,3 +182,23 @@ axios.get<Note[]>('http://localhost:3001/notes').then(response => {      console
 
 IMPORTANT: Please note that is not making any runtime checks, we can only make this because we're 100% sure the server will return an array of Notes, if we want to be completely safe we should parse the response similarly to how we did it with the app on [[9c Typing an Express app]].
 
+We should create a `service.tsx` file to extract all the Axios code:
+
+```ts
+import axios from 'axios';
+import { Note, NewNote } from "./types";
+
+const baseUrl = 'http://localhost:3001/notes'
+
+export const getAllNotes = () => {
+  return axios
+    .get<Note[]>(baseUrl)
+    .then(response => response.data)
+}
+
+export const createNote = (object: NewNote) => {
+  return axios
+    .post<Note>(baseUrl, object)
+    .then(response => response.data)
+}
+```
