@@ -25,3 +25,4 @@ const myCanvas = document.getElementById("main_canvas") as HTMLCanvasElement;
 ```
 
 Here the dev knows that when we pass the id `main_canvas` we'll always get an `HTMLCanvasElement`.
+
