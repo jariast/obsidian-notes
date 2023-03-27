@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
-                "mode": "preview",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript/Basic Concepts.md",
+                "file": "React/Misc Resources/Misc.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md"
               }
             }
           },
@@ -182,17 +182,17 @@
   },
   "active": "ab4bc0131d261980",
   "lastOpenFiles": [
-    "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
     "React/Misc Resources/Misc.md",
     "React/Redux/General Info.md",
     "React/Redux/Misc Tips.md",
-    "VIM Config/Resources.md",
     "TypeScript/Basic Concepts.md",
-    "TypeScript/Fullstack Course.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
+    "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+    "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+    "VIM Config/Resources.md",
+    "TypeScript/Fullstack Course.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "VIM Config/Shortcuts.md",
-    "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
     "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
     "VIM Config/Vs Code.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
