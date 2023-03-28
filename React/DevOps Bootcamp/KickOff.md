@@ -18,4 +18,8 @@ Facilitators:
 
 # What is DevOps?
 
-Join between Development and Operations. Agile delivery of 
+Join between Development and Operations. Agile delivery of MVP's. Improve communication between all the involved teams in a project (Dev, Ops, QA, etc)
+
+# Mini home-work
+
+Automate tooling install. Would be interesting to provide the script for Mac folks. #homework
