@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md"
               }
             }
           },
@@ -180,10 +181,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ab4bc0131d261980",
+  "active": "bf5ffbcf054e2d75",
   "lastOpenFiles": [
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "React/Misc Resources/Misc.md",
+    "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "React/Redux/General Info.md",
     "React/Redux/Misc Tips.md",
     "TypeScript/Basic Concepts.md",
@@ -201,7 +203,6 @@
     "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
     "React/FullStack Course/Part 8 GraphQL/8e Fragments and subscriptions.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises",
-    "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
     "React/FullStack Course/Part 9 TypeScript",
     "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
     "React/Ultimate React/Advanced Hooks/Async Custom Hook.md",
