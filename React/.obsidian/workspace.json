@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab4bc0131d261980",
+            "id": "8e26968cd2404225",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM Config/Shortcuts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22d9a85821e1fc76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Misc Resources/Misc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf5ffbcf054e2d75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
+                "file": "DevOps Bootcamp/KickOff.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Shortcuts.md",
+                "file": "DevOps Bootcamp/KickOff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Shortcuts.md",
+                "file": "DevOps Bootcamp/KickOff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Shortcuts.md"
+                "file": "DevOps Bootcamp/KickOff.md"
               }
             }
           },
@@ -180,10 +156,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ab4bc0131d261980",
+  "active": "8e26968cd2404225",
   "lastOpenFiles": [
-    "VIM Config/Vs Code.md",
     "VIM Config/Shortcuts.md",
+    "DevOps Bootcamp/KickOff.md",
+    "DevOps Bootcamp",
+    "VIM Config/Vs Code.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
     "React/Misc Resources/Misc.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
@@ -209,7 +187,6 @@
     "Interviews/FSL (Fullstack Labs)/Script.md",
     "Interviews/FSL (Fullstack Labs)/Coding Challenge.md",
     "React/Ultimate React/React Fundamentals/Lazy Init and Updaters.md",
-    "React/Ultimate React/React Fundamentals/Key prop.md",
     "Tmux",
     "Interviews/FSL (Fullstack Labs)"
   ]

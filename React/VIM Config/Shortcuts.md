@@ -46,3 +46,6 @@ Add new file inside current dir: `a`
 Find files: `<leader> + ff`
 
 Find string in project: `<leader> + fs`
+
+# Hover stuff
+ `K` is like hovering the mouse on VSCode
