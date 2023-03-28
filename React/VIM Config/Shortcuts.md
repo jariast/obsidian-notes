@@ -2,6 +2,8 @@
 
 ## Add surrounding chars to
 
+The `ys` shortcuts only work in nvim, they require a plugin that we installed there
+
 `ys` + `motion` + `<surroundingChar>`
 
 Example: To surround a word with the `"` char, we can use:
