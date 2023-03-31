@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5baa698c5cda8dd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md"
               }
             }
           },
@@ -169,16 +181,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0c28899b16add31b",
+  "active": "5baa698c5cda8dd8",
   "lastOpenFiles": [
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+    "TypeScript/Fullstack Course.md",
+    "TypeScript/Basic Concepts.md",
+    "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "React/Misc Resources/Misc.md",
     "React/Redux/General Info.md",
     "React/Redux/Misc Tips.md",
-    "TypeScript/Fullstack Course.md",
-    "TypeScript/Basic Concepts.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
     "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
     "DevOps Bootcamp/KickOff.md",
@@ -199,7 +212,6 @@
     "React/Ultimate React/Advanced Hooks/Async Custom Hook.md",
     "React/Ultimate React/React Hooks/Custom Hooks.md",
     "Interviews/FSL (Fullstack Labs)/Script.md",
-    "Interviews/FSL (Fullstack Labs)/Coding Challenge.md",
     "Tmux",
     "Interviews/FSL (Fullstack Labs)"
   ]

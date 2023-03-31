@@ -26,3 +26,6 @@ const myCanvas = document.getElementById("main_canvas") as HTMLCanvasElement;
 
 Here the dev knows that when we pass the id `main_canvas` we'll always get an `HTMLCanvasElement`.
 
+# Complex types
+[[9e Grand Finale#Types from other types ?]]
+
