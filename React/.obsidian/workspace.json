@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+                "file": "VIM Config/Vs Code.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+                "file": "VIM Config/Vs Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
+                "file": "VIM Config/Vs Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md"
+                "file": "VIM Config/Vs Code.md"
               }
             }
           },
@@ -183,6 +183,9 @@
   },
   "active": "5baa698c5cda8dd8",
   "lastOpenFiles": [
+    "VS Code Config/Initial Setup.md",
+    "VS Code Config/TroubleShooting.md",
+    "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
     "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
     "TypeScript/Fullstack Course.md",
     "TypeScript/Basic Concepts.md",
@@ -192,7 +195,6 @@
     "React/Misc Resources/Misc.md",
     "React/Redux/General Info.md",
     "React/Redux/Misc Tips.md",
-    "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
     "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
     "DevOps Bootcamp/KickOff.md",
     "VIM Config/Shortcuts.md",
@@ -210,8 +212,6 @@
     "React/FullStack Course/Part 9 TypeScript",
     "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
     "React/Ultimate React/Advanced Hooks/Async Custom Hook.md",
-    "React/Ultimate React/React Hooks/Custom Hooks.md",
-    "Interviews/FSL (Fullstack Labs)/Script.md",
     "Tmux",
     "Interviews/FSL (Fullstack Labs)"
   ]
