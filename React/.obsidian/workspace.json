@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Resources.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "5baa698c5cda8dd8",
   "lastOpenFiles": [
-    "VIM Config/Shortcuts.md",
     "VIM Config/Resources.md",
+    "VIM Config/Shortcuts.md",
     "VIM Config/Vs Code.md",
     "VS Code Config/Initial Setup.md",
     "VS Code Config/TroubleShooting.md",
