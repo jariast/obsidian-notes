@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1cbcb56b1efd241e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps Bootcamp/Install script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "DevOps Bootcamp/Install script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "DevOps Bootcamp/Install script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Resources.md"
+                "file": "DevOps Bootcamp/Install script.md"
               }
             }
           },
@@ -181,10 +193,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "5baa698c5cda8dd8",
+  "active": "1cbcb56b1efd241e",
   "lastOpenFiles": [
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "VIM Config/Resources.md",
+    "DevOps Bootcamp/Install script.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "VIM Config/Shortcuts.md",
     "VIM Config/Vs Code.md",
     "VS Code Config/Initial Setup.md",
@@ -211,7 +224,6 @@
     "React/FullStack Course/Part 9 TypeScript/Exercises",
     "React/FullStack Course/Part 9 TypeScript",
     "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
-    "React/Ultimate React/Advanced Hooks/Async Custom Hook.md",
     "Tmux",
     "Interviews/FSL (Fullstack Labs)"
   ]
