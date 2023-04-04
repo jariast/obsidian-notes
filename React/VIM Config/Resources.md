@@ -22,3 +22,20 @@ I had an issue after installing AstroNvim, when opening any of the `.lua` files,
 :TSInstall lua
 ```
 
+## Theme config
+
+```lua
+vim.fn.system "defaults read -g AppleInterfaceStyle"
+local theme
+
+if vim.v.shell_error ~= 0 then
+  -- theme = "catppuccin-latte" -- LIGHT Theme
+  theme = "tokyonight-day" -- LIGHT Theme
+  vim.opt.background = "light"
+else
+  theme = "tokyonight" -- DARK Theme
+  vim.opt.background = "dark"
+end
+```
+
+In the above code we're checking if the system is set to Dark or Light and we set the theme according to it.

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+                "file": "VIM Config/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+                "file": "VIM Config/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+                "file": "VIM Config/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md"
+                "file": "VIM Config/Resources.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "5baa698c5cda8dd8",
   "lastOpenFiles": [
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "VIM Config/Resources.md",
     "VIM Config/Shortcuts.md",
     "VIM Config/Vs Code.md",
@@ -193,7 +194,6 @@
     "TypeScript/Fullstack Course.md",
     "TypeScript/Basic Concepts.md",
     "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "React/Misc Resources/Misc.md",
     "React/Redux/General Info.md",
