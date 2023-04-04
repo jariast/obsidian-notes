@@ -5,8 +5,8 @@ This script is intended to setup the environment in a Mac with all the required 
 # Instructions:
 
 1. Clone or the repo or download the `azure_env_setup.sh` file.
-2. Run the script directly in finder or from terminal `./psInitial.sh`.
-3. If the script fails, you probably need to change the permissions of the file, you can run `chmod +x psInitial.sh` to change its permissions.
+2. Run the script directly in finder or from terminal `./`azure_env_setup.sh`.
+3. If the script fails, you probably need to change the permissions of the file, you can run `chmod +x `azure_env_setup.sh` to change its permissions.
 4. Azure PowerShell tools must be manually installed, open PS and run the following command:
 ```powershell
 Install-Module -Name Az -Scope CurrentUser -Repository PSGallery -Force

@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps Bootcamp/Install script.md",
+                "file": "VS Code Config/Initial Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fa6b2e86188bdeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Config/Multiple Git Accounts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps Bootcamp/Install script.md",
+                "file": "Git Config/Multiple Git Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps Bootcamp/Install script.md",
+                "file": "Git Config/Multiple Git Accounts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps Bootcamp/Install script.md"
+                "file": "Git Config/Multiple Git Accounts.md"
               }
             }
           },
@@ -193,15 +205,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "1cbcb56b1efd241e",
+  "active": "9fa6b2e86188bdeb",
   "lastOpenFiles": [
-    "VIM Config/Resources.md",
+    "VS Code Config/Initial Setup.md",
+    "Git Config/Multiple Git Accounts.md",
+    "Git Config",
+    "VS Code Config/TroubleShooting.md",
     "DevOps Bootcamp/Install script.md",
+    "VIM Config/Resources.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "VIM Config/Shortcuts.md",
     "VIM Config/Vs Code.md",
-    "VS Code Config/Initial Setup.md",
-    "VS Code Config/TroubleShooting.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
     "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
     "TypeScript/Fullstack Course.md",
@@ -223,7 +237,6 @@
     "React/FullStack Course/Part 8 GraphQL/8e Fragments and subscriptions.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises",
     "React/FullStack Course/Part 9 TypeScript",
-    "React/FullStack Course/Part 8 GraphQL/8d Login and updating the cache.md",
     "Tmux",
     "Interviews/FSL (Fullstack Labs)"
   ]
