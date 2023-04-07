@@ -5,5 +5,5 @@
 Themes [Gallery](https://iterm2colorschemes.com/). Choose a team and download it with the following command, replace the repo's URL.
 
 ```bash
-curl https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Github.itermcolors --output ~/Downloads/github.itermcolors
+curl https://raw.githubusercontent.com/catppuccin/iterm/main/colors/catppuccin-latte.itermcolors --output ~/Downloads/catpuccinlatte.itermcolors
 ```
