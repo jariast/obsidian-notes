@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "VIM Config/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM Config/Terminal Config.md",
+                "file": "VIM Config/Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cheat",
+                "query": "astr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Terminal Config.md",
+                "file": "VIM Config/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Terminal Config.md",
+                "file": "VIM Config/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Terminal Config.md"
+                "file": "VIM Config/Resources.md"
               }
             }
           },
@@ -169,10 +168,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "acb14839f1405d99",
+  "active": "8e26968cd2404225",
   "lastOpenFiles": [
-    "React/Misc Resources/Misc.md",
     "VIM Config/Terminal Config.md",
+    "React/Misc Resources/Misc.md",
+    "VIM Config/Resources.md",
+    "VS Code Config/TroubleShooting.md",
+    "VS Code Config/Initial Setup.md",
+    "VIM Config/Vs Code.md",
     "VIM Config/Untitled",
     "React/Redux/Misc Tips.md",
     "React/Redux/General Info.md",
@@ -181,13 +184,9 @@
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "Git Config/Multiple Git Accounts.md",
-    "VS Code Config/Initial Setup.md",
     "Git Config",
-    "VS Code Config/TroubleShooting.md",
     "DevOps Bootcamp/Install script.md",
-    "VIM Config/Resources.md",
     "VIM Config/Shortcuts.md",
-    "VIM Config/Vs Code.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
     "TypeScript/Fullstack Course.md",
     "TypeScript/Basic Concepts.md",

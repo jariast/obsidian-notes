@@ -39,3 +39,29 @@ end
 ```
 
 In the above code we're checking if the system is set to Dark or Light and we set the theme according to it.
+
+# Custom Theme
+
+For [Nord](https://github.com/shaunsingh/nord.nvim) theme we add the following configuration to the end of the `plugins/user.lua` file:
+
+```lua
+{
+    "shaunsingh/nord.nvim",
+    lazy = false,
+    priority = 1000,
+    config = function()
+      require("nord").set()
+      vim.api.nvim_command "colorscheme nord"
+      vim.cmd [[colorscheme nord]]
+      vim.g.nord_bold = false
+      vim.g.nord_borders = true
+      vim.opt.background = "dark"
+    end,
+  },
+```
+
+We followed [Lazy's example](https://github.com/folke/lazy.nvim#examples) on how to configure a custom theme. After installing the theme, we can use it by setting the theme in our `init.lua` file:
+
+```lua
+colorscheme = "nord",
+```
