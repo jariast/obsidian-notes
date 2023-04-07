@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+                "file": "React/Misc Resources/Misc.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+                "file": "React/Misc Resources/Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+                "file": "React/Misc Resources/Misc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md"
+                "file": "React/Misc Resources/Misc.md"
               }
             }
           },
@@ -170,8 +170,10 @@
   },
   "active": "8e26968cd2404225",
   "lastOpenFiles": [
-    "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
+    "React/Redux/Misc Tips.md",
+    "React/Redux/General Info.md",
     "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+    "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "Git Config/Multiple Git Accounts.md",
@@ -186,8 +188,6 @@
     "TypeScript/Fullstack Course.md",
     "TypeScript/Basic Concepts.md",
     "React/Misc Resources/Misc.md",
-    "React/Redux/General Info.md",
-    "React/Redux/Misc Tips.md",
     "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
     "DevOps Bootcamp/KickOff.md",
     "DevOps Bootcamp",
