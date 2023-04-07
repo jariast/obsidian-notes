@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Resources.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md"
               }
             }
           },
@@ -170,9 +170,10 @@
   },
   "active": "8e26968cd2404225",
   "lastOpenFiles": [
+    "TypeScript/Fullstack Course.md",
+    "VIM Config/Resources.md",
     "VIM Config/Terminal Config.md",
     "React/Misc Resources/Misc.md",
-    "VIM Config/Resources.md",
     "VS Code Config/TroubleShooting.md",
     "VS Code Config/Initial Setup.md",
     "VIM Config/Vs Code.md",
@@ -188,7 +189,6 @@
     "DevOps Bootcamp/Install script.md",
     "VIM Config/Shortcuts.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
-    "TypeScript/Fullstack Course.md",
     "TypeScript/Basic Concepts.md",
     "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
     "DevOps Bootcamp/KickOff.md",
