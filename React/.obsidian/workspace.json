@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Misc Resources/Misc.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md"
               }
             }
           },
@@ -171,13 +171,14 @@
   },
   "active": "acb14839f1405d99",
   "lastOpenFiles": [
-    "React/Redux/Misc Tips.md",
-    "TypeScript/Basic Concepts.md",
     "TypeScript/Fullstack Course.md",
+    "TypeScript/Basic Concepts.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+    "React/Misc Resources/Misc.md",
+    "React/Redux/Misc Tips.md",
     "VIM Config/Resources.md",
     "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
     "VIM Config/Terminal Config.md",
-    "React/Misc Resources/Misc.md",
     "VS Code Config/TroubleShooting.md",
     "VS Code Config/Initial Setup.md",
     "VIM Config/Vs Code.md",
@@ -185,7 +186,6 @@
     "React/Redux/General Info.md",
     "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "Git Config/Multiple Git Accounts.md",
     "Git Config",
     "DevOps Bootcamp/Install script.md",
