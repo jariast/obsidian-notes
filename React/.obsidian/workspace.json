@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Work Lessons/Testing Observables.md",
+                "file": "VIM Config/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Work Lessons/Testing Observables.md",
+                "file": "VIM Config/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/Work Lessons/Testing Observables.md",
+                "file": "VIM Config/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Work Lessons/Testing Observables.md"
+                "file": "VIM Config/Resources.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "5c797a9cd709510e",
   "lastOpenFiles": [
-    "VIM Config/Vs Code.md",
     "VIM Config/Terminal Config.md",
+    "Angular/Work Lessons/Testing Observables.md",
+    "VIM Config/Vs Code.md",
     "VIM Config/Shortcuts.md",
     "TypeScript/Fullstack Course.md",
     "Tmux/Misc.md",
@@ -197,7 +198,6 @@
     "DevOps Bootcamp/Install script.md",
     "DevOps Bootcamp",
     "Angular/Work Lessons/3rd party libraries WOES.md",
-    "Angular/Work Lessons/Testing Observables.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8c Exercises.md",
     "React/FullStack Course/Part 8 GraphQL/Exercises/8a Exercises.md",
     "React/FullStack Course/Part 8 GraphQL/8a GraphQL - server.md",
