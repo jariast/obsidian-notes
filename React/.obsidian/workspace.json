@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3ce19a1f2ddadb50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/NVC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Ultimate React/React Patterns/Context Module Function.md",
+                "file": "Interviews/NVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Ultimate React/React Patterns/Context Module Function.md",
+                "file": "Interviews/NVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Ultimate React/React Patterns/Context Module Function.md"
+                "file": "Interviews/NVC.md"
               }
             }
           },
@@ -156,8 +169,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8e26968cd2404225",
+  "active": "3ce19a1f2ddadb50",
   "lastOpenFiles": [
+    "React/Ultimate React/React Patterns/Context Module Function.md",
+    "Interviews/NVC.md",
     "React/Ultimate React/React Patterns/State Reducer.md",
     "React/Ultimate React/React Patterns/Prop Getters.md",
     "React/Ultimate React/React Patterns/Control Props.md",
@@ -184,9 +199,7 @@
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "Git Config",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
-    "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
     "DevOps Bootcamp",
-    "React/FullStack Course/Part 8 GraphQL/Exercises/8d Exercises.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises",
     "React/FullStack Course/Part 9 TypeScript",
     "Tmux",
