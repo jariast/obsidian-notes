@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+                "file": "VIM Config/Terminal Config.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+                "file": "VIM Config/Terminal Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+                "file": "VIM Config/Terminal Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md"
+                "file": "VIM Config/Terminal Config.md"
               }
             }
           },
@@ -170,13 +170,15 @@
   },
   "active": "8e26968cd2404225",
   "lastOpenFiles": [
-    "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
     "VIM Config/Resources.md",
     "VIM Config/Shortcuts.md",
+    "VIM Config/Terminal Config.md",
+    "VIM Config/Vs Code.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+    "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
     "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
     "React/Ultimate React/React Patterns/Context Module Function.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "TypeScript/Fullstack Course.md",
@@ -190,8 +192,6 @@
     "React/Alto Take Home/Lessons Learned.md",
     "DevOps Bootcamp/Install script.md",
     "DevOps Bootcamp/KickOff.md",
-    "VIM Config/Terminal Config.md",
-    "VIM Config/Vs Code.md",
     "VS Code Config/TroubleShooting.md",
     "VS Code Config/Initial Setup.md",
     "TypeScript/Basic Concepts.md",
