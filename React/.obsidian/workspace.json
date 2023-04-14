@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM Config/Resources.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM Config/Resources.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md"
               }
             }
           },
@@ -170,10 +170,10 @@
   },
   "active": "8e26968cd2404225",
   "lastOpenFiles": [
-    "VIM Config/Shortcuts.md",
-    "VIM Config/Resources.md",
-    "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
     "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
+    "VIM Config/Resources.md",
+    "VIM Config/Shortcuts.md",
+    "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
     "React/Ultimate React/React Patterns/Context Module Function.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
