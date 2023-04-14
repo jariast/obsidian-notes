@@ -40,7 +40,7 @@ end
 
 In the above code we're checking if the system is set to Dark or Light and we set the theme according to it.
 
-# Custom Theme
+## Custom Theme
 
 For [Nord](https://github.com/shaunsingh/nord.nvim) theme we add the following configuration to the end of the `plugins/user.lua` file:
 
@@ -65,3 +65,15 @@ We followed [Lazy's example](https://github.com/folke/lazy.nvim#examples) on how
 ```lua
 colorscheme = "nord",
 ```
+
+## LazyGit Config
+
+I was trying to do a Multi-line commit with no luck, I came to [this](thread) and they were saying that you can do this by using `Option + Enter` but it didn't work for me, so I decided to try using `Tab`. I followed LayGit [Config Docs](https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md#user-config) and edited `config.yml` file like this:
+
+```yml
+keybinding:
+  universal:
+    appendNewline: '<tab>'
+```
+
+Now I can use `Tab` to add new lines to the commit message.
