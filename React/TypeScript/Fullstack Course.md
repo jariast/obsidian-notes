@@ -33,3 +33,32 @@ Here the dev knows that when we pass the id `main_canvas` we'll always get an `H
 # Complex types
 [[9e Grand Finale#Types from other types ?]]
 
+# Iterating Enums
+
+When we iterate over numeric enums, we must be careful because we will loop through both the keys (strings) and the values (numbers), so we must use something like [this](https://bobbyhadz.com/blog/typescript-iterate-enum) to distinguish between the two types of values:
+
+```ts
+// ✅ For Numeric Enums
+enum Sizes {
+  Small,
+  Medium,
+  Large,
+}
+
+const keys = Object.keys(Sizes).filter((v) => isNaN(Number(v)));
+console.log(keys); // 👉️ ['Small', 'Medium', 'Large']
+
+keys.forEach((key, index) => {
+  // 👇️ Small, Medium, Large
+  console.log(key);
+});
+
+const values = Object.values(Sizes).filter((v) => !isNaN(Number(v)));
+console.log(values); // 👉️ [0, 1, 2]
+
+values.forEach((value) => {
+  // 👇️ 0, 1, 2
+  console.log(value);
+});
+
+```

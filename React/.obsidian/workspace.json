@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "spread",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/9d React with Types.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md"
               }
             }
           },
@@ -171,18 +171,18 @@
   },
   "active": "3ce19a1f2ddadb50",
   "lastOpenFiles": [
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+    "TypeScript/Fullstack Course.md",
     "VIM Config/Terminal Config.md",
+    "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
     "VIM Config/Resources.md",
     "VIM Config/Shortcuts.md",
     "VIM Config/Vs Code.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
-    "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
     "React/Ultimate React/React Patterns/Context Module Function.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
-    "TypeScript/Fullstack Course.md",
     "Interviews/NVC.md",
     "React/Ultimate React/React Patterns/State Reducer.md",
     "React/Ultimate React/React Patterns/Prop Getters.md",
