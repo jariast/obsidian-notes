@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIM Config/Terminal Config.md",
+                "file": "React/Misc Resources/Misc.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redux/Terminology.md",
+                "file": "React/Misc Resources/Misc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redux/Terminology.md",
+                "file": "React/Misc Resources/Misc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Redux/Terminology.md"
+                "file": "React/Misc Resources/Misc.md"
               }
             }
           },
@@ -177,11 +176,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3ce19a1f2ddadb50",
+  "active": "8e26968cd2404225",
   "lastOpenFiles": [
-    "React/Redux/General Info.md",
     "React/Redux/Misc Tips.md",
+    "VIM Config/Terminal Config.md",
     "React/Redux/Terminology.md",
+    "React/Redux/General Info.md",
     "React/Misc Resources/Misc.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "TypeScript/Fullstack Course.md",
@@ -193,7 +193,6 @@
     "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "TypeScript/Basic Concepts.md",
-    "VIM Config/Terminal Config.md",
     "VIM Config/Resources.md",
     "VIM Config/Shortcuts.md",
     "VIM Config/Vs Code.md",
