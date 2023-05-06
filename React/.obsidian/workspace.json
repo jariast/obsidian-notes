@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "React/Redux/Terminology.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "React/Redux/Terminology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "React/Redux/Terminology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Misc Resources/Misc.md"
+                "file": "React/Redux/Terminology.md"
               }
             }
           },
@@ -179,6 +179,10 @@
   },
   "active": "3ce19a1f2ddadb50",
   "lastOpenFiles": [
+    "React/Redux/General Info.md",
+    "React/Redux/Misc Tips.md",
+    "React/Redux/Terminology.md",
+    "React/Misc Resources/Misc.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "TypeScript/Fullstack Course.md",
     "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
@@ -189,9 +193,6 @@
     "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "TypeScript/Basic Concepts.md",
-    "React/Misc Resources/Misc.md",
-    "React/Redux/Misc Tips.md",
-    "React/Redux/General Info.md",
     "VIM Config/Terminal Config.md",
     "VIM Config/Resources.md",
     "VIM Config/Shortcuts.md",
@@ -204,7 +205,6 @@
     "React/Ultimate React/React Patterns/Compound Components.md",
     "Git Config/Multiple Git Accounts.md",
     "React/Alto Take Home/Lessons Learned.md",
-    "DevOps Bootcamp/Install script.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
