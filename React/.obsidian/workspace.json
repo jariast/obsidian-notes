@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "Interviews/Patterns/Problem solving.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Redux/Terminology.md",
+                "file": "React/Redux/Misc Tips.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "React/Redux/Misc Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Misc Resources/Misc.md",
+                "file": "React/Redux/Misc Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Misc Resources/Misc.md"
+                "file": "React/Redux/Misc Tips.md"
               }
             }
           },
@@ -176,13 +177,14 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "8e26968cd2404225",
+  "active": "3ce19a1f2ddadb50",
   "lastOpenFiles": [
-    "React/Redux/Misc Tips.md",
-    "VIM Config/Terminal Config.md",
     "React/Redux/Terminology.md",
+    "React/Redux/Misc Tips.md",
     "React/Redux/General Info.md",
+    "Interviews/Patterns/Problem solving.md",
     "React/Misc Resources/Misc.md",
+    "VIM Config/Terminal Config.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "TypeScript/Fullstack Course.md",
     "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
@@ -203,7 +205,6 @@
     "React/Ultimate React/React Patterns/Control Props.md",
     "React/Ultimate React/React Patterns/Compound Components.md",
     "Git Config/Multiple Git Accounts.md",
-    "React/Alto Take Home/Lessons Learned.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
