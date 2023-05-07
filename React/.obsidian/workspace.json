@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Redux/Misc Tips.md",
+                "file": "React/Redux/RTK Query.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Redux/Misc Tips.md",
+                "file": "React/Redux/RTK Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Redux/Misc Tips.md",
+                "file": "React/Redux/RTK Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Redux/Misc Tips.md"
+                "file": "React/Redux/RTK Query.md"
               }
             }
           },
@@ -179,8 +179,9 @@
   },
   "active": "3ce19a1f2ddadb50",
   "lastOpenFiles": [
-    "React/Redux/Terminology.md",
     "React/Redux/Misc Tips.md",
+    "React/Redux/RTK Query.md",
+    "React/Redux/Terminology.md",
     "React/Redux/General Info.md",
     "Interviews/Patterns/Problem solving.md",
     "React/Misc Resources/Misc.md",
@@ -204,7 +205,6 @@
     "React/Ultimate React/React Patterns/Prop Getters.md",
     "React/Ultimate React/React Patterns/Control Props.md",
     "React/Ultimate React/React Patterns/Compound Components.md",
-    "Git Config/Multiple Git Accounts.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
