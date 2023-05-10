@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "Interviews/Applica Corp.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "Interviews/Applica Corp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "Interviews/Applica Corp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md"
+                "file": "Interviews/Applica Corp.md"
               }
             }
           },
@@ -190,6 +190,8 @@
   },
   "active": "3ce19a1f2ddadb50",
   "lastOpenFiles": [
+    "Interviews/Patterns/Problem solving.md",
+    "Interviews/Applica Corp.md",
     "Interviews/System Design/Interview Strategies/General Tips.md",
     "Interviews/Algorithms/Crystal Balls Problem.md",
     "Interviews/Algorithms/Recursion.md",
@@ -198,7 +200,6 @@
     "Interviews/FSL (Fullstack Labs)/Coding Challenge.md",
     "Interviews/System Design/Sorting Algs.md",
     "Interviews/System Design/SLA.md",
-    "Interviews/Patterns/Problem solving.md",
     "React/Redux/RTK Query.md",
     "React/Redux/Terminology.md",
     "React/Redux/General Info.md",
@@ -215,7 +216,6 @@
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "TypeScript/Basic Concepts.md",
     "VIM Config/Resources.md",
-    "VIM Config/Shortcuts.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
