@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6957beaa3bb297a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/Meli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
+                "file": "Interviews/Meli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
+                "file": "Interviews/Meli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md"
+                "file": "Interviews/Meli.md"
               }
             }
           },
@@ -164,8 +177,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "964b2f6c57173d6f",
+  "active": "6957beaa3bb297a9",
   "lastOpenFiles": [
+    "Interviews/Meli.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
     "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
@@ -189,9 +204,7 @@
     "VIM Config/Terminal Config.md",
     "TypeScript/Fullstack Course.md",
     "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "TypeScript/Basic Concepts.md",
-    "VIM Config/Resources.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
