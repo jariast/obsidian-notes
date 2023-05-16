@@ -10,3 +10,6 @@ Configuraciones dentro de MercadoPago
 Umbrella - Herramientas internas, 
 
 React JS  - API Rest MySQL
+
+Contrato indefinido
+
