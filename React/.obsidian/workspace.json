@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Ultimate React/Testing React/Resources.md",
+                "file": "React/Ultimate React/Testing React/Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Ultimate React/Testing React/Resources.md",
+                "file": "React/Ultimate React/Testing React/Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Ultimate React/Testing React/Resources.md",
+                "file": "React/Ultimate React/Testing React/Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Ultimate React/Testing React/Resources.md"
+                "file": "React/Ultimate React/Testing React/Exercises.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "6957beaa3bb297a9",
   "lastOpenFiles": [
+    "React/Ultimate React/Testing React/Resources.md",
     "React/Ultimate React/Testing React/General Tips.md",
     "React/Ultimate React/Testing React/Exercises.md",
     "Angular/Work Lessons/Testing Observables.md",
@@ -204,7 +205,6 @@
     "React/Redux/Terminology.md",
     "React/Redux/General Info.md",
     "React/Misc Resources/Misc.md",
-    "VIM Config/Terminal Config.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
