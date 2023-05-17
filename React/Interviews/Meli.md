@@ -13,3 +13,12 @@ React JS  - API Rest MySQL
 
 Contrato indefinido
 
+
+# Questions
+
+Qué tan variados son los proyectos en los que trabajan?
+
+Qué stack usan generalmente?
+
+
+
