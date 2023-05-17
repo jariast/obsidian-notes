@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Work Lessons/Testing Observables.md",
+                "file": "React/Ultimate React/Testing React/Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Work Lessons/Testing Observables.md",
+                "file": "React/Ultimate React/Testing React/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/Work Lessons/Testing Observables.md",
+                "file": "React/Ultimate React/Testing React/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Work Lessons/Testing Observables.md"
+                "file": "React/Ultimate React/Testing React/Resources.md"
               }
             }
           },
@@ -179,6 +179,9 @@
   },
   "active": "6957beaa3bb297a9",
   "lastOpenFiles": [
+    "React/Ultimate React/Testing React/General Tips.md",
+    "React/Ultimate React/Testing React/Exercises.md",
+    "Angular/Work Lessons/Testing Observables.md",
     "Interviews/Meli.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
@@ -202,9 +205,6 @@
     "React/Redux/General Info.md",
     "React/Misc Resources/Misc.md",
     "VIM Config/Terminal Config.md",
-    "TypeScript/Fullstack Course.md",
-    "React/FullStack Course/Part 9 TypeScript/9b First Steps.md",
-    "TypeScript/Basic Concepts.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
