@@ -16,9 +16,11 @@ Contrato indefinido
 
 # Questions
 
-Qué tan variados son los proyectos en los que trabajan?
-
-Qué stack usan generalmente?
+- Qué tan variados son los proyectos en los que trabajan?
+- Qué stack usan generalmente?
+- Qué usan para hacer tracking de las horas?
+- CDP?
+- 
 
 
 

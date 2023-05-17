@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Ultimate React/Testing React/General Tips.md",
+                "file": "Interviews/Meli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Ultimate React/Testing React/General Tips.md",
+                "file": "Interviews/Meli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Ultimate React/Testing React/General Tips.md"
+                "file": "Interviews/Meli.md"
               }
             }
           },
@@ -176,10 +177,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "964b2f6c57173d6f",
+  "active": "6957beaa3bb297a9",
   "lastOpenFiles": [
-    "React/Ultimate React/Testing React/Exercises.md",
     "React/Ultimate React/Testing React/General Tips.md",
+    "React/Ultimate React/Testing React/Exercises.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "Interviews/Meli.md",
     "Interviews/Applica Corp.md",
