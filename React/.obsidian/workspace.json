@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Ultimate React/Testing React/Resources.md",
+                "file": "React/Misc Resources/Handy Code snippets.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Ultimate React/Testing React/Resources.md",
+                "file": "React/Misc Resources/Handy Code snippets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Ultimate React/Testing React/Resources.md",
+                "file": "React/Misc Resources/Handy Code snippets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Ultimate React/Testing React/Resources.md"
+                "file": "React/Misc Resources/Handy Code snippets.md"
               }
             }
           },
@@ -178,12 +178,16 @@
   },
   "active": "964b2f6c57173d6f",
   "lastOpenFiles": [
+    "React/Ultimate React/React Hooks/Custom Hooks.md",
+    "React/Ultimate React/Advanced Hooks/Async Custom Hook.md",
+    "React/Misc Resources/Handy Code snippets.md",
+    "React/Misc Resources/Misc.md",
+    "React/Ultimate React/Testing React/Resources.md",
     "React/Ultimate React/Testing React/General Tips.md",
     "React/Ultimate React/Testing React/Exercises.md",
     "Interviews/Meli.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "Interviews/Applica Corp.md",
-    "React/Ultimate React/Testing React/Resources.md",
     "Angular/Work Lessons/Testing Observables.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
@@ -200,10 +204,6 @@
     "Interviews/FSL (Fullstack Labs)/Coding Challenge.md",
     "Interviews/System Design/Sorting Algs.md",
     "Interviews/System Design/SLA.md",
-    "React/Redux/RTK Query.md",
-    "React/Redux/Terminology.md",
-    "React/Redux/General Info.md",
-    "React/Misc Resources/Misc.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
