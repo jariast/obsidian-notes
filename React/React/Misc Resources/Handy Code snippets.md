@@ -17,3 +17,19 @@ function deferred() {
 }
 ```
 
+We can use like this:
+
+```js
+const { promise, resolve } = deferred();
+...
+window.navigator.geolocation.getCurrentPosition.mockImplementation(
+	(callback) => {
+	  promise.then(() => callback(fakePosition));
+	}
+);
+
+....
+
+resolve();
+await promise;
+```
