@@ -14,4 +14,5 @@ await userEvent.click(increment)
 - We can use `screen.debug()` so we can see the entire structure of the HTML in the testing console.
 - Use [faker](https://www.npmjs.com/package/@faker-js/faker) to generate fake data.
 - Use [jest-dom](https://github.com/testing-library/jest-dom) assertions.
-- Solving act warnings [blog post](https://kentcdodds.com/blog/fix-the-not-wrapped-in-act-warning)
+- Solving act warnings [blog post](https://kentcdodds.com/blog/fix-the-not-wrapped-in-act-warning).
+- Override RTL's default `render` method as explained in [[Handy Code snippets#Testing Utils]]

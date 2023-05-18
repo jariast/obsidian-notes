@@ -33,3 +33,29 @@ window.navigator.geolocation.getCurrentPosition.mockImplementation(
 resolve();
 await promise;
 ```
+
+# Testing Utils
+
+In Testing Workshop, in the 8th section (Context and Custom Render method) the 3rd Extra Credit talks about replacing the default `render` method of RTL for a custom one which have all the required Context Providers.
+
+I think that the [video](https://epicreact.dev/modules/testing-react-apps/context-and-custom-render-method-extra-credit-solution-3) explains really well the process. Here's the example util:
+
+```js
+import * as React from 'react'
+import {render as rtlRender} from '@testing-library/react'
+import {ThemeProvider} from 'components/theme'
+
+function render(ui, {theme = 'light', ...options} = {}) {
+  const Wrapper = ({children}) => (
+    <ThemeProvider initialTheme={theme}>{children}</ThemeProvider>
+  )
+  return rtlRender(ui, {wrapper: Wrapper, ...options})
+}
+
+export * from '@testing-library/react'
+// override React Testing Library's render with our own
+export {render}
+
+```
+
+In the above example the app only requires the `ThemeProvider` but we can provide Router, etc etc
