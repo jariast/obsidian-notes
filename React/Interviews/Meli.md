@@ -20,7 +20,7 @@ Contrato indefinido
 - Qué stack usan generalmente?
 - Qué usan para hacer tracking de las horas?
 - CDP?
-- 
+- Movilidad interna?
 
 
 

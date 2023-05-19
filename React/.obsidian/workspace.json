@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Misc Resources/Handy Code snippets.md",
+                "file": "Interviews/Big O.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Misc Resources/Handy Code snippets.md",
+                "file": "Interviews/Big O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/Misc Resources/Handy Code snippets.md",
+                "file": "Interviews/Big O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Misc Resources/Handy Code snippets.md"
+                "file": "Interviews/Big O.md"
               }
             }
           },
@@ -191,11 +191,25 @@
   },
   "active": "6f683e57379866ae",
   "lastOpenFiles": [
+    "Interviews/Patterns/Problem solving.md",
+    "Interviews/Patterns/Sliding Window.md",
+    "Interviews/Patterns/Multiple Pointers.md",
+    "Interviews/Patterns/Frecuency Counter.md",
+    "Interviews/Algorithms/Recursion.md",
+    "Interviews/Algorithms/Linked Lists.md",
+    "Interviews/Algorithms/Hash Table.md",
+    "Interviews/Algorithms/Graphs.md",
+    "Interviews/Algorithms/Crystal Balls Problem.md",
+    "Interviews/Algorithms/Bubble Sort.md",
+    "Interviews/Algorithms/Binary Tree.md",
+    "Interviews/Algorithms/Binary Search.md",
+    "React/General React/State Approaches.md",
+    "Interviews/Meli.md",
+    "React/Alto Take Home/Lessons Learned.md",
+    "React/Misc Resources/Handy Code snippets.md",
     "React/Ultimate React/Testing React/General Tips.md",
     "React/Ultimate React/Testing React/Resources.md",
     "React/Ultimate React/Testing React/Exercises.md",
-    "React/Misc Resources/Handy Code snippets.md",
-    "Interviews/Meli.md",
     "React/Ultimate React/React Hooks/Custom Hooks.md",
     "React/Ultimate React/Advanced Hooks/Async Custom Hook.md",
     "React/Misc Resources/Misc.md",
@@ -203,20 +217,6 @@
     "Interviews/Applica Corp.md",
     "Angular/Work Lessons/Testing Observables.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9b.md",
-    "React/FullStack Course/Part 9 TypeScript/9c Typing an Express app.md",
-    "React/FullStack Course/Part 9 TypeScript/9d React with Types.md",
-    "React/FullStack Course/Part 9 TypeScript/9e Grand Finale.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
-    "Interviews/Patterns/Problem solving.md",
-    "Interviews/System Design/Interview Strategies/General Tips.md",
-    "Interviews/Algorithms/Crystal Balls Problem.md",
-    "Interviews/Algorithms/Recursion.md",
-    "Interviews/FSL (Fullstack Labs)/Script.md",
-    "React/Redux/Misc Tips.md",
-    "Interviews/FSL (Fullstack Labs)/Coding Challenge.md",
-    "Interviews/System Design/Sorting Algs.md",
-    "Interviews/System Design/SLA.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
