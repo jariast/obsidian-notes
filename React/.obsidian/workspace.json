@@ -4,47 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "4af724e31c2ead80",
-        "type": "tabs",
+        "id": "0accc51ae796e38d",
+        "type": "split",
         "children": [
           {
-            "id": "964b2f6c57173d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Ultimate React/Testing React/General Tips.md",
-                "mode": "source",
-                "source": false
+            "id": "4ea5037aafe4322d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6f683e57379866ae",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Interviews/Patterns/Problem solving.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "6f683e57379866ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/Big O.md",
-                "mode": "source",
-                "source": false
+            "id": "4af724e31c2ead80",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "964b2f6c57173d6f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Interviews/Algorithms/Crystal Balls Problem.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6957beaa3bb297a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Interviews/Meli.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "6957beaa3bb297a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/Meli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Big O.md",
+                "file": "Interviews/Patterns/Problem solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Big O.md",
+                "file": "Interviews/Patterns/Problem solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Big O.md"
+                "file": "Interviews/Patterns/Problem solving.md"
               }
             }
           },
@@ -191,7 +203,12 @@
   },
   "active": "6f683e57379866ae",
   "lastOpenFiles": [
+    "Interviews/Algorithms/Crystal Balls Problem.md",
+    "Interviews/Algorithms/Binary Search.md",
+    "Interviews/Algorithms/Binary Tree.md",
+    "React/Ultimate React/Testing React/General Tips.md",
     "Interviews/Patterns/Problem solving.md",
+    "Interviews/Big O.md",
     "Interviews/Patterns/Sliding Window.md",
     "Interviews/Patterns/Multiple Pointers.md",
     "Interviews/Patterns/Frecuency Counter.md",
@@ -199,15 +216,11 @@
     "Interviews/Algorithms/Linked Lists.md",
     "Interviews/Algorithms/Hash Table.md",
     "Interviews/Algorithms/Graphs.md",
-    "Interviews/Algorithms/Crystal Balls Problem.md",
     "Interviews/Algorithms/Bubble Sort.md",
-    "Interviews/Algorithms/Binary Tree.md",
-    "Interviews/Algorithms/Binary Search.md",
     "React/General React/State Approaches.md",
     "Interviews/Meli.md",
     "React/Alto Take Home/Lessons Learned.md",
     "React/Misc Resources/Handy Code snippets.md",
-    "React/Ultimate React/Testing React/General Tips.md",
     "React/Ultimate React/Testing React/Resources.md",
     "React/Ultimate React/Testing React/Exercises.md",
     "React/Ultimate React/React Hooks/Custom Hooks.md",
@@ -216,7 +229,6 @@
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "Interviews/Applica Corp.md",
     "Angular/Work Lessons/Testing Observables.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9c.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
