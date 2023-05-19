@@ -53,7 +53,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "Interviews/Meli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "Interviews/Meli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md"
+                "file": "Interviews/Meli.md"
               }
             }
           },
@@ -201,13 +202,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6f683e57379866ae",
+  "active": "6957beaa3bb297a9",
   "lastOpenFiles": [
+    "Interviews/Patterns/Problem solving.md",
     "Interviews/Algorithms/Crystal Balls Problem.md",
     "Interviews/Algorithms/Binary Search.md",
     "Interviews/Algorithms/Binary Tree.md",
     "React/Ultimate React/Testing React/General Tips.md",
-    "Interviews/Patterns/Problem solving.md",
     "Interviews/Big O.md",
     "Interviews/Patterns/Sliding Window.md",
     "Interviews/Patterns/Multiple Pointers.md",
