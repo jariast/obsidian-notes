@@ -4,60 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0accc51ae796e38d",
-        "type": "split",
+        "id": "4af724e31c2ead80",
+        "type": "tabs",
         "children": [
           {
-            "id": "4ea5037aafe4322d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6f683e57379866ae",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Interviews/Patterns/Problem solving.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "964b2f6c57173d6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/Algorithms/Crystal Balls Problem.md",
+                "mode": "preview",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "4af724e31c2ead80",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "964b2f6c57173d6f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Interviews/Algorithms/Crystal Balls Problem.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6957beaa3bb297a9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Interviews/Meli.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "6957beaa3bb297a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/Meli.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
+          },
+          {
+            "id": "0dd6d95dcdb71fae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cibernos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -131,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "Cibernos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "Cibernos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Patterns/Problem solving.md"
+                "file": "Cibernos.md"
               }
             }
           },
@@ -202,11 +190,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6f683e57379866ae",
+  "active": "0dd6d95dcdb71fae",
   "lastOpenFiles": [
+    "Interviews/Algorithms/Crystal Balls Problem.md",
+    "Cibernos.md",
     "Interviews/Meli.md",
     "Interviews/Patterns/Problem solving.md",
-    "Interviews/Algorithms/Crystal Balls Problem.md",
     "Interviews/Algorithms/Binary Search.md",
     "Interviews/Algorithms/Binary Tree.md",
     "React/Ultimate React/Testing React/General Tips.md",
@@ -229,7 +218,6 @@
     "React/Misc Resources/Misc.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
     "Interviews/Applica Corp.md",
-    "Angular/Work Lessons/Testing Observables.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
