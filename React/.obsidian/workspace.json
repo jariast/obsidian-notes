@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Meli.md",
+                "file": "Interviews/Patterns/Problem solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Meli.md",
+                "file": "Interviews/Patterns/Problem solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Meli.md"
+                "file": "Interviews/Patterns/Problem solving.md"
               }
             }
           },
@@ -202,8 +202,9 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "6957beaa3bb297a9",
+  "active": "6f683e57379866ae",
   "lastOpenFiles": [
+    "Interviews/Meli.md",
     "Interviews/Patterns/Problem solving.md",
     "Interviews/Algorithms/Crystal Balls Problem.md",
     "Interviews/Algorithms/Binary Search.md",
@@ -219,7 +220,6 @@
     "Interviews/Algorithms/Graphs.md",
     "Interviews/Algorithms/Bubble Sort.md",
     "React/General React/State Approaches.md",
-    "Interviews/Meli.md",
     "React/Alto Take Home/Lessons Learned.md",
     "React/Misc Resources/Handy Code snippets.md",
     "React/Ultimate React/Testing React/Resources.md",
