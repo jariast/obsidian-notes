@@ -10,5 +10,12 @@ Sector público.
 
 Banca y seguros.
 
-Vuelos
+Vuelos solo mios.
 
+Permiso Trabajo y Residencia.
+
+Contrato a Termino Indefinido en España.
+
+Permiso Residencia Mafe.
+
+40k Eur.
