@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Algorithms/Crystal Balls Problem.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6957beaa3bb297a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/Meli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dd6d95dcdb71fae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cibernos.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "54b7ae893977155b",
@@ -119,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cibernos.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cibernos.md",
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cibernos.md"
+                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md"
               }
             }
           },
@@ -176,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,11 +163,11 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "0dd6d95dcdb71fae",
+  "active": "964b2f6c57173d6f",
   "lastOpenFiles": [
     "Interviews/Algorithms/Crystal Balls Problem.md",
-    "Cibernos.md",
     "Interviews/Meli.md",
+    "Cibernos.md",
     "Interviews/Patterns/Problem solving.md",
     "Interviews/Algorithms/Binary Search.md",
     "Interviews/Algorithms/Binary Tree.md",
