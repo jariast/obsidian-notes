@@ -45,24 +45,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "99d8a78dbb3edad3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "91b1c5ef4a56957f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
