@@ -18,6 +18,49 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d25739beb7175897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/System Design/Interview Strategies/General Tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f95815a1d8558fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/Patterns/Problem solving.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "99d8a78dbb3edad3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b1c5ef4a56957f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interviews/Patterns/Problem solving.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -93,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+                "file": "Interviews/System Design/Interview Strategies/General Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+                "file": "Interviews/System Design/Interview Strategies/General Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md"
+                "file": "Interviews/System Design/Interview Strategies/General Tips.md"
               }
             }
           },
@@ -163,16 +206,22 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "964b2f6c57173d6f",
+  "active": "d25739beb7175897",
   "lastOpenFiles": [
-    "Interviews/Algorithms/Crystal Balls Problem.md",
-    "Interviews/Meli.md",
-    "Cibernos.md",
     "Interviews/Patterns/Problem solving.md",
+    "Interviews/System Design/Interview Strategies/General Tips.md",
+    "Interviews/Applica Corp.md",
+    "Interviews/Big O.md",
+    "Interviews/LC prep.md",
+    "Interviews/Meli.md",
+    "Interviews/Patterns.md",
+    "Interviews/NVC.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+    "Interviews/Algorithms/Crystal Balls Problem.md",
+    "Cibernos.md",
     "Interviews/Algorithms/Binary Search.md",
     "Interviews/Algorithms/Binary Tree.md",
     "React/Ultimate React/Testing React/General Tips.md",
-    "Interviews/Big O.md",
     "Interviews/Patterns/Sliding Window.md",
     "Interviews/Patterns/Multiple Pointers.md",
     "Interviews/Patterns/Frecuency Counter.md",
@@ -185,12 +234,6 @@
     "React/Alto Take Home/Lessons Learned.md",
     "React/Misc Resources/Handy Code snippets.md",
     "React/Ultimate React/Testing React/Resources.md",
-    "React/Ultimate React/Testing React/Exercises.md",
-    "React/Ultimate React/React Hooks/Custom Hooks.md",
-    "React/Ultimate React/Advanced Hooks/Async Custom Hook.md",
-    "React/Misc Resources/Misc.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9d.md",
-    "Interviews/Applica Corp.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
