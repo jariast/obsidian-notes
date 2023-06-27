@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/System Design/Interview Strategies/General Tips.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f95815a1d8558fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interviews/Patterns/Problem solving.md",
+                "file": "Interviews/Algorithms/Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/System Design/Interview Strategies/General Tips.md",
+                "file": "Interviews/Algorithms/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/System Design/Interview Strategies/General Tips.md",
+                "file": "Interviews/Algorithms/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/System Design/Interview Strategies/General Tips.md"
+                "file": "Interviews/Algorithms/Recursion.md"
               }
             }
           },
@@ -190,8 +178,26 @@
   },
   "active": "d25739beb7175897",
   "lastOpenFiles": [
+    "Interviews/Algorithms/Linked Lists.md",
+    "Interviews/Algorithms/Hash Table.md",
+    "Interviews/Algorithms/Graphs.md",
+    "Interviews/Algorithms/Crystal Balls Problem.md",
+    "Interviews/Algorithms/Bubble Sort.md",
+    "Interviews/Algorithms/Binary Tree.md",
+    "Interviews/Algorithms/Binary Search.md",
+    "Interviews/Patterns/Multiple Pointers.md",
     "Interviews/Patterns/Problem solving.md",
+    "Interviews/Patterns/Sliding Window.md",
+    "Interviews/Patterns/Frecuency Counter.md",
+    "Dev Env Setup/Basic Mac Config.md",
+    "Dev Env Setup/VIM Config/Terminal Config.md",
+    "Dev Env Setup",
+    "Dev Env Setup/VIM Config/Vs Code.md",
+    "Dev Env Setup/VIM Config/Shortcuts.md",
+    "Dev Env Setup/VIM Config/Resources.md",
+    "Dev Env Setup/Tmux/Misc.md",
     "Interviews/System Design/Interview Strategies/General Tips.md",
+    "Cibernos.md",
     "Interviews/Applica Corp.md",
     "Interviews/Big O.md",
     "Interviews/LC prep.md",
@@ -199,29 +205,12 @@
     "Interviews/Patterns.md",
     "Interviews/NVC.md",
     "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
-    "Interviews/Algorithms/Crystal Balls Problem.md",
-    "Cibernos.md",
-    "Interviews/Algorithms/Binary Search.md",
-    "Interviews/Algorithms/Binary Tree.md",
-    "React/Ultimate React/Testing React/General Tips.md",
-    "Interviews/Patterns/Sliding Window.md",
-    "Interviews/Patterns/Multiple Pointers.md",
-    "Interviews/Patterns/Frecuency Counter.md",
-    "Interviews/Algorithms/Recursion.md",
-    "Interviews/Algorithms/Linked Lists.md",
-    "Interviews/Algorithms/Hash Table.md",
-    "Interviews/Algorithms/Graphs.md",
-    "Interviews/Algorithms/Bubble Sort.md",
-    "React/General React/State Approaches.md",
-    "React/Alto Take Home/Lessons Learned.md",
-    "React/Misc Resources/Handy Code snippets.md",
-    "React/Ultimate React/Testing React/Resources.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
     "React/FullStack Course/Part 9 TypeScript/Exercises",
     "React/FullStack Course/Part 9 TypeScript",
-    "Tmux",
+    "Dev Env Setup/Tmux",
     "Interviews/FSL (Fullstack Labs)"
   ]
 }
