@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interviews/Algorithms/Recursion.md",
+                "file": "Dev Env Setup/VIM Config/Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interviews/Algorithms/Recursion.md",
+                "file": "Dev Env Setup/VIM Config/Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interviews/Algorithms/Recursion.md",
+                "file": "Dev Env Setup/VIM Config/Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interviews/Algorithms/Recursion.md"
+                "file": "Dev Env Setup/VIM Config/Shortcuts.md"
               }
             }
           },
@@ -178,6 +178,15 @@
   },
   "active": "d25739beb7175897",
   "lastOpenFiles": [
+    "Dev Env Setup/VIM Config/Vs Code.md",
+    "Dev Env Setup/VIM Config/Terminal Config.md",
+    "Dev Env Setup/VS Code Config/Initial Setup.md",
+    "Dev Env Setup/VS Code Config/TroubleShooting.md",
+    "Dev Env Setup/Basic Mac Config.md",
+    "Dev Env Setup/VIM Config/Resources.md",
+    "Dev Env Setup/VIM Config/Shortcuts.md",
+    "Dev Env Setup/Tmux/Misc.md",
+    "Interviews/Algorithms/Recursion.md",
     "Interviews/Algorithms/Linked Lists.md",
     "Interviews/Algorithms/Hash Table.md",
     "Interviews/Algorithms/Graphs.md",
@@ -189,22 +198,13 @@
     "Interviews/Patterns/Problem solving.md",
     "Interviews/Patterns/Sliding Window.md",
     "Interviews/Patterns/Frecuency Counter.md",
-    "Dev Env Setup/Basic Mac Config.md",
-    "Dev Env Setup/VIM Config/Terminal Config.md",
     "Dev Env Setup",
-    "Dev Env Setup/VIM Config/Vs Code.md",
-    "Dev Env Setup/VIM Config/Shortcuts.md",
-    "Dev Env Setup/VIM Config/Resources.md",
-    "Dev Env Setup/Tmux/Misc.md",
     "Interviews/System Design/Interview Strategies/General Tips.md",
     "Cibernos.md",
     "Interviews/Applica Corp.md",
     "Interviews/Big O.md",
     "Interviews/LC prep.md",
     "Interviews/Meli.md",
-    "Interviews/Patterns.md",
-    "Interviews/NVC.md",
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
