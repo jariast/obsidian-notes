@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e64cad1f5021bc43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Ultimate React/React Hooks/Custom Hooks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev Env Setup/VIM Config/Terminal Config.md",
+                "file": "React/Ultimate React/React Hooks/Custom Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev Env Setup/VIM Config/Terminal Config.md",
+                "file": "React/Ultimate React/React Hooks/Custom Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev Env Setup/VIM Config/Terminal Config.md"
+                "file": "React/Ultimate React/React Hooks/Custom Hooks.md"
               }
             }
           },
@@ -176,8 +188,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d25739beb7175897",
+  "active": "e64cad1f5021bc43",
   "lastOpenFiles": [
+    "React/Ultimate React/React Patterns/Compound Components.md",
+    "React/Ultimate React/React Patterns/Context Module Function.md",
+    "React/Ultimate React/React Patterns/Control Props.md",
+    "React/Ultimate React/React Patterns/Prop Getters.md",
+    "React/Ultimate React/React Patterns/State Reducer.md",
+    "React/Ultimate React/React Hooks/Custom Hooks.md",
+    "React/Misc Resources/Handy Code snippets.md",
+    "React/Ultimate React/Advanced Hooks/Async Custom Hook.md",
+    "Angular/Work Lessons/3rd party libraries WOES.md",
     "Dev Env Setup/VIM Config/Resources.md",
     "Dev Env Setup/Basic Mac Config.md",
     "Dev Env Setup/VIM Config/Shortcuts.md",
@@ -195,16 +216,7 @@
     "Interviews/Algorithms/Bubble Sort.md",
     "Interviews/Algorithms/Binary Tree.md",
     "Interviews/Algorithms/Binary Search.md",
-    "Interviews/Patterns/Multiple Pointers.md",
-    "Interviews/Patterns/Problem solving.md",
-    "Interviews/Patterns/Sliding Window.md",
-    "Interviews/Patterns/Frecuency Counter.md",
     "Dev Env Setup",
-    "Interviews/System Design/Interview Strategies/General Tips.md",
-    "Cibernos.md",
-    "Interviews/Applica Corp.md",
-    "Interviews/Big O.md",
-    "Interviews/LC prep.md",
     "VIM Config/Untitled",
     "Git Config",
     "DevOps Bootcamp",
