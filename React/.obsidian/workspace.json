@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev Env Setup/VIM Config/Shortcuts.md",
+                "file": "Dev Env Setup/VIM Config/Terminal Config.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev Env Setup/VIM Config/Shortcuts.md",
+                "file": "Dev Env Setup/VIM Config/Terminal Config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dev Env Setup/VIM Config/Shortcuts.md",
+                "file": "Dev Env Setup/VIM Config/Terminal Config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev Env Setup/VIM Config/Shortcuts.md"
+                "file": "Dev Env Setup/VIM Config/Terminal Config.md"
               }
             }
           },
@@ -178,14 +178,14 @@
   },
   "active": "d25739beb7175897",
   "lastOpenFiles": [
-    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
+    "Dev Env Setup/VIM Config/Resources.md",
+    "Dev Env Setup/Basic Mac Config.md",
     "Dev Env Setup/VIM Config/Shortcuts.md",
+    "React/FullStack Course/Part 9 TypeScript/Exercises/9e.md",
     "Dev Env Setup/VIM Config/Vs Code.md",
     "Dev Env Setup/VIM Config/Terminal Config.md",
     "Dev Env Setup/VS Code Config/Initial Setup.md",
     "Dev Env Setup/VS Code Config/TroubleShooting.md",
-    "Dev Env Setup/Basic Mac Config.md",
-    "Dev Env Setup/VIM Config/Resources.md",
     "Dev Env Setup/Tmux/Misc.md",
     "Interviews/Algorithms/Recursion.md",
     "Interviews/Algorithms/Linked Lists.md",
