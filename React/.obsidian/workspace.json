@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a719c7fe92da7d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,7 +198,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "e64cad1f5021bc43",
+  "active": "1a719c7fe92da7d8",
   "lastOpenFiles": [
     "React/Ultimate React/React Patterns/Compound Components.md",
     "React/Ultimate React/React Patterns/Context Module Function.md",
